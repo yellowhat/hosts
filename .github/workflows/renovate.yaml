@@ -1,0 +1,26 @@
+---
+name: Renovate
+
+on:  # yamllint disable-line rule:truthy
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  renovate:
+    name: Renovate
+    runs-on: ubuntu-latest
+    env:
+      LOG_LEVEL: debug
+      RENOVATE_GIT_AUTHOR: "Renovate Bot <bot@renovateapp.com>"
+      RENOVATE_TOKEN: "${{ secrets.RENOVATE_TOKEN }}"  # PAT with `repo` and `workflow` permission
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - name: Validate config
+        uses: docker://ghcr.io/renovatebot/renovate:37.214.0
+        with:
+          args: renovate-config-validator --strict
+      - name: Renovate
+        uses: docker://ghcr.io/renovatebot/renovate:37.214.0
+        with:
+          args: renovate
