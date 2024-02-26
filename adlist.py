@@ -125,7 +125,10 @@ if __name__ == "__main__":
         # match = re.sub("#.*", "", domain).strip().split()[-1].strip()
         # matches = re.findall(r"[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+", domain)
         # https://regexr.com/3au3g
-        matches = re.findall(r'(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z0-9][a-z0-9-]{0,61}[a-z0-9]', domain)
+        matches = re.findall(
+            r"(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z0-9][a-z0-9-]{0,61}[a-z0-9]",
+            domain,
+        )
         for match in matches:
             domains_filtered.add(match)
 
