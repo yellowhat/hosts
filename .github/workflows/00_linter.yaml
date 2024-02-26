@@ -1,0 +1,187 @@
+---
+name: Linter
+
+on:  # yamllint disable-line rule:truthy
+  workflow_call: # allow this workflow to be called from other workflows
+
+env:
+  PYTHON_VER: "3.12"
+
+jobs:
+  codespell:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: codespell-project/actions-codespell@94259cd8be02ad2903ba34a22d9c13de21a74461 # v2.0
+        with:
+          check_filenames: true
+          exclude_file: |
+            adlist.txt
+            allowlist.txt
+            blocklist.txt
+
+  yamllint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - run: pip install yamllint==1.35.1
+      - run: yamllint --list-files .
+      - run: yamllint --config-file .github/yamllint.yaml .
+
+  gitleaks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: docker://ghcr.io/gitleaks/gitleaks:v8.18.2
+        with:
+          args: detect --no-git --verbose --source /github/workspace/
+
+  secretlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: docker://ghcr.io/secretlint/secretlint:v8.1.2
+        with:
+          args: secretlint /github/workspace/**/*
+
+  semgrep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: docker://docker.io/returntocorp/semgrep:1.62
+        with:
+          args: semgrep ci --config p/github-actions
+
+  markdownlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: docker://ghcr.io/igorshubovych/markdownlint-cli:v0.39.0
+        with:
+          args: markdownlint "**/*.md"
+
+  markdown-table-formatter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: actions/setup-node@v4.0.2
+        with:
+          node-version: 20
+      - run: npm install --global markdown-table-formatter@1.5.0
+      - run: markdown-table-formatter --check "**/*.md"
+
+  shellcheck:
+    runs-on: ubuntu-latest
+    container:
+      image: docker.io/koalaman/shellcheck-alpine:v0.9.0
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - run: >
+          find . -not -path "./.git/**" -type f -exec grep -Eq '^#!(.*/|.*env +)(sh|bash|ksh)' {} \;
+          -exec echo {} + -exec shellcheck --external-sources {} +
+
+  shfmt:
+    runs-on: ubuntu-latest
+    container:
+      image: docker.io/mvdan/shfmt:v3.8.0-alpine
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - run: |
+          shfmt --list .
+          shfmt --indent 4 --case-indent --diff .
+
+  black:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: actions/setup-python@0a5c61591373683505ea898e09a3ea4f39ef2b9c # v5.0.0
+        with:
+          python-version: "3.12"
+      - uses: psf/black@6fdf8a4af28071ed1d079c01122b34c5d587207a # 24.2.0
+        with:
+          options: "--check --diff"
+
+  flake8:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: actions/setup-python@0a5c61591373683505ea898e09a3ea4f39ef2b9c # v5.0.0
+        with:
+          python-version: "3.12"
+      - run: pip install flake8==7.0.0
+      - run: flake8 --count --statistics --verbose --ignore E501 .
+
+  ruff:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: actions/setup-python@0a5c61591373683505ea898e09a3ea4f39ef2b9c # v5.0.0
+        with:
+          python-version: "${{ env.PYTHON_VER }}"
+      - run: pip install ruff==0.2.2
+      - run: ruff check --show-files .
+      - run: ruff check --diff .
+
+  pyflakes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: actions/setup-python@0a5c61591373683505ea898e09a3ea4f39ef2b9c # v5.0.0
+        with:
+          python-version: "${{ env.PYTHON_VER }}"
+      - run: pip install pyflakes==3.2.0
+      - run: pyflakes .
+
+  pyupgrade:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: actions/setup-python@0a5c61591373683505ea898e09a3ea4f39ef2b9c # v5.0.0
+        with:
+          python-version: "${{ env.PYTHON_VER }}"
+      - run: pip install pyupgrade==3.15.1
+      - run: find . -iname "*.py" | xargs pyupgrade
+
+  pylint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: actions/setup-python@0a5c61591373683505ea898e09a3ea4f39ef2b9c # v5.0.0
+        with:
+          python-version: "${{ env.PYTHON_VER }}"
+      - run: pip install pylint[spelling]==3.1.0
+      - run: |
+          pylint \
+              --verbose \
+              --disable C0301 \
+              $(find . -name "*.py")
+
+  mypy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: actions/setup-python@0a5c61591373683505ea898e09a3ea4f39ef2b9c # v5.0.0
+        with:
+          python-version: "${{ env.PYTHON_VER }}"
+      - run: pip install mypy==1.8.0
+      - run: mypy --install-types --non-interactive --strict .
+
+  vulture:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: actions/setup-python@0a5c61591373683505ea898e09a3ea4f39ef2b9c # v5.0.0
+        with:
+          python-version: "${{ env.PYTHON_VER }}"
+      - run: pip install vulture==2.11
+      - run: vulture --min-confidence 65 .
+
+  bandit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: actions/setup-python@0a5c61591373683505ea898e09a3ea4f39ef2b9c # v5.0.0
+        with:
+          python-version: "${{ env.PYTHON_VER }}"
+      - run: pip install bandit==1.7.7
+      - run: bandit --recursive .

@@ -1,0 +1,23 @@
+---
+name: Renovate
+
+on:  # yamllint disable-line rule:truthy
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  renovate:
+    name: Renovate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+
+      - name: Renovate
+        uses: renovatebot/github-action@a6e57359b32af9a54d5b3b6603011f50629a0a05 # v40.1.2
+        env:
+          LOG_LEVEL: debug
+        with:
+          configurationFile: .github/renovate.json
+          token: "${{ secrets.RENOVATE_TOKEN }}"  # PAT with `repo` and `workflow` permission
