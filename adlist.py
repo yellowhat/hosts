@@ -116,7 +116,7 @@ if __name__ == "__main__":
         domains.update(get_url(url))
     domains.remove("")
     print()
-    print(f"[INFO] Read: {len(domains):, }")
+    print(f"[INFO] Read: {len(domains) :, }")
     print()
 
     # Filter only domain
@@ -140,7 +140,7 @@ if __name__ == "__main__":
     for domain in allowlist:
         domains_filtered.discard(domain)
 
-    print(f"[INFO] Final: {len(domains_filtered):, }")
+    print(f"[INFO] Final: {len(domains_filtered) :, }")
     print()
 
     with open("adlist.txt", "w", encoding="utf8") as writer:
