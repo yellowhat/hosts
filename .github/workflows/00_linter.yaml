@@ -47,7 +47,7 @@ jobs:
   shfmt:
     runs-on: ubuntu-latest
     container:
-      image: docker.io/mvdan/shfmt:v${{ env.PYTHON_VER }}.0-alpine
+      image: docker.io/mvdan/shfmt:v3.7.0-alpine
     steps:
       - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
       - run: |
