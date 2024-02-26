@@ -112,11 +112,11 @@ if __name__ == "__main__":
     # Gather from urls
     domains = set()
     for idx, url in enumerate(URLS):
-        print(f"{idx:2d}/{len(URLS): 2d }", end="")
+        print(f"{idx: 2d }/{len(URLS): 2d}", end="")
         domains.update(get_url(url))
     domains.remove("")
     print()
-    print(f"[INFO] Read: {len(domains):,}")
+    print(f"[INFO] Read: {len(domains): , }")
     print()
 
     # Filter only domain
@@ -140,7 +140,7 @@ if __name__ == "__main__":
     for domain in allowlist:
         domains_filtered.discard(domain)
 
-    print(f"[INFO] Final: {len(domains_filtered): , }")
+    print(f"[INFO] Final: {len(domains_filtered):, }")
     print()
 
     with open("adlist.txt", "w", encoding="utf8") as obj:
