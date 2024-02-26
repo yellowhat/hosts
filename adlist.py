@@ -99,7 +99,7 @@ def get_url(url: str) -> set[str]:
     # nosemgrep: python.lang.security.audit.dynamic-urllib-use-detected.dynamic-urllib-use-detected
     with urlopen(url) as obj:
         items = set(obj.read().decode("utf8").splitlines())
-    print(f" - {len(items):9,} - {url}")
+    print(f" - {len(items): 9, } - {url}")
 
     return items
 
@@ -112,7 +112,7 @@ if __name__ == "__main__":
     # Gather from urls
     domains = set()
     for idx, url in enumerate(URLS):
-        print(f"{idx:2d}/{len(URLS):2d}", end="")
+        print(f"{idx:2d}/{len(URLS): 2d }", end="")
         domains.update(get_url(url))
     domains.remove("")
     print()
@@ -140,7 +140,7 @@ if __name__ == "__main__":
     for domain in allowlist:
         domains_filtered.discard(domain)
 
-    print(f"[INFO] Final: {len(domains_filtered):,}")
+    print(f"[INFO] Final: {len(domains_filtered): , }")
     print()
 
     with open("adlist.txt", "w", encoding="utf8") as obj:
