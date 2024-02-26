@@ -1,0 +1,20 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": [
+        "docker:enableMajor",
+        ":disableRateLimiting",
+        "helpers:pinGitHubActionDigests"
+    ],
+    "autodiscover": false,
+    "dependencyDashboard": true,
+    "repositories": [
+        "yellowhat/hosts"
+    ],
+    "baseBranches": [
+        "main"
+    ],
+    "labels": [
+        "renovate"
+    ],
+    "separateMajorMinor": true
+}
