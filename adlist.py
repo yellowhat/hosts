@@ -87,7 +87,7 @@ URLS = [
 def read_txt(filename: str) -> list[str]:
     """Read a file and remove empty and comment line"""
 
-    with open(filename, "r", encoding="UTF8") as obj:
+    with open(filename, encoding="UTF8") as obj:
         lines = obj.read().splitlines()
 
     return [line for line in lines if line and line[0] != "#"]
@@ -143,6 +143,6 @@ if __name__ == "__main__":
     print(f"[INFO] Final: {len(domains_filtered): ,}")
     print()
 
-    with open("adlist.txt", "w", encoding="utf8") as obj:
+    with open("adlist.txt", "w", encoding="utf8") as writer:
         for domain in sorted(domains_filtered):
-            obj.write(f"{domain}\n")
+            writer.write(f"{domain}\n")
