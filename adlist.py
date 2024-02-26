@@ -93,11 +93,11 @@ def read_txt(filename: str) -> list[str]:
     return [line for line in lines if line and line[0] != "#"]
 
 
-def get_url(url: str) -> set[str]:
+def get_url(_url: str) -> set[str]:
     """Fetch domains from url"""
 
     # nosemgrep: python.lang.security.audit.dynamic-urllib-use-detected.dynamic-urllib-use-detected
-    with urlopen(url) as obj:
+    with urlopen(_url) as obj:
         items = set(obj.read().decode("utf8").splitlines())
     print(f" - {len(items): 9, } - {url}")
 

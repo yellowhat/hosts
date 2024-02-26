@@ -36,12 +36,6 @@ jobs:
         with:
           args: detect --no-git --verbose --source /github/workspace/
 
-      # - uses: addnab/docker-run-action@4f65fabd2431ebc8d299f8e5a018d79a769ae185 # v3
-      #   with:
-      #     image: ghcr.io/gitleaks/gitleaks:v8.18.2
-      #     options: --volume ${{ github.workspace }}:/work:rw --workdir /work --privileged
-      #     run: gitleaks detect --verbose --source .
-
   shellcheck:
     runs-on: ubuntu-latest
     container:
