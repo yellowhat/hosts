@@ -4,7 +4,7 @@ MAKEFLAGS     += --no-print-directory
 MKFILE_DIR    := $(abspath $(dir $(lastword $(MAKEFILE_LIST))))
 
 .PHONY: adlist
-build: ## Build container
+adlist: ## Build container
 	@echo "[INFO] Generating new adlist"
 	@python adlist.py
 	@echo ""
