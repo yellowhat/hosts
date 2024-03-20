@@ -20,6 +20,12 @@ jobs:
             allowlist.txt
             blocklist.txt
 
+  typos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - uses: crate-ci/typos@v1.19.0
+
   yamllint:
     runs-on: ubuntu-latest
     steps:
