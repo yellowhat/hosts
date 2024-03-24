@@ -21,6 +21,10 @@ module.exports = {
             matchManagers: ["github-actions"],
             enabled: true,
         },
+        {
+            matchUpdateTypes: ["minor", "patch", "pin", "digest"],
+            automerge: true,
+        },
     ],
     "github-actions": {
         fileMatch: [".github/*/*.ya?ml$"],
