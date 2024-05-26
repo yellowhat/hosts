@@ -32,10 +32,10 @@ upstreams:
       - tcp-tls:dns3.digitalcourage.de:853
 
 bootstrapDns:
-    - tcp+udp:1.1.1.1
-    - upstream: https://dns.digitale-gesellschaft.ch/dns-query
-      ips:
-        - 185.95.218.42
+  - tcp+udp:1.1.1.1
+  - upstream: https://dns.digitale-gesellschaft.ch/dns-query
+    ips:
+      - 185.95.218.42
 
 blocking:
   denylists:
