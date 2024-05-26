@@ -62,7 +62,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # v4.1.6
-      - uses: docker://ghcr.io/igorshubovych/markdownlint-cli:v0.40.0
+      - uses: docker://ghcr.io/igorshubovych/markdownlint-cli:v0.41.0
         with:
           args: markdownlint "**/*.md"
 
