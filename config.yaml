@@ -14,6 +14,7 @@ prometheus:
   path: /metrics
 
 upstreams:
+  strategy: parallel_best
   groups:
     default:
       - tcp-tls:1.1.1.1  # one.one.one.one
@@ -31,15 +32,13 @@ upstreams:
       - tcp-tls:dns3.digitalcourage.de:853
 
 bootstrapDns:
-  - upstream: tcp-tls:dns3.digitalcourage.de:853
+  - tcp+udp:1.1.1.1
+  - upstream: https://dns.digitale-gesellschaft.ch/dns-query
     ips:
-      - 5.9.164.112
-  - upstream: tcp-tls:1.1.1.1
-    ips:
-      - 1.1.1.1
+      - 185.95.218.42
 
 blocking:
-  blackLists:
+  denylists:
     ads:
       - adlist.txt
       # - https://raw.githubusercontent.com/yellowhat/hosts/main/adlist.txt
@@ -146,7 +145,7 @@ blocking:
       #   msn.com
       #   www.msn.com
       #   secureclock.playready.microsoft.com
-  # whiteLists:
+  # allowlists:
   #   ads:
   #     - |
   #       # Amazon
