@@ -97,7 +97,7 @@ def read_txt(filename: str) -> list[str]:
     return [line for line in lines if line and line[0] != "#"]
 
 
-def get_url(_url: str, raw: Path) -> set[str]:
+def get_url(_url: str, write_dir: Path) -> set[str]:
     """Fetch domains from url"""
 
     # nosemgrep: python.lang.security.audit.dynamic-urllib-use-detected.dynamic-urllib-use-detected
@@ -105,7 +105,7 @@ def get_url(_url: str, raw: Path) -> set[str]:
         items = set(obj.read().decode("utf8").splitlines())
     print(f" - {len(items):9,} - {_url}")
 
-    out = raw / _url.replace("https://", "").replace("/", "_")
+    out = write_dir / _url.replace("https://", "").replace("/", "_")
     with open(out, "w", encoding="utf8") as obj:
         obj.write("\n".join(items))
 
