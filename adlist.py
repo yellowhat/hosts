@@ -106,7 +106,7 @@ def get_url(_url: str, raw: Path) -> set[str]:
     print(f" - {len(items):9,} - {_url}")
 
     out = raw / _url.replace("https://", "").replace("/", "_")
-    with open(out, "w") as obj:
+    with open(out, "w", encoding="utf8") as obj:
         obj.write("\n".join(items))
 
     return items
