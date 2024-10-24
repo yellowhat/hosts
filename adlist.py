@@ -2,6 +2,8 @@
 """Check adlist"""
 
 import re
+from pathlib import Path
+from shutil import rmtree
 from urllib.request import urlopen
 
 URLS = [
@@ -23,8 +25,11 @@ URLS = [
     "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
     "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
     "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt",
+    "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt",
+    "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt",
     "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt",
     "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt",
+    "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list",
     "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt",
     "https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt",
     "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
@@ -44,7 +49,7 @@ URLS = [
     "https://v.firebog.net/hosts/Easylist.txt",
     "https://v.firebog.net/hosts/Easyprivacy.txt",
     "https://v.firebog.net/hosts/Prigent-Ads.txt",
-    # "https://v.firebog.net/hosts/Prigent-Adult.txt",  # Huge 4.5M
+    # "https://v.firebog.net/hosts/Prigent-Adult.txt  # Huge 4.5M"
     "https://v.firebog.net/hosts/Prigent-Crypto.txt",
     "https://v.firebog.net/hosts/Prigent-Malware.txt",
     "https://v.firebog.net/hosts/RPiList-Malware.txt",
@@ -54,12 +59,11 @@ URLS = [
     "https://winhelp2002.mvps.org/hosts.txt",
     "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
     "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
-    # Others
+    # Others"
     "https://badmojr.gitlab.io/1hosts/Pro/domains.txt",
     "https://gist.githubusercontent.com/eterps/9ddb13a118a21a7d9c12c6165e0bbff5/raw/0ba4b04802a4b478d7777fb7abe76c8eac0c5bfc/Samsung%2520Smart-TV%2520Blocklist%2520Adlist%2520(for%2520PiHole)",
     "https://gist.githubusercontent.com/wassname/b594c63222f9e4c83ea23c818440901b/raw/1b0afd2aecf3a099f1681b1cf18fc0e6e2fa116a/Samsung%2520Smart-TV%2520Blocklist%2520Adlist%2520(for%2520PiHole)",
     "https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts",
-    "https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt",
     "https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt",
     "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts",
     "https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt",
@@ -75,12 +79,12 @@ URLS = [
     "https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-C2-Domain-Blocklist.txt",
     "https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-Payment-Sites-Domain-Blocklist.txt",
     "https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/WindowsSpyBlocker81.txt",
+    "https://raw.githubusercontent.com/esc0rtd3w/firestick-loader/master/misc/hosts.adfree",
     "https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt",
     "https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt",
     "https://raw.githubusercontent.com/pirat28/IHateTracker/master/iHateTracker.txt",
     "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt",
     "https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
-    "https://raw.githubusercontent.com/esc0rtd3w/firestick-loader/master/misc/hosts.adfree",
 ]
 
 
@@ -93,7 +97,7 @@ def read_txt(filename: str) -> list[str]:
     return [line for line in lines if line and line[0] != "#"]
 
 
-def get_url(_url: str) -> set[str]:
+def get_url(_url: str, raw: Path) -> set[str]:
     """Fetch domains from url"""
 
     # nosemgrep: python.lang.security.audit.dynamic-urllib-use-detected.dynamic-urllib-use-detected
@@ -101,10 +105,19 @@ def get_url(_url: str) -> set[str]:
         items = set(obj.read().decode("utf8").splitlines())
     print(f" - {len(items):9,} - {_url}")
 
+    out = raw / _url.replace("https://", "").replace("/", "_")
+    with open(out, "w") as obj:
+        obj.write("\n".join(items))
+
     return items
 
 
 if __name__ == "__main__":
+
+    raw = Path("raw")
+    if raw.exists():
+        rmtree(raw)
+    raw.mkdir()
 
     allowlist = read_txt("allowlist.txt")
     blocklist = read_txt("blocklist.txt")
@@ -113,7 +126,7 @@ if __name__ == "__main__":
     domains = set()
     for idx, url in enumerate(URLS):
         print(f"{idx: 2d}/{len(URLS): 2d}", end="")
-        domains.update(get_url(url))
+        domains.update(get_url(url, raw))
     domains.remove("")
     print()
     print(f"[INFO] Read: {len(domains):,}")
