@@ -25,8 +25,6 @@ upstreams:
       - tcp-tls:fdns2.dismail.de:853
       - tcp-tls:dnsforge.de:853
       - https://dnsforge.de/dns-query
-      - tcp-tls:clean.dnsforge.de:853
-      - https://clean.dnsforge.de/dns-query
       - https://anycast.uncensoreddns.org/dns-query
       - https://unicast.uncensoreddns.org/dns-query
       - tcp-tls:dns3.digitalcourage.de:853
