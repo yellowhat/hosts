@@ -145,7 +145,7 @@ jobs:
       - uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install pyupgrade==3.17.0
+      - run: pip install pyupgrade==3.19.1
       - run: find . -iname "*.py" | xargs pyupgrade
 
   pylint:
