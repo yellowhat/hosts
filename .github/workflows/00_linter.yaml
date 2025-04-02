@@ -38,7 +38,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
-      - uses: docker://ghcr.io/gitleaks/gitleaks:v8.18.4
+      - uses: docker://ghcr.io/gitleaks/gitleaks:v8.24.2
         with:
           args: detect --no-git --verbose --source /github/workspace/
 
