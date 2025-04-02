@@ -17,10 +17,10 @@ jobs:
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
       - name: Validate config
-        uses: docker://ghcr.io/renovatebot/renovate:38.21.4
+        uses: docker://ghcr.io/renovatebot/renovate:39.232.1
         with:
           args: renovate-config-validator --strict
       - name: Renovate
-        uses: docker://ghcr.io/renovatebot/renovate:38.21.4
+        uses: docker://ghcr.io/renovatebot/renovate:39.232.1
         with:
           args: renovate
