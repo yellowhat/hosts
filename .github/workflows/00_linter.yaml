@@ -104,7 +104,6 @@ jobs:
         with:
           python-version: "3.13"
       - uses: psf/black@1b2427a2b785cc4aac97c19bb4b9a0de063f9547 # 24.10.0
-          python-version: "3.12"
         with:
           options: "--check --diff"
 
