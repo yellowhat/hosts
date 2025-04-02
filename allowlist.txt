@@ -1,0 +1,71 @@
+# Amazon
+amazon.com
+www.amazon.com
+
+# Apple
+mediaservices.cdn-apple.com
+
+# Google
+google.com
+www.google.com
+clients1.google.com
+play.google.com
+gstatic.com
+www.gstatic.com
+t1.gstatic.com
+t2.gstatic.com
+t3.gstatic.com
+
+# Instagram
+i.instagram.com
+
+# Microsoft
+login.microsoftonline.com
+go.microsoft.com
+
+# Naver
+nid.naver.com
+mail.naver.com
+
+# Netflix
+api-global.netflix.com
+secure.netflix.com
+push.prod.netflix.com
+nrdp.prod.cloud.netflix.com
+nrdp-cell4.prod.ftl.netflix.com
+nrdp-ipv4.prod.ftl.netflix.com
+preapp.prod.partner.netflix.net
+occ-0-4419-1555.1.nflxso.net
+ipv4-c134-fra002-ix.1.oca.nflxvideo.net
+nrdp50-appboot.netflix.com
+nrdp51-appboot.netflix.com
+secure.netflix.com
+uiboot.netflix.com
+cdn-0.nflximg.com
+
+# Pinterest
+pinterest.com
+www.pinterest.com
+pinterest.co.kr
+www.pinterest.co.kr
+api.pinterest.com
+i.pinimg.com
+s.pinimg.com
+
+# Youtube
+youtube.com
+www.youtube.com
+i2.ytimg.com
+i3.ytimg.com
+i.ytimg.com
+redirector.googlevideo.com
+crl.pki.goog
+ocsp.pki.goog
+
+# Other
+imdb.com
+www.imdb.com
+yahoo.com
+www.yahoo.com
+vimeo.com
+www.vimeo.com
