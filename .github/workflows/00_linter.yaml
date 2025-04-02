@@ -89,7 +89,7 @@ jobs:
   shfmt:
     runs-on: ubuntu-latest
     container:
-      image: docker.io/mvdan/shfmt:v3.8.0-alpine
+      image: docker.io/mvdan/shfmt:v3.11.0-alpine
     steps:
       - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
       - run: |
