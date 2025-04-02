@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: codespell-project/actions-codespell@94259cd8be02ad2903ba34a22d9c13de21a74461 # v2.0
+      - uses: codespell-project/actions-codespell@406322ec52dd7b488e48c1c4b82e2a8b3a1bf630 # v2.1
         with:
           check_filenames: true
           exclude_file: |
@@ -24,13 +24,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: crate-ci/typos@935271f0204ebdf61717cf6caac31d8d115f1c14 # v1.23.6
+      - uses: crate-ci/typos@b1a1ef3893ff35ade0cfa71523852a49bfd05d19 # v1.31.1
 
   yamllint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - run: pip install yamllint==1.35.1
+      - run: pip install yamllint==1.37.0
       - run: yamllint --list-files .
       - run: yamllint --config-file .github/yamllint.yaml .
 
@@ -38,7 +38,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: docker://ghcr.io/gitleaks/gitleaks:v8.18.4
+      - uses: docker://ghcr.io/gitleaks/gitleaks:v8.24.2
         with:
           args: detect --no-git --verbose --source /github/workspace/
 
@@ -46,7 +46,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: docker://ghcr.io/secretlint/secretlint:v8.2.3
+      - uses: docker://ghcr.io/secretlint/secretlint:v8.5.0
         with:
           args: secretlint /github/workspace/**/*
 
@@ -54,7 +54,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: docker://docker.io/returntocorp/semgrep:1.84
+      - uses: docker://docker.io/returntocorp/semgrep:1.116
         with:
           args: semgrep ci --config p/github-actions
 
@@ -62,7 +62,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: docker://ghcr.io/igorshubovych/markdownlint-cli:v0.41.0
+      - uses: docker://ghcr.io/igorshubovych/markdownlint-cli:v0.44.0
         with:
           args: markdownlint "**/*.md"
 
@@ -70,7 +70,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: actions/setup-node@1e60f620b9541d16bece96c5465dc8ee9832be0b # v4.0.3
+      - uses: actions/setup-node@cdca7365b2dadb8aad0a33bc7601856ffabcc48e # v4.3.0
         with:
           node-version: 20
       - run: npm install --global markdown-table-formatter@1.6.1
@@ -89,7 +89,7 @@ jobs:
   shfmt:
     runs-on: ubuntu-latest
     container:
-      image: docker.io/mvdan/shfmt:v3.8.0-alpine
+      image: docker.io/mvdan/shfmt:v3.11.0-alpine
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
       - run: |
@@ -100,10 +100,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
+      - uses: actions/setup-python@8d9ed9ac5c53483de85588cdf95a591a75ab9f55 # v5.5.0
         with:
-          python-version: "3.12"
-      - uses: psf/black@b965c2a5026f8ba399283ba3e01898b012853c79 # 24.8.0
+          python-version: "3.13"
+      - uses: psf/black@1b2427a2b785cc4aac97c19bb4b9a0de063f9547 # 24.10.0
         with:
           options: "--check --diff"
 
@@ -111,20 +111,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
+      - uses: actions/setup-python@8d9ed9ac5c53483de85588cdf95a591a75ab9f55 # v5.5.0
         with:
-          python-version: "3.12"
-      - run: pip install flake8==7.1.1
+          python-version: "3.13"
+      - run: pip install flake8==7.2.0
       - run: flake8 --count --statistics --verbose --ignore E501 .
 
   ruff:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
+      - uses: actions/setup-python@8d9ed9ac5c53483de85588cdf95a591a75ab9f55 # v5.5.0
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install ruff==0.5.6
+      - run: pip install ruff==0.11.2
       - run: ruff check --show-files .
       - run: ruff check --diff .
 
@@ -132,30 +132,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
+      - uses: actions/setup-python@8d9ed9ac5c53483de85588cdf95a591a75ab9f55 # v5.5.0
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install pyflakes==3.2.0
+      - run: pip install pyflakes==3.3.2
       - run: pyflakes .
 
   pyupgrade:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
+      - uses: actions/setup-python@8d9ed9ac5c53483de85588cdf95a591a75ab9f55 # v5.5.0
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install pyupgrade==3.17.0
+      - run: pip install pyupgrade==3.19.1
       - run: find . -iname "*.py" | xargs pyupgrade
 
   pylint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
+      - uses: actions/setup-python@8d9ed9ac5c53483de85588cdf95a591a75ab9f55 # v5.5.0
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install pylint[spelling]==3.2.6
+      - run: pip install pylint[spelling]==3.3.6
       - run: |
           pylint \
               --verbose \
@@ -166,28 +166,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
+      - uses: actions/setup-python@8d9ed9ac5c53483de85588cdf95a591a75ab9f55 # v5.5.0
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install mypy==1.11.1
+      - run: pip install mypy==1.15.0
       - run: mypy --install-types --non-interactive --strict .
 
   vulture:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
+      - uses: actions/setup-python@8d9ed9ac5c53483de85588cdf95a591a75ab9f55 # v5.5.0
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install vulture==2.11
+      - run: pip install vulture==2.14
       - run: vulture --min-confidence 65 .
 
   bandit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
+      - uses: actions/setup-python@8d9ed9ac5c53483de85588cdf95a591a75ab9f55 # v5.5.0
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install bandit==1.7.9
+      - run: pip install bandit==1.8.3
       - run: bandit --recursive .
