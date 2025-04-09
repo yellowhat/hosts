@@ -69,3 +69,7 @@ yahoo.com
 www.yahoo.com
 vimeo.com
 www.vimeo.com
+goethe.de
+www.goethe.de
+plausible.io
+www.plausible.io
