@@ -16,7 +16,6 @@ jobs:
         with:
           check_filenames: true
           exclude_file: |
-            adlist.txt
             allowlist.txt
             blocklist.txt
 
