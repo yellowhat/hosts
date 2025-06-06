@@ -2,7 +2,7 @@
 SHELL          = /usr/bin/env bash -o pipefail
 .SHELLFLAGS    = -ec
 # renovate: datasource=docker depName=docker.io/golang
-GOLANG_VER     = 1.24.3
+GOLANG_VER     = 1.24.4
 
 .PHONY: it
 it: ## Start interactive go container
