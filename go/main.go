@@ -114,7 +114,14 @@ func readFile(path string) []string {
 		log.Panic("Error opening file:", err)
 	}
 
-	return strings.Split(string(body), "\n")
+	var lines []string
+	for  _, line := range strings.Split(string(body), "\n") {
+		if !strings.Contains(line, "#") {
+			lines = append(lines, line)
+		}
+	}
+
+	return lines
 }
 
 func writeToFile(urls []string) {
@@ -146,25 +153,35 @@ func main() {
 		log.Printf("Read %6d - %s\n", len(lines), url)
 
 		for _, line := range lines {
-			// Split each line by spaces
-			// parts := strings.Fields(line)
-			// if len(parts) > 0 {
-			// 	for _, part := range parts {
-			// 		result[part] = struct{}{}
-			// 	}
-			// }
-			result[line] = struct{}{}
+			// Split each line by spaces, due to:
+			// 0.0.0.0 ai-apps-empire.com
+			parts := strings.Fields(line)
+			if len(parts) > 0 {
+				for _, part := range parts {
+					// Not sure why but https://v.firebog.net/hosts/Prigent-Crypto.txt, is like:
+					// 0.0.0.0adminer.com
+					row := strings.ReplaceAll(part, "0.0.0.0", "")
+
+					result[row] = struct{}{}
+				}
+			}
 		}
 	}
 	log.Printf("Read %d from urls\n", len(result))
 
-	lines := readFile("blocklist.txt")
-	log.Printf("Read %d from blocklist.txt\n", len(lines))
-	for _, line := range lines {
-		if strings.Contains(line, "#") {
-			continue
-		}
+	linesBlock := readFile("blocklist.txt")
+	log.Printf("Read %d from blocklist.txt\n", len(linesBlock))
+	for _, line := range linesBlock {
 		result[line] = struct{}{}
+	}
+
+	linesAllow := readFile("allowlist.txt")
+	log.Printf("Read %d from allowlist.txt\n", len(linesAllow))
+	for _, line := range linesAllow {
+		_, exists := result[line]
+		if exists {
+			delete(result, line)
+		}
 	}
 
 	hosts := []string{}
