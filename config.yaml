@@ -111,32 +111,32 @@ blocking:
       # - https://raw.githubusercontent.com/pirat28/IHateTracker/master/iHateTracker.txt
       # - https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
       # - https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
-      # Block Samsung TV
-      - |
-        config.sbixby.com
-        musicid.samsungcloud.tv
-        empdownprd.samsungcloudsolution.com
-        configprd.samsungcloudsolution.net
-        time.samsungcloudsolution.com
-        time.samsungcloudsolution.net
-        cpu.samsungelectronics.com
-        img-resize-cdn-prod.samsungnyc.com
-        kpu.samsungelectronics.com
-        gld.push.samsungosp.com
-        osb-apps.samsungqbe.com
-        osb-auth-eusvc.samsungqbe.com
-        osb-tnc-v2-appsacc.samsungqbe.com
-        osb-v1-alb.samsungqbe.com
-        osb-v1-eusvc.samsungqbe.com
-        osb-v1.samsungqbe.com
-        samsungtifa.com
-        crl.tivuon.tv
-        selfsigned.ueiwsp.com
-      # Block others
-      - |
-        msn.com
-        www.msn.com
-        secureclock.playready.microsoft.com
+      # # Block Samsung TV
+      # - |
+      #   config.sbixby.com
+      #   musicid.samsungcloud.tv
+      #   empdownprd.samsungcloudsolution.com
+      #   configprd.samsungcloudsolution.net
+      #   time.samsungcloudsolution.com
+      #   time.samsungcloudsolution.net
+      #   cpu.samsungelectronics.com
+      #   img-resize-cdn-prod.samsungnyc.com
+      #   kpu.samsungelectronics.com
+      #   gld.push.samsungosp.com
+      #   osb-apps.samsungqbe.com
+      #   osb-auth-eusvc.samsungqbe.com
+      #   osb-tnc-v2-appsacc.samsungqbe.com
+      #   osb-v1-alb.samsungqbe.com
+      #   osb-v1-eusvc.samsungqbe.com
+      #   osb-v1.samsungqbe.com
+      #   samsungtifa.com
+      #   crl.tivuon.tv
+      #   selfsigned.ueiwsp.com
+      # # Block others
+      # - |
+      #   msn.com
+      #   www.msn.com
+      #   secureclock.playready.microsoft.com
   allowlists:
     ads:
       - |
@@ -149,6 +149,9 @@ blocking:
       - |
         goethe.de
         *.goethe.de
+      - |
+        plausible.io
+        *.plausible.io
       # Required for Samsung TV (Youtube)
       # - |
       #   time.samsungcloudsolution.com
@@ -178,7 +181,7 @@ clientLookup:
     - 1
 
 log:
-  level: info
+  level: debug # info
   # format: json
   format: text
   privacy: false
