@@ -5,11 +5,11 @@
 1. Generate new list
 
     ```bash
-    make adlist
+    just adlist
     ```
 
 2. Run test:
 
     ```bash
-    make test
+    just test
     ```
