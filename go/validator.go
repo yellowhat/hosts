@@ -12,7 +12,7 @@ import (
 
 const (
 	maxDomainNameLength = 255 // https://www.rfc-editor.org/rfc/rfc1034#section-3.1
-	dnsLabelPattern = `[a-zA-Z0-9_-]{1,63}`
+	dnsLabelPattern     = `[a-zA-Z0-9_-]{1,63}`
 )
 
 // Validate a domain name, but with extra flexibility:

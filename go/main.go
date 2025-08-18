@@ -6,6 +6,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"path/filepath"
 	"sort"
 	"strings"
 )
@@ -92,6 +93,17 @@ var urls = []string{
 	"https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
 }
 
+func cleanLines(body []byte) []string {
+	var lines []string
+	for _, line := range strings.Split(string(body), "\n") {
+		if !strings.HasPrefix(line, "#") {
+			lines = append(lines, line)
+		}
+	}
+
+	return lines
+}
+
 func readURL(url string) []string {
 	response, err := http.Get(url)
 	if err != nil {
@@ -102,10 +114,23 @@ func readURL(url string) []string {
 	body, err := io.ReadAll(response.Body)
 	if err != nil {
 		log.Panic("Error reading response body:", err)
-		// return []string{""}
 	}
 
-	return strings.Split(string(body), "\n")
+	err = os.MkdirAll("raw", 0755)
+	if err != nil {
+		log.Panic("Error creating raw directory:", err)
+	}
+
+	filename := strings.TrimPrefix(url, "https://")
+	filename = strings.ReplaceAll(filename, "/", "_")
+
+	filePath := filepath.Join("raw", filename)
+	err = os.WriteFile(filePath, body, 0644)
+	if err != nil {
+		log.Panic("Error writing file:", err)
+	}
+
+	return cleanLines(body)
 }
 
 func readFile(path string) []string {
@@ -114,14 +139,7 @@ func readFile(path string) []string {
 		log.Panic("Error opening file:", err)
 	}
 
-	var lines []string
-	for  _, line := range strings.Split(string(body), "\n") {
-		if !strings.Contains(line, "#") {
-			lines = append(lines, line)
-		}
-	}
-
-	return lines
+	return cleanLines(body)
 }
 
 func writeToFile(urls []string) {
@@ -140,7 +158,7 @@ func writeToFile(urls []string) {
 		}
 	}
 
-	err = writer.Flush();
+	err = writer.Flush()
 	if err != nil {
 		log.Panic("Error flushing writer:", err)
 	}
