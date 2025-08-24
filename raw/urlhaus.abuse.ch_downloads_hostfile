@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-08-23 02:19:24 (UTC)                      #
+# Last updated: 2025-08-24 02:42:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -13,7 +13,6 @@
 127.0.0.1	178.17.58.0x31
 127.0.0.1	24x7support.top
 127.0.0.1	52mj.susuwei.cn
-127.0.0.1	aaqqjjss.sbs
 127.0.0.1	abissnet.net
 127.0.0.1	acc.jiangsujiaxue.com
 127.0.0.1	acc.nmphelp.top
@@ -31,11 +30,12 @@
 127.0.0.1	alarmline.com.br
 127.0.0.1	alien-training.com
 127.0.0.1	allendostmen.com
+127.0.0.1	alphabitcapital.info
+127.0.0.1	amazon-us53.com
 127.0.0.1	amuletweb.com
 127.0.0.1	anapa-zarya.ru
 127.0.0.1	anondrop.net
 127.0.0.1	antvietnam.com
-127.0.0.1	api.co-operativefinance.com
 127.0.0.1	api.ewfiles.net
 127.0.0.1	app-monespaces-securpass-assurances.art
 127.0.0.1	apple-service93.ru
@@ -52,6 +52,7 @@
 127.0.0.1	backupso.com
 127.0.0.1	bankgarantia.ru
 127.0.0.1	bestieslos.com
+127.0.0.1	bigbag.wootraining.certificacion.cl
 127.0.0.1	bknxmf.com
 127.0.0.1	blackhatusa.com
 127.0.0.1	blaiz.me
@@ -60,10 +61,9 @@
 127.0.0.1	bmdcompany.com
 127.0.0.1	book.organzoperate.com
 127.0.0.1	book.rollingvideogames.com
-127.0.0.1	booking.captcha-message-extranet.com
-127.0.0.1	boos.caramelmojo.com
 127.0.0.1	botnet.eu.cc
 127.0.0.1	boylegmfg.com
+127.0.0.1	bracell.latitude.net.br
 127.0.0.1	bradreddekopp.com
 127.0.0.1	bridgeroad.maverickpreviews.com
 127.0.0.1	brightworks.cz
@@ -74,11 +74,9 @@
 127.0.0.1	camp.organzoperate.com
 127.0.0.1	caravella.com.br
 127.0.0.1	cast.organzoperate.com
-127.0.0.1	cat.xiaoshabi.nl
 127.0.0.1	catbaparadisehotel.com.vn
 127.0.0.1	ccilogistica.com.br
 127.0.0.1	cdaonline.com.ar
-127.0.0.1	cdn.file6.goodid.com
 127.0.0.1	cegelecinfo.fr
 127.0.0.1	celebratingseniors.net
 127.0.0.1	cerni-mix-01174839212-snort-20.resourcemaster.net
@@ -115,8 +113,6 @@
 127.0.0.1	data.yhydl.com
 127.0.0.1	daviddarle.fr
 127.0.0.1	dcrun.co.uk
-127.0.0.1	dcwblida.dz
-127.0.0.1	delp-heizungsbau.de
 127.0.0.1	detail-booking.com.br
 127.0.0.1	device.redirec.com
 127.0.0.1	dezcom.com
@@ -137,6 +133,7 @@
 127.0.0.1	doujinshi.in
 127.0.0.1	down.54nb.com
 127.0.0.1	down.magicpacketlease.org
+127.0.0.1	down.pcclear.com
 127.0.0.1	down.qqfarmer.com.cn
 127.0.0.1	download.caihong.com
 127.0.0.1	download.doumaibiji.cn
@@ -144,7 +141,6 @@
 127.0.0.1	download.innovare.no
 127.0.0.1	download.kaobeitu.com
 127.0.0.1	download.pdf00.cn
-127.0.0.1	download.pdf00.com
 127.0.0.1	download.suxiazai.com
 127.0.0.1	dreamwatchevent.com
 127.0.0.1	drivedigital.co.in
@@ -152,6 +148,7 @@
 127.0.0.1	dusttv.com
 127.0.0.1	dweixin.cn
 127.0.0.1	e4l4.com
+127.0.0.1	eclipseservices.xyz
 127.0.0.1	educacom.com.br
 127.0.0.1	electri.billregulator.com
 127.0.0.1	electrum-dogecoin.com
@@ -171,7 +168,6 @@
 127.0.0.1	first-security-verden.de
 127.0.0.1	fly.qingyuji.cn
 127.0.0.1	flyingmutts.com
-127.0.0.1	fractalcheats.shop
 127.0.0.1	frozi.cc
 127.0.0.1	ftp.ywxww.net
 127.0.0.1	fullstacknir.com
@@ -182,9 +178,11 @@
 127.0.0.1	gestionycobranzas.com
 127.0.0.1	glaustralia.com
 127.0.0.1	googletagamnager.com
+127.0.0.1	goth.wtf
 127.0.0.1	greenmile.ng
 127.0.0.1	grikom.info
 127.0.0.1	guneydoguhirdavat.com.tr
+127.0.0.1	hasakiraw.asia
 127.0.0.1	hasalltalent.com
 127.0.0.1	hitman-pro.ru
 127.0.0.1	hitstation.nl
@@ -234,7 +232,6 @@
 127.0.0.1	lindenappliances.co.za
 127.0.0.1	lindnerelektroanlagen.de
 127.0.0.1	linkssl.com
-127.0.0.1	livetrack.in
 127.0.0.1	local-update.com
 127.0.0.1	lomejordesalamanca.es
 127.0.0.1	m-global.hksty.net
@@ -255,18 +252,20 @@
 127.0.0.1	moonloaderupdate.ru
 127.0.0.1	mundocarnes.cl
 127.0.0.1	muzzumilruheel.com
-127.0.0.1	mydllink.xyz
 127.0.0.1	namaacont.com
 127.0.0.1	namthaibinh.net
 127.0.0.1	ndirection.kr
 127.0.0.1	noithaticon.vn
+127.0.0.1	northernvirginiaeyeassociates.com
 127.0.0.1	ntf.mohtash.ir
+127.0.0.1	nusatoyota.co.id
 127.0.0.1	nvtai.id.vn
 127.0.0.1	ny.lshdw.cc
 127.0.0.1	o24o.ru
 127.0.0.1	ojang.pe.kr
 127.0.0.1	okhan.net
 127.0.0.1	oknoplastik.sk
+127.0.0.1	olingerphoto.com
 127.0.0.1	onedomainpro.com
 127.0.0.1	onfiltre.com.tr
 127.0.0.1	onlinetanecni.cz
@@ -308,17 +307,13 @@
 127.0.0.1	pns.org.pk
 127.0.0.1	pobedastaff.ru
 127.0.0.1	prloglink.prsa7.top
-127.0.0.1	profalsam.com
 127.0.0.1	ptc.wa.com.pk
 127.0.0.1	ptgut.co.id
 127.0.0.1	public.demo.securecloudsandbox.com
 127.0.0.1	qiniuyunxz.yxflzs.com
 127.0.0.1	qlqd5zqefmkcr34a.onion.sh
 127.0.0.1	quanlyphongnet.com
-127.0.0.1	quovadisholidays.testingdemo.net
 127.0.0.1	ramactools.net
-127.0.0.1	rapidloader.org
-127.0.0.1	razorcrypter.com
 127.0.0.1	reauthenticator.com
 127.0.0.1	records.dennisign.se
 127.0.0.1	redlk.com
@@ -340,7 +335,6 @@
 127.0.0.1	screensconnct.com
 127.0.0.1	sdvgpro.ru
 127.0.0.1	seamlessvideowall.com
-127.0.0.1	sec.xiaoshabi.nl
 127.0.0.1	secure.third-domain.su
 127.0.0.1	sfa.com.ar
 127.0.0.1	sg123.net
@@ -376,6 +370,7 @@
 127.0.0.1	tanscarattorneys.co.tz
 127.0.0.1	tapestryoftruth.com
 127.0.0.1	tcgroup.com.au
+127.0.0.1	tecunonline.com
 127.0.0.1	telegramcn.co
 127.0.0.1	temirtau-adm.ru
 127.0.0.1	tengfeidn.com
@@ -385,9 +380,11 @@
 127.0.0.1	tirtasentosa.com
 127.0.0.1	tok-info.com
 127.0.0.1	topmedsolution.com
+127.0.0.1	tpp.tj
 127.0.0.1	transparenciacanaa.com.br
 127.0.0.1	treinamento.convenio.to.gov.br
 127.0.0.1	trtmyanmar.com
+127.0.0.1	truehc.org
 127.0.0.1	trungtambaohanhmaylanh.com
 127.0.0.1	ukguk71.ru
 127.0.0.1	upchemicals.co.in
@@ -397,6 +394,7 @@
 127.0.0.1	upgradegc.com
 127.0.0.1	uploadtree.com
 127.0.0.1	ustaxes.net
+127.0.0.1	uytghkhl.sbs
 127.0.0.1	vagler.ru
 127.0.0.1	vault.appsuites.ai
 127.0.0.1	vegasnights.co.za
@@ -414,7 +412,6 @@
 127.0.0.1	vtb-promo.online
 127.0.0.1	vulnfactory.org
 127.0.0.1	website.mypetapp.co.za
-127.0.0.1	windatem.com
 127.0.0.1	windomstatetheater.com
 127.0.0.1	woop-bicks.com
 127.0.0.1	wp.grovespras.com
@@ -437,6 +434,8 @@
 127.0.0.1	www.divametalart.com
 127.0.0.1	www.djargish.com
 127.0.0.1	www.drgenov.com
+127.0.0.1	www.evoribusiness.com
+127.0.0.1	www.evoribusiness.com4
 127.0.0.1	www.first-security-verden.de
 127.0.0.1	www.frontier.net.pk
 127.0.0.1	www.hostingcloud.science
@@ -460,6 +459,7 @@
 127.0.0.1	www.playtown.co.za
 127.0.0.1	www.reifenquick.de
 127.0.0.1	www.saf-oil.ru
+127.0.0.1	www.salonmarketing.ca
 127.0.0.1	www.silver-hubdachwohnwagen.de
 127.0.0.1	www.ss-01.com
 127.0.0.1	www.supercf.co.ke
