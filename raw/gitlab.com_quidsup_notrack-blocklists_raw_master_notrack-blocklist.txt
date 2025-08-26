@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 24 Aug 2025
+# Updated: 25 Aug 2025
 # LatestVersion 24.01
-# Domain Count: 15681
+# Domain Count: 15680
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -957,7 +957,6 @@ civicscience.com #CivicScience - Tracker
 cj.com #Conversant Media - Advertising
 clarity.ms #Microsoft Clarity - Tracker
 clarium.io #ClarityAd - Advertising
-claspedtwelve.com #AdMeasures - Advertising
 clc.stackoverflow.com #Stack Overflow - Tracker
 clean.gg #Index Exchange - Advertising
 clearbit.com #Clearbit - Tracker
