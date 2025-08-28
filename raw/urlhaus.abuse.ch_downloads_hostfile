@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-08-27 02:16:07 (UTC)                      #
+# Last updated: 2025-08-28 02:15:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,7 +11,6 @@
 127.0.0.1	111101111.ru
 127.0.0.1	123.ywxww.net
 127.0.0.1	1717.1000uc.com
-127.0.0.1	1h.vuregyy1.ru
 127.0.0.1	1h.xeteloi4.ru
 127.0.0.1	24x7support.top
 127.0.0.1	52mj.susuwei.cn
@@ -28,17 +27,18 @@
 127.0.0.1	advansys.com.ar
 127.0.0.1	adver.com.br
 127.0.0.1	advustech.com
-127.0.0.1	afrihealthexpo.org
 127.0.0.1	agapi.cqjjb.cn
+127.0.0.1	ahmm.ca
 127.0.0.1	alarmline.com.br
 127.0.0.1	alien-training.com
 127.0.0.1	allendostmen.com
+127.0.0.1	allseasontrading.net
 127.0.0.1	amuletweb.com
 127.0.0.1	anapa-zarya.ru
 127.0.0.1	anondrop.net
 127.0.0.1	antvietnam.com
-127.0.0.1	api.co-operativefinance.com
 127.0.0.1	api.ewfiles.net
+127.0.0.1	api.ezilax.com
 127.0.0.1	app-monespaces-securpass-assurances.art
 127.0.0.1	apple-service93.ru
 127.0.0.1	areyouready.co.za
@@ -49,15 +49,18 @@
 127.0.0.1	assuredfix.com
 127.0.0.1	augsburg-auto.com
 127.0.0.1	aulist.com
+127.0.0.1	autoconfig.mestierecolombia.com
+127.0.0.1	autodiscover.mestierecolombia.com
 127.0.0.1	autoiwc.ru
 127.0.0.1	axhelp.top
 127.0.0.1	babayaga.ro
 127.0.0.1	backupso.com
 127.0.0.1	bankgarantia.ru
+127.0.0.1	bernnaum.com
 127.0.0.1	bestieslos.com
 127.0.0.1	blaiz.me
 127.0.0.1	blessdayservices.org
-127.0.0.1	blockchainnportfolio.com
+127.0.0.1	blit.co.za
 127.0.0.1	blogs.sokun.jp
 127.0.0.1	bmdcompany.com
 127.0.0.1	book.organzoperate.com
@@ -70,6 +73,7 @@
 127.0.0.1	brightworks.cz
 127.0.0.1	buscascolegios.diit.cl
 127.0.0.1	buzz.organzoperate.com
+127.0.0.1	camitel.com
 127.0.0.1	camp.organzoperate.com
 127.0.0.1	caravella.com.br
 127.0.0.1	cast.organzoperate.com
@@ -85,12 +89,11 @@
 127.0.0.1	chaparstore.com
 127.0.0.1	chat-server.maverickpreviews.com
 127.0.0.1	checkinetverifk.com
+127.0.0.1	chifacanton.phuyufact.com
 127.0.0.1	chinaapper.com
-127.0.0.1	chinatwn.1ondrv.cloud
 127.0.0.1	chiptune.com
 127.0.0.1	chuguadventures.co.tz
 127.0.0.1	city.organzoperate.com
-127.0.0.1	ck1.bnwqdudbwqxxbiqwnjdwnqw.cfd
 127.0.0.1	classroomseven.com
 127.0.0.1	clc.is
 127.0.0.1	cnc.zinomc.com
@@ -104,6 +107,7 @@
 127.0.0.1	continentalgroup.net.in
 127.0.0.1	cooptraexxon.com
 127.0.0.1	crew.organzoperate.com
+127.0.0.1	crimefreesoftware.com
 127.0.0.1	crolim.com
 127.0.0.1	crystalpvp.ru
 127.0.0.1	cs.go.kg
@@ -165,6 +169,7 @@
 127.0.0.1	evoribusiness.com
 127.0.0.1	fakers.co.jp
 127.0.0.1	farschid.de
+127.0.0.1	file-neww-downready.digital
 127.0.0.1	file.blackint3.com
 127.0.0.1	file.edunet.ac
 127.0.0.1	file.uhsea.com
@@ -199,6 +204,7 @@
 127.0.0.1	iiiconstruction.net
 127.0.0.1	immobilien.ink
 127.0.0.1	imtoken8.cc
+127.0.0.1	info-ups.com
 127.0.0.1	innaflux.com
 127.0.0.1	intelligentopennetworkingawards.com
 127.0.0.1	investtrad.com
@@ -228,7 +234,6 @@
 127.0.0.1	kosmetolodzy.com
 127.0.0.1	kramersmarionnettes.com
 127.0.0.1	kriez.work
-127.0.0.1	krishnaplastpack.com
 127.0.0.1	kuzina-teatr.ru
 127.0.0.1	lindenappliances.co.za
 127.0.0.1	lindnerelektroanlagen.de
@@ -260,11 +265,11 @@
 127.0.0.1	namthaibinh.net
 127.0.0.1	ncxps.com
 127.0.0.1	ndirection.kr
+127.0.0.1	netextender-sonicwall.org
 127.0.0.1	noithaticon.vn
 127.0.0.1	ntf.mohtash.ir
 127.0.0.1	nusatoyota.co.id
 127.0.0.1	ny.lshdw.cc
-127.0.0.1	o24o.ru
 127.0.0.1	ojang.pe.kr
 127.0.0.1	okhan.net
 127.0.0.1	oknoplastik.sk
@@ -312,9 +317,9 @@
 127.0.0.1	pobedastaff.ru
 127.0.0.1	printwithonestart.com
 127.0.0.1	prloglink.prsa7.top
-127.0.0.1	ptc.wa.com.pk
 127.0.0.1	ptgut.co.id
 127.0.0.1	public.demo.securecloudsandbox.com
+127.0.0.1	pytty.lol
 127.0.0.1	qiniuyunxz.yxflzs.com
 127.0.0.1	qlqd5zqefmkcr34a.onion.sh
 127.0.0.1	quanlyphongnet.com
@@ -328,13 +333,13 @@
 127.0.0.1	reifenquick.de
 127.0.0.1	reusable-flex.com
 127.0.0.1	revise-akmo.com
+127.0.0.1	rinksog.com
 127.0.0.1	robertrowe.com
 127.0.0.1	rockwood.call105.net
+127.0.0.1	romanian-node-2.sushihosting.xyz
 127.0.0.1	rpperformance.com.br
 127.0.0.1	rs.bivemao6.ru
-127.0.0.1	rs.mezi.bet
 127.0.0.1	rxquickpay.com
-127.0.0.1	saftycar.com
 127.0.0.1	sanhack.com
 127.0.0.1	scainseto.com.br
 127.0.0.1	scan-echo.online
@@ -347,7 +352,9 @@
 127.0.0.1	seamlessvideowall.com
 127.0.0.1	sfa.com.ar
 127.0.0.1	sg123.net
+127.0.0.1	shaderm.com
 127.0.0.1	sharegolem.com
+127.0.0.1	shark-watewer.com
 127.0.0.1	shipminttracking.net
 127.0.0.1	shop.mediasova.ru
 127.0.0.1	shqdown.ggzuhao.com
@@ -370,6 +377,7 @@
 127.0.0.1	stealer.cy
 127.0.0.1	stonecradle.com
 127.0.0.1	storage.webfiledata.com
+127.0.0.1	stradomi.com
 127.0.0.1	supercleanspb.ru
 127.0.0.1	support.clz.kr
 127.0.0.1	support.viewpoint.fr
@@ -387,14 +395,11 @@
 127.0.0.1	thtp2.volamngayxua.net
 127.0.0.1	tiktokbot.org
 127.0.0.1	tirtasentosa.com
-127.0.0.1	tok-info.com
-127.0.0.1	topmedsolution.com
 127.0.0.1	tpp.tj
 127.0.0.1	transparenciacanaa.com.br
 127.0.0.1	treinamento.convenio.to.gov.br
 127.0.0.1	trtmyanmar.com
 127.0.0.1	trungtambaohanhmaylanh.com
-127.0.0.1	udadu.org
 127.0.0.1	ukguk71.ru
 127.0.0.1	upchemicals.co.in
 127.0.0.1	update.cg100iii.com
@@ -420,6 +425,7 @@
 127.0.0.1	website.mypetapp.co.za
 127.0.0.1	windatem.com
 127.0.0.1	windomstatetheater.com
+127.0.0.1	winscp.download
 127.0.0.1	witchspiregame.com
 127.0.0.1	woop-bicks.com
 127.0.0.1	wp.grovespras.com
@@ -429,7 +435,9 @@
 127.0.0.1	www.astenterprises.com.pk
 127.0.0.1	www.automobile-bk.de
 127.0.0.1	www.axhelp.top
+127.0.0.1	www.benshamcentre.co.uk
 127.0.0.1	www.blackhattoolz.com
+127.0.0.1	www.bratusferramentas.grupomoltz.com.br
 127.0.0.1	www.caravella.com.br
 127.0.0.1	www.carusoadvogados.com.br
 127.0.0.1	www.chaparstore.com
@@ -439,7 +447,6 @@
 127.0.0.1	www.cutting-edge.in
 127.0.0.1	www.divametalart.com
 127.0.0.1	www.djargish.com
-127.0.0.1	www.drgenov.com
 127.0.0.1	www.evoribusiness.com
 127.0.0.1	www.first-security-verden.de
 127.0.0.1	www.frontier.net.pk
@@ -459,7 +466,6 @@
 127.0.0.1	www.myvcart.com
 127.0.0.1	www.namuvpn.com
 127.0.0.1	www.newkey.co.kr
-127.0.0.1	www.ojang.pe.kr
 127.0.0.1	www.okhan.net
 127.0.0.1	www.playtown.co.za
 127.0.0.1	www.reifenquick.de
@@ -490,6 +496,7 @@
 127.0.0.1	xabanak.ru
 127.0.0.1	xai830k.com
 127.0.0.1	xemhang.vn
+127.0.0.1	xiangshunjy.com
 127.0.0.1	ximonite.com
 127.0.0.1	xn--90abegbttpjb3bzb2j.xn--p1ai
 127.0.0.1	xn--b1afiqif6c.xn--p1ai
@@ -502,4 +509,4 @@
 127.0.0.1	zamilgroups.com
 127.0.0.1	zapchast-gazkotel.ru
 127.0.0.1	zenglobalenerji.com
-# Number of entries: 496
+# Number of entries: 503
