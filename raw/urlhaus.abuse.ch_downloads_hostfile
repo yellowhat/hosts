@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-08-28 02:15:09 (UTC)                      #
+# Last updated: 2025-08-29 02:20:12 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,8 +11,6 @@
 127.0.0.1	111101111.ru
 127.0.0.1	123.ywxww.net
 127.0.0.1	1717.1000uc.com
-127.0.0.1	1h.xeteloi4.ru
-127.0.0.1	24x7support.top
 127.0.0.1	52mj.susuwei.cn
 127.0.0.1	abissnet.net
 127.0.0.1	acc.jiangsujiaxue.com
@@ -27,21 +25,19 @@
 127.0.0.1	advansys.com.ar
 127.0.0.1	adver.com.br
 127.0.0.1	advustech.com
+127.0.0.1	afrihealthexpo.org
 127.0.0.1	agapi.cqjjb.cn
 127.0.0.1	ahmm.ca
 127.0.0.1	alarmline.com.br
 127.0.0.1	alien-training.com
 127.0.0.1	allendostmen.com
-127.0.0.1	allseasontrading.net
 127.0.0.1	amuletweb.com
 127.0.0.1	anapa-zarya.ru
-127.0.0.1	anondrop.net
 127.0.0.1	antvietnam.com
 127.0.0.1	api.ewfiles.net
 127.0.0.1	api.ezilax.com
 127.0.0.1	app-monespaces-securpass-assurances.art
 127.0.0.1	apple-service93.ru
-127.0.0.1	areyouready.co.za
 127.0.0.1	armanayegh.com
 127.0.0.1	artacom.com.br
 127.0.0.1	artscreenstudio.ru
@@ -49,7 +45,6 @@
 127.0.0.1	assuredfix.com
 127.0.0.1	augsburg-auto.com
 127.0.0.1	aulist.com
-127.0.0.1	autoconfig.mestierecolombia.com
 127.0.0.1	autodiscover.mestierecolombia.com
 127.0.0.1	autoiwc.ru
 127.0.0.1	axhelp.top
@@ -58,14 +53,13 @@
 127.0.0.1	bankgarantia.ru
 127.0.0.1	bernnaum.com
 127.0.0.1	bestieslos.com
+127.0.0.1	bigbag.wootraining.certificacion.cl
 127.0.0.1	blaiz.me
 127.0.0.1	blessdayservices.org
-127.0.0.1	blit.co.za
 127.0.0.1	blogs.sokun.jp
 127.0.0.1	bmdcompany.com
 127.0.0.1	book.organzoperate.com
 127.0.0.1	book.rollingvideogames.com
-127.0.0.1	botnet.eu.cc
 127.0.0.1	boylegmfg.com
 127.0.0.1	bracell.latitude.net.br
 127.0.0.1	bradreddekopp.com
@@ -80,7 +74,6 @@
 127.0.0.1	catbaparadisehotel.com.vn
 127.0.0.1	ccilogistica.com.br
 127.0.0.1	cdaonline.com.ar
-127.0.0.1	cdn.amazon-us54.com
 127.0.0.1	cdn.file6.goodid.com
 127.0.0.1	cegelecinfo.fr
 127.0.0.1	celebratingseniors.net
@@ -91,15 +84,13 @@
 127.0.0.1	checkinetverifk.com
 127.0.0.1	chifacanton.phuyufact.com
 127.0.0.1	chinaapper.com
+127.0.0.1	chinesegarden.com.tr
 127.0.0.1	chiptune.com
 127.0.0.1	chuguadventures.co.tz
 127.0.0.1	city.organzoperate.com
 127.0.0.1	classroomseven.com
-127.0.0.1	clc.is
-127.0.0.1	cnc.zinomc.com
 127.0.0.1	cnnetwork.uk
 127.0.0.1	coach.028csc.com
-127.0.0.1	code-api.site
 127.0.0.1	codingvix.win
 127.0.0.1	computersupportexperts.com
 127.0.0.1	confeccionescoinffaa.cl
@@ -121,7 +112,6 @@
 127.0.0.1	data.yhydl.com
 127.0.0.1	daviddarle.fr
 127.0.0.1	dcrun.co.uk
-127.0.0.1	dcwblida.dz
 127.0.0.1	delp-heizungsbau.de
 127.0.0.1	device.redirec.com
 127.0.0.1	dezcom.com
@@ -139,7 +129,6 @@
 127.0.0.1	dl.packetstormsecurity.net
 127.0.0.1	domainweel.com
 127.0.0.1	donkeytourscroatia.com
-127.0.0.1	doujinshi.in
 127.0.0.1	down.54nb.com
 127.0.0.1	down.pcclear.com
 127.0.0.1	down.qqfarmer.com.cn
@@ -181,9 +170,7 @@
 127.0.0.1	fz.tiansys.cn
 127.0.0.1	gabyagozetim.com
 127.0.0.1	galerisenimutiara.com
-127.0.0.1	gestionycobranzas.com
 127.0.0.1	glaustralia.com
-127.0.0.1	goldsilber.io
 127.0.0.1	googletagamnager.com
 127.0.0.1	greenmile.ng
 127.0.0.1	grikom.info
@@ -199,10 +186,8 @@
 127.0.0.1	hranenie.pereezd-24.com
 127.0.0.1	hseda.com
 127.0.0.1	icoffeecloud.com
-127.0.0.1	iframe.co.id
 127.0.0.1	igra123.com
 127.0.0.1	iiiconstruction.net
-127.0.0.1	immobilien.ink
 127.0.0.1	imtoken8.cc
 127.0.0.1	info-ups.com
 127.0.0.1	innaflux.com
@@ -234,6 +219,7 @@
 127.0.0.1	kosmetolodzy.com
 127.0.0.1	kramersmarionnettes.com
 127.0.0.1	kriez.work
+127.0.0.1	krishnaplastpack.com
 127.0.0.1	kuzina-teatr.ru
 127.0.0.1	lindenappliances.co.za
 127.0.0.1	lindnerelektroanlagen.de
@@ -245,37 +231,35 @@
 127.0.0.1	m-global.hksty.net
 127.0.0.1	m.bal-stroi.ru
 127.0.0.1	maidforyou1985.com
-127.0.0.1	mail.fuckingfor.live
 127.0.0.1	mail.mestierecolombia.com
+127.0.0.1	main.dsn.ovh
 127.0.0.1	mandarin.net.au
 127.0.0.1	masgrave.com
 127.0.0.1	maxximbrasil.com
 127.0.0.1	me3.ne.jp
 127.0.0.1	merctransfers.gradycares.com
 127.0.0.1	metrics.gocloudmaps.com
-127.0.0.1	mevscript.bot
 127.0.0.1	michellegraci.com
 127.0.0.1	microsoft-telemetry.cc
 127.0.0.1	mitreart.com
 127.0.0.1	mogimall.com
 127.0.0.1	moonloaderupdate.ru
 127.0.0.1	mundocarnes.cl
-127.0.0.1	mysssafiles.xyz
-127.0.0.1	namaacont.com
+127.0.0.1	muzzumilruheel.com
 127.0.0.1	namthaibinh.net
 127.0.0.1	ncxps.com
 127.0.0.1	ndirection.kr
 127.0.0.1	netextender-sonicwall.org
+127.0.0.1	nkcomputers.rs
 127.0.0.1	noithaticon.vn
 127.0.0.1	ntf.mohtash.ir
 127.0.0.1	nusatoyota.co.id
 127.0.0.1	ny.lshdw.cc
+127.0.0.1	o24o.ru
 127.0.0.1	ojang.pe.kr
 127.0.0.1	okhan.net
 127.0.0.1	oknoplastik.sk
 127.0.0.1	olingerphoto.com
-127.0.0.1	omtoi101.com
-127.0.0.1	onedomainpro.com
 127.0.0.1	onfiltre.com.tr
 127.0.0.1	onlinetanecni.cz
 127.0.0.1	onyxaquarius.de
@@ -310,6 +294,7 @@
 127.0.0.1	p6.zbjimg.com
 127.0.0.1	palharesinformatica.com.br
 127.0.0.1	pay.aqiu6.com
+127.0.0.1	pcupd.com
 127.0.0.1	phpmyadmin.hebergement.ml-shop-fr.com
 127.0.0.1	pid.fly160.com
 127.0.0.1	planetariumobil.ro
@@ -325,8 +310,8 @@
 127.0.0.1	quanlyphongnet.com
 127.0.0.1	quovadisholidays.testingdemo.net
 127.0.0.1	ramactools.net
+127.0.0.1	razorcrypter.com
 127.0.0.1	rdm.91yunma.cn
-127.0.0.1	readme-dw.online
 127.0.0.1	reauthenticator.com
 127.0.0.1	records.dennisign.se
 127.0.0.1	redlk.com
@@ -334,12 +319,13 @@
 127.0.0.1	reusable-flex.com
 127.0.0.1	revise-akmo.com
 127.0.0.1	rinksog.com
+127.0.0.1	riseonid.com
 127.0.0.1	robertrowe.com
 127.0.0.1	rockwood.call105.net
 127.0.0.1	romanian-node-2.sushihosting.xyz
 127.0.0.1	rpperformance.com.br
-127.0.0.1	rs.bivemao6.ru
 127.0.0.1	rxquickpay.com
+127.0.0.1	saftycar.com
 127.0.0.1	sanhack.com
 127.0.0.1	scainseto.com.br
 127.0.0.1	scan-echo.online
@@ -357,7 +343,6 @@
 127.0.0.1	shark-watewer.com
 127.0.0.1	shipminttracking.net
 127.0.0.1	shop.mediasova.ru
-127.0.0.1	shqdown.ggzuhao.com
 127.0.0.1	sk-comtel.com
 127.0.0.1	skynetx.com.br
 127.0.0.1	smeetspost.nl
@@ -365,8 +350,8 @@
 127.0.0.1	sms-szfang.com
 127.0.0.1	soft.110route.com
 127.0.0.1	softcatalog.ru
+127.0.0.1	solidbytes.vn
 127.0.0.1	solutelco.com
-127.0.0.1	soporteunicos.com
 127.0.0.1	spaceframe.mobi.space-frame.co.za
 127.0.0.1	spoar.org.in
 127.0.0.1	spst.hqup.in
@@ -388,13 +373,15 @@
 127.0.0.1	tapestryoftruth.com
 127.0.0.1	tcgroup.com.au
 127.0.0.1	telegramcn.co
+127.0.0.1	telegramunlock.ru
 127.0.0.1	temirtau-adm.ru
+127.0.0.1	tengfeidn.cn
 127.0.0.1	tengfeidn.com
 127.0.0.1	test.peperoncinochepassione.it
 127.0.0.1	tests.yjzj.org
 127.0.0.1	thtp2.volamngayxua.net
-127.0.0.1	tiktokbot.org
 127.0.0.1	tirtasentosa.com
+127.0.0.1	topmedsolution.com
 127.0.0.1	tpp.tj
 127.0.0.1	transparenciacanaa.com.br
 127.0.0.1	treinamento.convenio.to.gov.br
@@ -408,7 +395,6 @@
 127.0.0.1	upgradegc.com
 127.0.0.1	uploadtree.com
 127.0.0.1	vagler.ru
-127.0.0.1	vault.appsuites.ai
 127.0.0.1	vcpesaas.com
 127.0.0.1	vegasnights.co.za
 127.0.0.1	veryboys.com
@@ -423,10 +409,8 @@
 127.0.0.1	vpn.silk-gen.com
 127.0.0.1	vulnfactory.org
 127.0.0.1	website.mypetapp.co.za
-127.0.0.1	windatem.com
 127.0.0.1	windomstatetheater.com
 127.0.0.1	winscp.download
-127.0.0.1	witchspiregame.com
 127.0.0.1	woop-bicks.com
 127.0.0.1	wp.grovespras.com
 127.0.0.1	writerartist.com
@@ -447,6 +431,7 @@
 127.0.0.1	www.cutting-edge.in
 127.0.0.1	www.divametalart.com
 127.0.0.1	www.djargish.com
+127.0.0.1	www.drgenov.com
 127.0.0.1	www.evoribusiness.com
 127.0.0.1	www.first-security-verden.de
 127.0.0.1	www.frontier.net.pk
@@ -466,6 +451,7 @@
 127.0.0.1	www.myvcart.com
 127.0.0.1	www.namuvpn.com
 127.0.0.1	www.newkey.co.kr
+127.0.0.1	www.ojang.pe.kr
 127.0.0.1	www.okhan.net
 127.0.0.1	www.playtown.co.za
 127.0.0.1	www.reifenquick.de
@@ -509,4 +495,4 @@
 127.0.0.1	zamilgroups.com
 127.0.0.1	zapchast-gazkotel.ru
 127.0.0.1	zenglobalenerji.com
-# Number of entries: 503
+# Number of entries: 489
