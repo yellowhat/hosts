@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 28 Aug 2025
+# Updated: 30 Aug 2025
 # LatestVersion 24.01
-# Domain Count: 15678
+# Domain Count: 15676
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -329,7 +329,6 @@ adstir.com #Adstir - Advertising
 adsupply.com #AdSupply - Advertising
 adsupplyssl.com #AdSupply - Advertising
 adswizz.com #AdsWizz - Advertising
-adsxyz.com #AdsXyz - Advertising
 adsymptotic.com #Drawbridge - Advertising
 adtarget.com.tr #AdTarget - Advertising
 adtarget.me #Adtarget - Advertising
@@ -15388,7 +15387,6 @@ tsyndicate.com #Unknown - Advertising
 ttgtmedia.com #Tech Target - Tracker
 ttxm.co.uk #Unknown - Tracker
 tubemogul.com #Unknown - Tracker
-tuesdayfetidlit.com #AdMeasures - Advertising
 tumri.net #Unknown - Tracker
 tuplogpublic.bangcdn.net #Unknown - Advertising
 turn.com #Unknown - Tracker
