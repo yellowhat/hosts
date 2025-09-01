@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 30 Aug 2025
+# Updated: 31 Aug 2025
 # LatestVersion 24.01
-# Domain Count: 15676
+# Domain Count: 15675
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -14041,7 +14041,6 @@ rebuyengine.com #ReBuy - Tracker
 redevents-bigdata.redefine.pl #First Party - Tracker
 redeye.international #Unknown - Tracker
 redir.metaservices.microsoft.com #Microsoft - Tracker
-redirecting2.net #Unknown - Tracker
 redshell.io #Red Shell - Tracker
 rees46.com #REES46 - Tracker
 reevoo.com #Unknown - Tracker
