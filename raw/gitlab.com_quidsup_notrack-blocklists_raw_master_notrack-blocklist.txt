@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 07 Sep 2025
+# Updated: 08 Sep 2025
 # LatestVersion 24.01
-# Domain Count: 15662
+# Domain Count: 15661
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -14098,7 +14098,6 @@ roia.biz #Unknown - Tracker
 roistat.com #Unknown - Tracker
 rollmeout.xyz #RollerAds - Advertising
 rollserver.xyz #RollerAds - Advertising
-roofprison.com #AdMeasures - Advertising
 routecdn.com #Unknown - Tracker
 royalflora.pw #Unknown Chinese - Tracker
 rqtrk.eu #Roq.ad - Tracker
