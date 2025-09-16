@@ -1,8 +1,17 @@
-<html>
-<head><title>Temporarily down!</title></head>
-<body>
-<center><h1>Temporarily down!</h1></center>
-<center>My home server crashed, I can't reboot it remotely and I'm away for holidays... Should be back by 2025-09-21!</center>
-<hr><center>Geoffrey</center>
-</body>
-</html>
+Hostname: ludwig
+RemoteAddr: 127.0.0.1:39210
+GET /firstparty-trackers-hosts.txt HTTP/1.1
+Host: hostfiles.frogeye.fr
+User-Agent: Go-http-client/2.0
+Accept-Encoding: gzip
+Connection: close
+X-Away-Action: PASS
+X-Away-Id: ac5c64db6df4e434fe97161a27c7dbab
+X-Away-Rule: DEFAULT
+X-Forwarded-For: 172.177.209.210, 172.177.209.210
+X-Forwarded-Host: hostfiles.frogeye.fr
+X-Forwarded-Proto: https
+X-Forwarded-Server: hostfiles.frogeye.fr
+X-Real-Ip: 172.177.209.210
+X-Tls-Fingerprint-Ja3n: ec76b4c1c325e7c598b092d5ac09a733
+
