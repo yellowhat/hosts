@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 23 Oct 2025
+# Updated: 24 Oct 2025
 # LatestVersion 24.01
-# Domain Count: 15609
+# Domain Count: 15608
 #===============================================================
 
 0i0i0i0.com #Unknown - Advertising
@@ -15419,7 +15419,6 @@ venatusmedia.com #Venatus Media - Advertising
 vendemore.com #Vendemore - Tracker
 venetrigni.com #Unknown - Tracker
 venturead.com #Unknown - Advertising
-venueitemmagic.com #AdMeasures - Advertising
 veoxa.com #Unknown - Tracker
 vergic.com #Vergic - Tracker
 vertamedia.com #Adtelligent - Advertising
