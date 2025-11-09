@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Oct 2025 16:54:12 GMT
-# entries:        3455
+# last updated:   Fri, 07 Nov 2025 17:16:36 GMT
+# entries:        3468
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -69,6 +69,7 @@
 127.0.0.1 ablink.news.emails-puregym.com
 127.0.0.1 ablinks.mail.hinge.co
 127.0.0.1 aboardlevel.com
+127.0.0.1 absolutering.com
 127.0.0.1 absorbingband.com
 127.0.0.1 abstractedauthority.com
 127.0.0.1 abtasty.com
@@ -177,7 +178,6 @@
 127.0.0.1 adaction.de
 127.0.0.1 adadvisor.net
 127.0.0.1 adalliance.io
-127.0.0.1 adanging.blog
 127.0.0.1 adap.tv
 127.0.0.1 adapt.tv
 127.0.0.1 adbilty.me
@@ -476,7 +476,6 @@
 127.0.0.1 ads.leovegas.com
 127.0.0.1 ads.lesbianpersonals.com
 127.0.0.1 ads.liberte.pl
-127.0.0.1 ads.lifethink.net
 127.0.0.1 ads.linkedin.com
 127.0.0.1 ads.livenation.com
 127.0.0.1 ads.lordlucky.com
@@ -728,7 +727,6 @@
 127.0.0.1 adskeeper.co.uk
 127.0.0.1 adskeeper.com
 127.0.0.1 adsklick.de
-127.0.0.1 adskpak.com
 127.0.0.1 adsmart.net
 127.0.0.1 adsmartracker.com
 127.0.0.1 adsmetadata.startappservice.com
@@ -1091,6 +1089,7 @@
 127.0.0.1 big-bang-ads.com
 127.0.0.1 bigbangmedia.com
 127.0.0.1 bigclicks.com
+127.0.0.1 bigworldfashion.com
 127.0.0.1 billboard.cz
 127.0.0.1 billtable.com
 127.0.0.1 birthdaybelief.com
@@ -1230,6 +1229,7 @@
 127.0.0.1 cl0udh0st1ng.com
 127.0.0.1 clck.ru
 127.0.0.1 clevernt.com
+127.0.0.1 click-1.pl
 127.0.0.1 click.airmalta-mail.com
 127.0.0.1 click.aliexpress.com
 127.0.0.1 click.allkeyshop.com
@@ -1388,7 +1388,6 @@
 127.0.0.1 cpays.com
 127.0.0.1 cpmstar.com
 127.0.0.1 cpu.samsungelectronics.com
-127.0.0.1 cpx-traffic.com
 127.0.0.1 cpx.to
 127.0.0.1 cpxinteractive.com
 127.0.0.1 cqcounter.com
@@ -1426,6 +1425,7 @@
 127.0.0.1 cutechin.com
 127.0.0.1 cxense.com
 127.0.0.1 cyberbounty.com
+127.0.0.1 cyclinghere.com
 127.0.0.1 d-collect.jennifersoft.com
 127.0.0.1 d-collector.jennifersoft.com
 127.0.0.1 d.adroll.com
@@ -1624,6 +1624,7 @@
 127.0.0.1 fairfeeling.com
 127.0.0.1 fakedisguise.com
 127.0.0.1 fallaciousfifth.com
+127.0.0.1 fallingshoals.com
 127.0.0.1 fam-ad.com
 127.0.0.1 farethief.com
 127.0.0.1 farmergoldfish.com
@@ -1767,6 +1768,7 @@
 127.0.0.1 gscontxt.net
 127.0.0.1 guardeddirection.com
 127.0.0.1 guardedschool.com
+127.0.0.1 gumyfui.com
 127.0.0.1 gunggo.com
 127.0.0.1 h-bid.com
 127.0.0.1 h-trck.com
@@ -1877,6 +1879,7 @@
 127.0.0.1 images-pw.secureserver.net
 127.0.0.1 img.prohardver.hu
 127.0.0.1 imgpromo.easyrencontre.com
+127.0.0.1 immensehoney.com
 127.0.0.1 imonomy.com
 127.0.0.1 imp.i312864.net
 127.0.0.1 impossibleexpansion.com
@@ -1959,6 +1962,7 @@
 127.0.0.1 justicejudo.com
 127.0.0.1 justpremium.com
 127.0.0.1 justrelevant.com
+127.0.0.1 justwowjars.com
 127.0.0.1 k.iinfo.cz
 127.0.0.1 kameleoon.eu
 127.0.0.1 kanoodle.com
@@ -2051,6 +2055,7 @@
 127.0.0.1 links.prosservice.fr
 127.0.0.1 links.zoopla.co.uk
 127.0.0.1 linksoutside.com
+127.0.0.1 linkstable.com
 127.0.0.1 linkstorms.com
 127.0.0.1 linkswaper.com
 127.0.0.1 linksynergy.com
@@ -2406,6 +2411,7 @@
 127.0.0.1 orionember.com
 127.0.0.1 ota.cartrawler.com
 127.0.0.1 otto-images.developershed.com
+127.0.0.1 ourdreamstaticpages.pages.dev
 127.0.0.1 outbrain.com
 127.0.0.1 overconfidentfood.com
 127.0.0.1 overkick.com
@@ -2438,6 +2444,7 @@
 127.0.0.1 partnerad.l.google.com
 127.0.0.1 partnerads.ysm.yahoo.com
 127.0.0.1 partnercash.de
+127.0.0.1 partnerhut.com
 127.0.0.1 partnerlinks.io
 127.0.0.1 partners.priceline.com
 127.0.0.1 partplanes.com
@@ -2605,6 +2612,7 @@
 127.0.0.1 quarterserver.de
 127.0.0.1 quickkoala.io
 127.0.0.1 quietknowledge.com
+127.0.0.1 quiltruler.com
 127.0.0.1 quinst.com
 127.0.0.1 quirkysugar.com
 127.0.0.1 quisma.com
@@ -2628,7 +2636,6 @@
 127.0.0.1 rambunctiousflock.com
 127.0.0.1 rampidads.com
 127.0.0.1 randkuj.xyz
-127.0.0.1 randkula.online
 127.0.0.1 rankchamp.de
 127.0.0.1 ranking-charts.de
 127.0.0.1 ranking-hits.de
@@ -2685,6 +2692,7 @@
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 republika.onet.pl
 127.0.0.1 resalag.com
+127.0.0.1 rescuerhino.com
 127.0.0.1 resonantbrush.com
 127.0.0.1 resonate.com
 127.0.0.1 responsiveads.com
@@ -2716,6 +2724,7 @@
 127.0.0.1 rle.ru
 127.0.0.1 rmads.msn.com
 127.0.0.1 rmedia.boston.com
+127.0.0.1 roaddynamics.com
 127.0.0.1 roar.com
 127.0.0.1 robotreplay.com
 127.0.0.1 rockabox.co
@@ -2831,6 +2840,7 @@
 127.0.0.1 sillyscrew.com
 127.0.0.1 silvermob.com
 127.0.0.1 simpleanalytics.io
+127.0.0.1 simplesafari.com
 127.0.0.1 simpli.fi
 127.0.0.1 simulateswing.com
 127.0.0.1 sincerebuffalo.com
@@ -2871,6 +2881,7 @@
 127.0.0.1 smoggysnakes.com
 127.0.0.1 smrtb.com
 127.0.0.1 snapads.com
+127.0.0.1 snazzypoodle.com
 127.0.0.1 snoobi.com
 127.0.0.1 socialspark.com
 127.0.0.1 softclick.com.br
@@ -3106,6 +3117,7 @@
 127.0.0.1 ticksel.com
 127.0.0.1 tics.techdirt.com
 127.0.0.1 tidaltv.com
+127.0.0.1 tidysprite.com
 127.0.0.1 tinybar.com
 127.0.0.1 tinybluewhale.com
 127.0.0.1 tinytendency.com
@@ -3281,6 +3293,7 @@
 127.0.0.1 url9467.comms-2.zoopla.co.uk
 127.0.0.1 urlcash.net
 127.0.0.1 us.a1.yimg.com
+127.0.0.1 userreplay.com
 127.0.0.1 userreplay.net
 127.0.0.1 users.maxcluster.net
 127.0.0.1 utils.mediageneral.net

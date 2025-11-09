@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 29OCT25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 07NOV25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -111,6 +111,7 @@
 3p-geo.yahoo.com
 3plworldwide.actonservice.com
 3p-udc.yahoo.com
+3rdspacetech.com
 3skickasurf.tre.se
 3wn3w3skxpym.round.t3.gg
 40caidaylimpia.catzolab.net
@@ -4074,6 +4075,7 @@ abracon.actonservice.com
 absentairport.com
 absinfo.eagle.org
 absoft.actonservice.com
+absolutering.com
 absorbingband.com
 absorbingprison.com
 abs.proxistore.com
@@ -4868,6 +4870,7 @@ allreach.actonservice.com
 allrisks.actonservice.com
 a.lls.org
 allstarfg.actonservice.com
+alltypo.com
 alluringbucket.com
 allvideometrika.com
 almalasers.actonservice.com
@@ -7457,6 +7460,7 @@ bidswitch.net
 bienvenido.americanindustriesgroup.com
 bigcustomernetwork.actonservice.com
 bigdata.clarin.com
+bigworldfashion.com
 b.iheart.southwest.com
 bi.heyloyalty.com
 bi.irisdating.com
@@ -8033,6 +8037,7 @@ business-pages.edfenergy.com
 businessprocess.ricoh.de
 business.royal-cars.com
 business.samsungusa.com
+businessupdater.com
 business.vodafone.com
 business.vodafone.co.nz
 busrol.st-eustachenissan.com
@@ -8389,6 +8394,7 @@ cgsisl.owllabs.com
 cgwebmetrics.capgroup.com
 ch0p.darty.com
 chademocharge.com
+chaindisc.com
 chaireggnog.com
 chairscrack.com
 chairsdonkey.com
@@ -8578,6 +8584,7 @@ click.marketing.carousell.com
 click.moselo.com
 click.nudevista.com
 click.oneplus.cn
+click-performance.assets.rndtech.de
 click.pockee.com
 click.quickenloansnow.com
 click.redditmail.com
@@ -9520,6 +9527,7 @@ creationagency.actonservice.com
 creatives.sunmedia.tv
 creatorcherry.com
 creatorpassenger.com
+creatorsnote.com
 creator.zmags.com
 creaturecabbage.com
 c.refun.do
@@ -9652,6 +9660,7 @@ cubchannel.com
 cubepins.com
 cucaido.abphotos.link
 cuddlycake.com
+cuddlylab.com
 cuddlylunchroom.com
 cudgoz.mifcom.de
 cudrqv.sts.pl
@@ -9813,6 +9822,7 @@ cybba.solutions
 cyber.boozallen.com
 cyber-pages.att.com
 cyber-tracking.att.com
+cyclinghere.com
 cyclopsdial.com
 cyeabs.luxyhair.com
 cyf9.destinia.cl
@@ -13133,6 +13143,7 @@ fal2.carrefour-banque.fr
 fallaciousfifth.com
 fallback.attntags.com
 fallback.emtag.net
+fallingshoals.com
 falseframe.com
 falsesight.com
 familiarrod.com
@@ -13531,6 +13542,7 @@ fpida.w-wing.jp
 fpida.yue-japan.com
 f.pie.org
 fpjscdn.net
+fp.kakaku.com
 fp.kalevavakuutus.fi
 fp.mandatum.fi
 fp.mandatumlife.fi
@@ -14562,6 +14574,7 @@ go-response.thermofisher.com
 go.rex-bac-t.com
 gorgeousedge.com
 go.ridgid.emerson.com
+gorillapage.com
 go.riosalado.edu
 go.robertsonbuildings.com
 go.rochesterknighthawks.com
@@ -14898,6 +14911,7 @@ hal.courrierinternational.com
 halcyoncanyon.com
 halcyonsculpture.com
 halo.actonservice.com
+halocolor.com
 haltingbadge.com
 haltingdivision.com
 halvwk.jetcost.ie
@@ -17101,6 +17115,7 @@ ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws
 i.paypal.com
 ipcfgw.pieces.com
 ipcheck.blogsys.jp
+ip-check-perf.radar.cloudflare.com
 ip.chipestimate.com
 ip.cliphunter.com
 ipdmlm.yoriso.com
@@ -17538,6 +17553,7 @@ justpickaname.com
 just.playvici.com
 justsayyes.infor.com
 justwebcards.com
+justwowjars.com
 juzqsq.finanzcheck.de
 jvbvng.notino.it
 jviyau.pelicanwater.com
@@ -18792,6 +18808,7 @@ links.sudokuplus.net
 links.swazzen.com
 links.sweet.io
 link.stabilitas.io
+linkstable.com
 link.staff.notab.com
 link.stage.easy.me
 link-staging.bestest.io
@@ -21500,6 +21517,7 @@ memberships.clubcorp.com
 members.simplicity.coop
 member.usenix.org
 memelq.acs.org
+memeorigin.com
 memolight.com
 memopilot.com
 memorizematch.com
@@ -24539,6 +24557,7 @@ optimisation.data.lloydsbankinggroup.com
 optimizely.techtarget.com
 optimize.mcafee.com
 optionen.hager.de
+optionsnomad.com
 optistats.ovh
 optis-world.actonservice.com
 optout.info.nordea.fi
@@ -24881,6 +24900,7 @@ partnerapp.urbanclap.com
 partnerdev.extasy.com
 partner.haru-shop.jp
 partner.hubinternational.com
+partnerhut.com
 partner.librarius.com.ua
 partnerlinks.io
 partner.miso.kr
@@ -26007,6 +26027,7 @@ quidel.actonservice.com
 quietknowledge.com
 quillkick.com
 quiltquick.com
+quiltruler.com
 quinceimaging.actonservice.com
 quirklogic.actonservice.com
 quirkybliss.com
@@ -26073,6 +26094,7 @@ racemanager-app.sapsailing.com
 rackforstorage.com
 rac.ruutu.fi
 radar.imgsmail.ru
+radexports.com
 radiantcanopy.com
 radiantlullaby.com
 radiateprose.com
@@ -26376,6 +26398,7 @@ reqssx.centerparcs.fr
 request.idangels.org
 request.verisign.com
 rertrc.abc-mart.net
+rescuerhino.com
 research.dshb.biology.uiowa.edu
 research.gartner.com
 research.insidesales.com
@@ -28604,6 +28627,7 @@ simg.sh.bwin.de
 simg.yemeksepeti.com
 simple.avaya.com
 simplenaming.com
+simplesafari.com
 simplesidewalk.com
 simple.siegelgale.com
 simpletopay.americanexpress.com
@@ -28666,6 +28690,7 @@ sit-smetrics.nab.com.au
 siusmv.coraltravel.pl
 six9e.canal.fr
 sixauthority.com
+sixpants.com
 sixscissors.com
 sizcsi.eobuv.cz
 sizybn.shipsltd.co.jp
@@ -31858,6 +31883,7 @@ snalytics.travelinsurance.ca
 snappyreport.com
 snapsgate.com
 snapshotapp.progressive.com
+snazzypoodle.com
 snbwyi.heine.at
 snd.freshstartnews.com
 sneakwind.com
@@ -32308,6 +32334,7 @@ speedtrap.shopdirect.com
 speedyfox.io
 speedyrhino.co
 speee-ad.akamaized.net
+spellingthoughts.com
 spellknight.com
 spellmist.com
 spellsalsa.com
@@ -34399,6 +34426,7 @@ sub.turningpoint.work
 success.act-on.com
 success.azzure-it.com
 success.benico.com
+successbuffet.com
 success.coface.com
 success.definitive-results.com
 success.ebmcatalyst.com
@@ -34721,6 +34749,7 @@ sysmon.kakaku.com
 systancia-scp.actonservice.com
 system-beta.b-cdn.net
 system.nefiber.com
+systemssummit.com
 sytuzk.nissanvimontlaval.com
 syvvsv.artex.com.br
 syycwa.barcelo.com
@@ -35502,6 +35531,7 @@ tf.360.cn
 t.fabulousfox.com
 t.factorform.com
 t.fairparkdallas.com
+t.fastcmp.com
 tfdtpa.dot-st.com
 t.fermion.fi
 t.festo.com
@@ -35588,6 +35618,7 @@ t.hellowork.com
 themangotea.com
 theme.echovisuals.com
 themepicker.com
+thepixelpioneer.com
 thepowerstones.com
 thequickbooksteam.intuit.ca
 therapeuticcars.com
@@ -35652,6 +35683,7 @@ tidy.intel.fr
 tidy.intel.in
 tidy.intel.la
 tidymitten.com
+tidysprite.com
 tif.ionos.com
 tightpowder.com
 tiglck.technopolis.bg
@@ -39228,6 +39260,7 @@ updates.gaylordhotels.com
 update.tcsg.edu
 upeayz.eksisozluk.com
 upfmqr.carmensteffens.com.br
+upgradeyoga.com
 upload.euleriancdn.net
 uppbrl.thomassabo.com
 uppitytime.com
@@ -40180,6 +40213,7 @@ wats.gogoinflight.com
 watson.microsoft.com
 wave.getonthewave.com
 waveinverter.com
+wavesimple.com
 wavesmachine.com
 wa.vodafone.cz
 wa.vodafone.de
@@ -40581,6 +40615,7 @@ w.ilfattoquotidiano.it
 win.staticstuff.net
 wirecomic.com
 wiredforcoffee.com
+wirenewsletter.com
 wirjoi.meetsmore.com
 wirypaste.com
 wisedotcom.com
