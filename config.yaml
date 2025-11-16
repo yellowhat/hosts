@@ -13,8 +13,9 @@ prometheus:
   enable: true
   path: /metrics
 
-dnssec:
-  validate: true
+# Too many signature verification failure
+# dnssec:
+#   validate: true
 
 upstreams:
   strategy: parallel_best
