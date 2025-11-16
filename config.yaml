@@ -13,6 +13,9 @@ prometheus:
   enable: true
   path: /metrics
 
+dnssec:
+  validate: true
+
 upstreams:
   strategy: parallel_best
   groups:
