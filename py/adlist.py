@@ -53,7 +53,6 @@ URLS = [
     "https://badmojr.gitlab.io/1hosts/Pro/domains.txt",
     "https://gist.githubusercontent.com/eterps/9ddb13a118a21a7d9c12c6165e0bbff5/raw/0ba4b04802a4b478d7777fb7abe76c8eac0c5bfc/Samsung%2520Smart-TV%2520Blocklist%2520Adlist%2520(for%2520PiHole)",
     "https://gist.githubusercontent.com/wassname/b594c63222f9e4c83ea23c818440901b/raw/1b0afd2aecf3a099f1681b1cf18fc0e6e2fa116a/Samsung%2520Smart-TV%2520Blocklist%2520Adlist%2520(for%2520PiHole)",
-    "https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts",
     "https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt",
     "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts",
     "https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt",
@@ -74,7 +73,6 @@ URLS = [
     "https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt",
     "https://raw.githubusercontent.com/pirat28/IHateTracker/master/iHateTracker.txt",
     "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt",
-    "https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
 ]
 
 
