@@ -1,5 +1,5 @@
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 10NOV25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 17NOV25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -38,7 +38,6 @@ admiral.network
 admiral.support
 admiral.website
 admiralcdn.com
-admiralexternal.com
 admlcdn.com
 adorableanger.com
 adorableattention.com
@@ -240,7 +239,6 @@ catschickens.com
 cattlecommittee.com
 catventions.com
 causecherry.com
-cautiouscamera.com
 cautiouscherries.com
 cautiouscrate.com
 cautiouscredit.com
@@ -414,6 +412,7 @@ deployinput.com
 designsgrid.com
 desirebucket.com
 desiredirt.com
+detailedglue.com
 detailedgovernment.com
 detailedkitten.com
 detectdinner.com
@@ -435,6 +434,8 @@ disturbedquiet.com
 divergentoffer.com
 dockdigestion.com
 dogbedscentral.com
+dogsonclouds.com
+dogsshoes.com
 dollardelta.com
 donkeyleaf.com
 doubledefend.com
@@ -445,13 +446,16 @@ drainpaste.com
 dramaticdirection.com
 dreamsdome.com
 dreamycanyon.com
+dressexpansion.com
 driftingchef.com
 driftpizza.com
+dripappliance.com
 drollwharf.com
 drydrum.com
 dustydime.com
 dustyhammer.com
 dyecloud.com
+dysfunctionalcellar.com
 eagereden.com
 eagerflame.com
 eagerknight.com
@@ -468,7 +472,6 @@ effervescentvista.com
 efficaciouscactus.com
 effulgentnook.com
 effulgenttempest.com
-ejyymghi.com
 elasticchange.com
 elderlybean.com
 elderlytown.com
@@ -591,6 +594,7 @@ floweryoperation.com
 flushingbeast.com
 flutteringfireman.com
 foambench.com
+foamyfood.com
 followborder.com
 foodfunfestivals.com
 forecasttiger.com
@@ -607,7 +611,6 @@ frequentflesh.com
 friedone.com
 friendlycrayon.com
 friendlyfold.com
-frogator.com
 fronttoad.com
 frugalfiestas.com
 fuelreaction.com
@@ -615,7 +618,6 @@ fumblingform.com
 functionalcrown.com
 functionalfeather.com
 funoverbored.com
-furnstudio.com
 furryfork.com
 fusedcontent.com
 futuristicfifth.com
@@ -883,7 +885,6 @@ marketspiders.com
 marriedbelief.com
 marriedmailbox.com
 marriedvalue.com
-marrowleaves.com
 massivemark.com
 materialisticmoon.com
 materialmilk.com
@@ -997,7 +998,6 @@ oafishchance.com
 oafishobservation.com
 objecthero.com
 obscenesidewalk.com
-observantice.com
 offerniche.com
 offgridcrops.com
 offshorecyclone.com
@@ -1074,6 +1074,7 @@ plotrabbit.com
 pluckypocket.com
 pluckyzone.com
 pocketfaucet.com
+podiumpresto.com
 podname.com
 poemprompt.com
 poeticpackage.com
@@ -1353,6 +1354,7 @@ sillyscrew.com
 simplenaming.com
 simplesidewalk.com
 simplisticnose.com
+simplisticstem.com
 simulateswing.com
 sincerebuffalo.com
 sincerepelican.com
@@ -1526,7 +1528,6 @@ suddensidewalk.com
 suddensoda.com
 sugarcurtain.com
 suggestionbridge.com
-sulkybutter.com
 sulkycook.com
 summerhamster.com
 summerobject.com
@@ -1540,7 +1541,9 @@ supplyreward.com
 supplysummer.com
 supportwaves.com
 surfacesmedia.com
+suspendseed.com
 swankysquare.com
+sweepsheep.com
 sweetslope.com
 swellstocking.com
 swimfreely.com
@@ -1582,7 +1585,6 @@ tendertest.com
 tenhourweek.com
 tennistie.com
 terriblethumb.com
-terrifictooth.com
 testadmiral.com
 testedtouch.com
 texturetrick.com
@@ -1591,7 +1593,6 @@ therapeuticcars.com
 thesolartime.com
 thingsafterthought.com
 thingstaste.com
-thinkablefloor.com
 thinkitten.com
 thinkitwice.com
 thirdrespect.com
@@ -1766,6 +1767,7 @@ wretchedfloor.com
 writewealth.com
 wrongpotato.com
 wrongwound.com
+wryfinger.com
 wtaccesscontrol.com
 yieldingwoman.com
 yourlifedream.com
