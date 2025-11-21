@@ -141,9 +141,10 @@ blocking:
       - |
         goethe.de
         *.goethe.de
-      - |
         plausible.io
         *.plausible.io
+        nip.io
+        *.nip.io
       # Required for Samsung TV (Youtube)
       # - |
       #   time.samsungcloudsolution.com
