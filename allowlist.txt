@@ -73,4 +73,7 @@ goethe.de
 www.goethe.de
 plausible.io
 www.plausible.io
+nip.io
+www.nip.io
 1.1.1.1.nip.io
+foo.1.1.1.1.nip.io
