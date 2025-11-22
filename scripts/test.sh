@@ -5,7 +5,6 @@ set -euo pipefail
 docker run \
     --name blocky-test \
     --interactive \
-    --tty \
     --rm \
     --network host \
     --volume .:/data:z \
