@@ -23,7 +23,7 @@ upstreams:
     default:
       - https://cloudflare-dns.com/dns-query
       - https://dns.mullvad.net/dns-query
-      - https://dnsforge.de/dns-query
+      - https://blank.dnsforge.de/dns-query
 
 bootstrapDns:
   - upstream: https://dns.mullvad.net/dns-query
@@ -139,11 +139,8 @@ blocking:
         login.microsoftonline.com
         go.microsoft.com
       - |
-        goethe.de
         *.goethe.de
-        plausible.io
         *.plausible.io
-        nip.io
         *.nip.io
       # Required for Samsung TV (Youtube)
       # - |
