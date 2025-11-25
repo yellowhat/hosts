@@ -1,5 +1,5 @@
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 21NOV25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 24NOV25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -199,7 +199,6 @@ bumpydevelopment.com
 bunchance.com
 bungeesleeves.com
 burgersalt.com
-burlywhistle.com
 burnbubble.com
 bushesbag.com
 businessbells.com
@@ -227,7 +226,6 @@ captivatingpanorama.com
 captivatingperformance.com
 carefuldolls.com
 caringcast.com
-caringzinc.com
 carloforward.com
 carpentercomparison.com
 cartelsalsa.com
@@ -289,7 +287,6 @@ coffeesidehustle.com
 coldbalance.com
 coldcallpro.com
 coloradoserves.com
-colorfulafterthought.com
 colossalclouds.com
 colossalcoat.com
 colossalcry.com
@@ -388,7 +385,6 @@ dashingdrop.com
 datastoried.com
 daymodern.com
 dazzlingbook.com
-deafeningdock.com
 debonairdust.com
 debonairtree.com
 decidedrum.com
@@ -412,7 +408,6 @@ deployinput.com
 designsgrid.com
 desirebucket.com
 desiredirt.com
-detailedglue.com
 detailedgovernment.com
 detailedkitten.com
 detectdinner.com
@@ -434,8 +429,6 @@ disturbedquiet.com
 divergentoffer.com
 dockdigestion.com
 dogbedscentral.com
-dogsonclouds.com
-dogsshoes.com
 dollardelta.com
 donkeyleaf.com
 doubledefend.com
@@ -445,23 +438,17 @@ dragzebra.com
 drainpaste.com
 dramaticdirection.com
 dreamsdome.com
-dreamycanyon.com
-dressexpansion.com
 driftingchef.com
 driftpizza.com
-dripappliance.com
 drollwharf.com
-drydrum.com
 dustydime.com
 dustyhammer.com
 dyecloud.com
-dysfunctionalcellar.com
 eagereden.com
 eagerflame.com
 eagerknight.com
 earnbaht.com
 earthups.com
-earthyfarm.com
 eatablesquare.com
 echochief.com
 echoinghaven.com
@@ -569,7 +556,6 @@ financefear.com
 firecatfilms.com
 fireworkcamp.com
 firstendpoint.com
-firsttexture.com
 fishersfinds.com
 fitmessage.com
 fivesidedsquare.com
@@ -632,7 +618,6 @@ gaudyairplane.com
 geekactive.com
 geekbackyard.com
 generalprose.com
-generateoffice.com
 getadmiral.com
 getdrip.com
 getwagtail.com
@@ -758,7 +743,6 @@ importedincrease.com
 importedinsect.com
 impossibleexpansion.com
 impulsejewel.com
-impulselumber.com
 incomehippo.com
 incompetentjoke.com
 inconclusiveaction.com
@@ -775,7 +759,6 @@ internalsink.com
 inventtango.com
 iotapool.com
 iridescentdusk.com
-irritatingfog.com
 itemslice.com
 ivykiosk.com
 j93557g.com
@@ -885,7 +868,6 @@ marketspiders.com
 marriedbelief.com
 marriedmailbox.com
 marriedvalue.com
-massivemark.com
 materialisticmoon.com
 materialmilk.com
 materialmoon.com
@@ -961,7 +943,6 @@ neatbadger.com
 neatshade.com
 nebulacrescent.com
 nebulajubilee.com
-nebulousamusement.com
 nebulousgarden.com
 nebulousquasar.com
 nebulousripple.com
@@ -1004,7 +985,6 @@ offshorecyclone.com
 offshoregeology.com
 oldfashionedoffer.com
 omgthink.com
-omniscientfeeling.com
 onedropocean.com
 onlywoofs.com
 opalquill.com
@@ -1074,7 +1054,6 @@ plotrabbit.com
 pluckypocket.com
 pluckyzone.com
 pocketfaucet.com
-podiumpresto.com
 podname.com
 poemprompt.com
 poeticpackage.com
@@ -1239,7 +1218,6 @@ rulerabbit.com
 ruralrobin.com
 rusticprice.com
 ruthlessdegree.com
-ruthlessmilk.com
 sableshelf.com
 sablesmile.com
 sablesong.com
@@ -1303,7 +1281,6 @@ seedscissors.com
 seenvault.com
 seespice.com
 selectivesummer.com
-selfishsea.com
 selfishsnake.com
 sendingspire.com
 sentrymagic.com
@@ -1369,7 +1346,6 @@ skisofa.com
 skullmagnets.com
 slaysweater.com
 slickcontent.com
-slimyscarf.com
 slinksuggestion.com
 slopesoap.com
 sloppycalculator.com
@@ -1396,7 +1372,6 @@ sneezecovers.com
 snoresmile.com
 snowmentor.com
 soggysponge.com
-soggyzoo.com
 solarislabyrinth.com
 soleblinds.com
 solidsub.com
@@ -1447,7 +1422,6 @@ springsnails.com
 sproutingbag.com
 sprysummit.com
 spuriousair.com
-spuriousbase.com
 spurioussquirrel.com
 spurioussteam.com
 spuriousstranger.com
@@ -1541,9 +1515,7 @@ supplyreward.com
 supplysummer.com
 supportwaves.com
 surfacesmedia.com
-suspendseed.com
 swankysquare.com
-sweepsheep.com
 sweetslope.com
 swellstocking.com
 swimfreely.com
@@ -1579,7 +1551,6 @@ teenytinyshirt.com
 teenytinytongue.com
 telephoneapparatus.com
 tempertrick.com
-tempttalk.com
 temptteam.com
 tendertest.com
 tenhourweek.com
@@ -1619,7 +1590,6 @@ tofusquirrel.com
 toolcapital.com
 toomanyalts.com
 topcrazypress.com
-torpidtongue.com
 touristfuel.com
 toweringanswer.com
 toysbasics.com
@@ -1767,7 +1737,6 @@ wretchedfloor.com
 writewealth.com
 wrongpotato.com
 wrongwound.com
-wryfinger.com
 wtaccesscontrol.com
 yieldingwoman.com
 yourlifedream.com
