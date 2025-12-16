@@ -41,7 +41,6 @@ var urls = []string{
 	"https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
 	"https://phishing.army/download/phishing_army_blocklist_extended.txt",
 	"https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
-	"https://v.firebog.net/hosts/RPiList-Malware.txt",
 	"https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
 	"https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
 	"https://urlhaus.abuse.ch/downloads/hostfile",
@@ -49,6 +48,7 @@ var urls = []string{
 	"https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt",
 	"https://v.firebog.net/hosts/Prigent-Malware.txt",
 	"https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt",
+	"https://v.firebog.net/hosts/RPiList-Malware.txt",
 	"https://v.firebog.net/hosts/RPiList-Phishing.txt",
 	// - Other Lists
 	"https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list",

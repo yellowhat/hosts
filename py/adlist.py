@@ -36,7 +36,6 @@ URLS = [
     "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
     "https://phishing.army/download/phishing_army_blocklist_extended.txt",
     "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
-    "https://v.firebog.net/hosts/RPiList-Malware.txt",
     "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
     "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
     "https://urlhaus.abuse.ch/downloads/hostfile",
@@ -45,6 +44,7 @@ URLS = [
     "https://v.firebog.net/hosts/Prigent-Malware.txt",
     "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt",
     "https://v.firebog.net/hosts/RPiList-Phishing.txt",
+    "https://v.firebog.net/hosts/RPiList-Malware.txt",
     # - Other Lists
     "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list",
     # "https://v.firebog.net/hosts/Prigent-Adult.txt", # Huge 4.5M
