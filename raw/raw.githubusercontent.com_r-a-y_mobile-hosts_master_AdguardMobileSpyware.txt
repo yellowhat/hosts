@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Sat, 20 Dec 2025 02:15:10 +0000
+# Last converted - Fri, 26 Dec 2025 02:22:35 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -105,6 +105,13 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 vsn-analytics.aparentmedia.com
+0.0.0.0 ihmonitor.luckincoffee.us
+0.0.0.0 use-trk.monetune.com
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 unisdk.proxima.nie.easebar.com
+0.0.0.0 ingest.m2catalyst.com
+0.0.0.0 tnc-v2-boot.capcutapi.com
 0.0.0.0 onegg.site
 0.0.0.0 log.smartclearpro.com
 0.0.0.0 analytics.artworkout.net
@@ -493,7 +500,6 @@
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 tracking.purchasely.io
-0.0.0.0 uts-front.line-apps.com
 0.0.0.0 ts.line-apps.com
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 events-api.soundcloud.com
