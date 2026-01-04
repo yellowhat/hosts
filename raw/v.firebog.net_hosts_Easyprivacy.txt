@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26DEC25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 02JAN26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4439,6 +4439,7 @@ adm.adminstrumentengineering.com.au
 ad.magokoro-care-shoku.com
 admaxium.com
 admeasure.hh-online.jp
+admetrics.events
 admin.academyforconsciousleadership.net
 adminer.com
 administrator.pnclassaction.com
@@ -4870,6 +4871,7 @@ alliantdata.actonservice.com
 alliedfundingcorp.actonservice.com
 allinsurance.allinsure.ca
 alloutdubstep.com
+alloy-web.zvuk.com
 allreach.actonservice.com
 allrisks.actonservice.com
 a.lls.org
@@ -5765,6 +5767,7 @@ api.ryanyao.design
 apis.4bn.xyz
 api.sae.systems
 apisensor.actonservice.com
+apitiny.net
 api-visitor-analytics.intercom.com
 api-websystems.landing.ni.com
 api.wipmania.com
@@ -6381,6 +6384,7 @@ app.pacslo.org
 app.pally.live
 app.pandasuite.io
 app.panomoments.com
+app.partnerboost.com
 app.partner.fisglobal.com
 app.pawsket.com
 app.payments.53.com
@@ -7043,6 +7047,7 @@ awklir.0506mall.com
 awmonitor.com
 awogtl.1stopbedrooms.com
 awowwo.forever21.com
+aw.perlesandco.com
 awrgkd.1000farmacie.it
 aws-br-cdn.kwai.net.iberostar.com
 aws-br-pic.kwai.net.iberostar.com
@@ -8360,6 +8365,7 @@ cdl.booksy.com
 cdl.lvsafe.io
 cdn1.skrill.com
 cdn7.baunetz.de
+cdn.9gtb.com
 cdn.arcstudiopro.com
 cdn-channels-pixel.ex.co
 cdn-eu.usefathom.com
@@ -8736,6 +8742,7 @@ cls7.theushuaiaexperience.com
 cl.t3n.de
 cltgtstor001.blob.core.windows.net
 cltr.irlmail.org
+cltr.willhaben.at
 cltxxq.cruises.united.com
 clumsycar.com
 clyexf.decathlon.ie
@@ -8948,6 +8955,7 @@ colliers.actonservice.com
 coloradoserves.com
 colorfulpet.com
 coloringisland.com
+coloroptimizer.com
 colors.chamoji.com
 colossalclouds.com
 colossalcoat.com
@@ -9400,6 +9408,7 @@ cookiex.ngd.yahoo.com
 cooking-app.lkk.com
 coolestcatcare.com
 coolguesthouse.com
+coolkidsdistrict.com
 coop.vmware.com
 coordinatedcoat.com
 cooyxg.tennis-point.de
@@ -11283,7 +11292,6 @@ dls.guidrr.com
 dl.shopwell.com
 dl-stage.6tst.com
 dl-stage.zola.com
-dlswbr.baidu.com
 dl.tablelist.com
 dl-test.4buy.net
 dl-test.boutiqat.com
@@ -14915,6 +14923,7 @@ gtmfsstatic.getgoogletagmanager.com
 gtm.lercio.it
 gtm.mandesager.dk
 gtm.wise.com
+gtm.xtb.com
 gtreus.aliexpress.com
 gtrk.s3.amazonaws.com
 gtzpic.opodo.co.uk
@@ -16168,6 +16177,7 @@ impact.go.economist.com
 impactradius-event.com
 imp.ad-plus.cn
 imp.go.sohu.com
+imponestvional.com
 imp.optaim.com
 importantmeat.com
 importedinsect.com
@@ -17287,6 +17297,7 @@ isharemetric.rediff.com
 i.shelf.im
 ish.tumedia.no
 isjoui.cainz.com
+islandssouth.com
 islandwebhelp.com
 is.lg.com
 is-log.furunavi.jp
@@ -17639,6 +17650,7 @@ jun23.madeindesign.de
 jupiterhealth-app.hotdoc.com.au
 justconfig.com
 justicejudo.com
+justlagoon.com
 justpickaname.com
 just.playvici.com
 justsayyes.infor.com
@@ -17999,6 +18011,7 @@ lawyers.rigbycooke.com.au
 layeredinsight.actonservice.com
 l.azarlive.com
 lazychord.com
+lazyexplore.com
 lb.billing01.email-allstate.com
 lbc.lesbonscommerces.fr
 l.beaute-test.com
@@ -19077,6 +19090,7 @@ lists.ccmbg.com
 lit.connatix.com
 literally-analytics.appspot.com
 l.itribe.in
+littlesun.net
 live.alljobs.co.il
 live.comunicaciones.jetstereo.com
 livecounter.theyosh.nl
@@ -19228,6 +19242,7 @@ log.gs3.goo.ne.jp
 loggychops.paulsmith.site
 log.hiiir.com
 log.hypebeast.com
+logicalminds.net
 logicanalytics.io
 log.idnes.cz
 login.e-ticket.co.jp
@@ -19323,6 +19338,7 @@ loveseashore.com
 love.vidora.su
 lowercases.com
 lowermybills.actonsoftware.com
+lowerthewatts.net
 lowgxl.yokumoku.jp
 lozano.net.anwalt.de
 lozjnq.stateandliberty.com
@@ -19535,6 +19551,7 @@ luaqlg.blissy.com
 lub-links.eyecue.io
 lucanet.actonservice.com
 lucid.mjhassoc.com
+luckyshelf.com
 ludicrousarch.com
 luegnh.sneakercage.gr
 lujaqg.e-blooming.com
@@ -19550,6 +19567,7 @@ lumpygnome.com
 lumpylumber.com
 lumpywood.com
 lumtjt.plumbingonline.ca
+lunarcave.com
 lunchroomlock.com
 l.unfy.ai
 luptbq.lampsplus.com
@@ -19640,6 +19658,7 @@ maddeningpowder.com
 madebyintent.com
 madisoncres.actonservice.com
 madlysuccessful.com
+madnessbuzz.com
 madoverrice.com
 madrid.report.botm.transparentedge.io
 m.aecrimecentral.com
@@ -19752,6 +19771,8 @@ mandant.net.anwalt.de
 mandrillapp.zola.com
 mantrafox.com
 manufacturing.autodeskcommunications.com
+manydiamonds.com
+manyfishes.com
 ma.pasco.com
 mapbasin.com
 mapcommand.com
@@ -21267,6 +21288,7 @@ marriedvalue.com
 marrowleaves.com
 marsh.actonservice.com
 marshinsurance.actonservice.com
+marsnextdoor.com
 marsupial.roleup.com
 martech.condenastdigital.com
 martech.wavenet.com.tw
@@ -22867,7 +22889,6 @@ metrics.steinhafels.com
 metrics.stockhead.com.au
 metrics.store.irobot.com
 metrics.strategiccoach.com
-metrics.streaks.jp
 metrics.striderite.com
 metrics.strokeawareness.com
 metrics.stubhub.co.uk
@@ -23198,7 +23219,6 @@ mholland.net.anwalt.de
 mhrkxi.thetrybe.com.au
 mhwbhn.tohapi.fr
 mhz-design.actonservice.com
-miao.baidu.com
 michiganrobotflower.com
 microfocus.qm-g.com
 microlearning.att.com
@@ -23274,6 +23294,7 @@ mix-omniture.rbs.com
 mixomniture.rbs.com
 mixpanel-proxy.coingecko.com
 mixpanel-proxy.ted.com
+mixplays.com
 mixxuo.sportys.gr
 m.jarvisinvest.com
 mjca-yijws.global.ssl.fastly.net
@@ -23635,6 +23656,7 @@ mx.information.maileva.com
 mxmwqo.biosante.com.br
 mx.mywd.com
 mxpdsu.bhv.fr
+mxradon.com
 mxsvjc.hackers.ac
 my8yyx7wcyyt.dev.monumentmetals-pwa.stgin.com
 mya.actonservice.com
@@ -24199,7 +24221,9 @@ obqclg.dadway-onlineshop.com
 obqvss.debameubelen.be
 obrazy.dlabiznesu.pracuj.pl
 obrqts.hudforeclosed.com
+obs.branderblender.com
 obscenesidewalk.com
+obs.du89buildings.com
 observe.metarouter.io
 observe-nexus.pointandplace.com
 observer.ip-label.net
@@ -25291,6 +25315,7 @@ pixel.tuko.co.ke
 pixelvariety.com
 pixel.veritone-ce.com
 pixel.videohub.tv
+pixel.visitiq.io
 pixel.wetracked.io
 pixel.wp.com
 pixel.wp.pl
@@ -32428,6 +32453,7 @@ spaces.martela.se
 spain.thomsonreuters.com
 spam.carte-gr.total.fr
 spamtitan.actonservice.com
+spaning.creavite.co
 sp-app.fixly.pl
 spareapp.com
 sparkgoal.com
@@ -36107,6 +36133,7 @@ tmx.bestbuy.com
 tmxjdr.benaza.ro
 tmx.td.com
 tmy8.madeindesign.ch
+t.mydialoginsight.com
 t.mynexity.fr
 t.nativendo.de
 t.navysports.com
@@ -37328,6 +37355,7 @@ tradeshows.aem.org
 tradetooth.com
 tr.adhesion.ircom-laverriere.com
 traffic.acwebconnecting.com
+traffic.askrella.de
 trafficfuelpixel.s3-us-west-2.amazonaws.com
 traffic.hostedstatus.page
 trafficid.brandwell.ai
@@ -37565,6 +37593,7 @@ trck.bdi-services.de
 trck.comms.watlow.com
 trck.coomeet.com
 trck.copeland.com
+trck.digiteka.com
 trck.e.atradius.com
 trck.el.supremapoker.com.br
 trck.employerservices.experian.com
@@ -38427,6 +38456,7 @@ tr.mep.enkiapp.io
 tr.mes-bonsplans.be
 tr.mes-prestataires.fr
 tr.message.maaf.fr
+tr.metaflow.de
 tr.mhch.moet.hennessy.com
 tr.mh-connect.moethennessy.com
 tr.mhdconnect.mhdfrance.fr
@@ -39099,7 +39129,6 @@ tvkfms.nta.co.jp
 t.voyages-sncf.com
 tvpixel.com
 tvppa.actonservice.com
-t.vrbo.io
 tv-test.esvdigital.com
 tv.totaljobs.com
 tvuaeb.taqi.com.br
@@ -39317,10 +39346,7 @@ ultraoranges.com
 ultravalid.com
 ultund.misterspex.nl
 ulutlv.esprit.fr
-umami.aigenerations.net
-umami.askrella.de
 umami.flixer.su
-umami.heroku.uk
 umami.spencerdevs.xyz
 umami.vidfast.pro
 umami.wakarimasen.moe
@@ -40710,6 +40736,7 @@ wfmcgd.msccruzeiros.com.br
 wgeaqi.laredoute.gr
 wgnrrd.culturekings.com
 wgpepw.boatoutfitters.com
+wgs.wgs-static.com
 wgyapq.stormberg.com
 whahmy.timberland.es
 whale3.io
@@ -40824,6 +40851,7 @@ workplace.ricoh.ie
 workplace.ricoh.it
 workplacesolutions.equifax.com
 workplacesolutions.inform.equifax.com
+work.selecdoo.com
 workspacesolutions.gos1.com
 worldlever.com
 worldmtcs.nhk.jp
