@@ -35,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
-      - uses: docker://ghcr.io/gitleaks/gitleaks:v8.24.2
+      - uses: docker://ghcr.io/gitleaks/gitleaks:v8.30.0
         with:
           args: detect --no-git --verbose --source /github/workspace/ --config /github/workspace/.github/gitleaks.toml
 
@@ -59,7 +59,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
-      - uses: docker://ghcr.io/igorshubovych/markdownlint-cli:v0.44.0
+      - uses: docker://ghcr.io/igorshubovych/markdownlint-cli:v0.47.0
         with:
           args: markdownlint "**/*.md"
 
