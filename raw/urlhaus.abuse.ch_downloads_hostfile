@@ -1,15 +1,17 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-01-04 03:03:22 (UTC)                      #
+# Last updated: 2026-01-05 03:02:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 127.0.0.1	038d159d-b3bc-44dd-a0c4-bec68c0c4123.random.tsrv1.ws
+127.0.0.1	0ouow35c.con8ratken2r.ru
 127.0.0.1	109-111-55-221.rev.as216075.net
 127.0.0.1	1090ce78-a573-43df-908b-4bc549764a3a.random.tsrv1.ws
 127.0.0.1	111101111.ru
+127.0.0.1	11mo4fsx.ho1idayt2rn.ru
 127.0.0.1	123.ywxww.net
 127.0.0.1	1717.1000uc.com
 127.0.0.1	1855e8b9-5b39-418e-b53e-3259c2f0c3fc.random.tsrv1.ws
@@ -17,17 +19,19 @@
 127.0.0.1	225c2cd6-cbd3-4ac2-8464-cc7686273c9c.random.tsrv1.ws
 127.0.0.1	226b8f14-a155-4dbb-88f2-b146941c2fc9.random.tsrv1.ws
 127.0.0.1	3746c740-22d8-4bc2-9f60-c6c8db13ee88.random.tsrv1.ws
+127.0.0.1	3gr8e6lu.n1ghtfaise.ru
 127.0.0.1	450d4a71-458d-4d35-bd01-b075cdb0d900.random.tsrv1.ws
+127.0.0.1	489hkp0t.sunfiare.ru
 127.0.0.1	53e2e72e-92ec-45bd-b5bf-5230e35c1564.random.tsrv1.ws
 127.0.0.1	5913942c-0d07-4809-a743-1db0a1076c8f.random.tsrv1.ws
 127.0.0.1	6yd.ru
 127.0.0.1	72ec8d09-fce8-4272-9829-f4a17ae33269.random.tsrv1.ws
 127.0.0.1	7db24a1f-1cdd-4190-89ec-b2765dadb2cd.random.tsrv1.ws
+127.0.0.1	7i2b9swt.expe7iencfu9.ru
 127.0.0.1	92803df9-8cd5-43dd-811b-f2840cdabc14.random.tsrv1.ws
+127.0.0.1	929j5tsa.rainriver.ru
 127.0.0.1	a012a656-f566-48a1-afad-3dcc46018380.random.tsrv1.ws
 127.0.0.1	abissnet.net
-127.0.0.1	acaviationsupplies.com
-127.0.0.1	acc.jiangsujiaxue.com
 127.0.0.1	access.dragongolf.com
 127.0.0.1	access.skaparade.com
 127.0.0.1	acms.saleseos.com
@@ -38,8 +42,9 @@
 127.0.0.1	adobehelp.net
 127.0.0.1	adver.com.br
 127.0.0.1	advustech.com
+127.0.0.1	aerconditionat-arges.ro
+127.0.0.1	ag9sdh7p.expre5ssme4d.ru
 127.0.0.1	alarmline.com.br
-127.0.0.1	alineeleuterio.com.br
 127.0.0.1	allendostmen.com
 127.0.0.1	allister.ee
 127.0.0.1	antvietnam.com
@@ -56,15 +61,19 @@
 127.0.0.1	augsburg-auto.com
 127.0.0.1	aulist.com
 127.0.0.1	avbackup.acionline.de
+127.0.0.1	b4g475eq.atte4dh2ve.ru
 127.0.0.1	b66c2ee0-f77f-455c-bb30-9b845f1006cb.random.tsrv1.ws
 127.0.0.1	b6bc745a-7b5c-4d56-ab6c-0dd2982cb122.random.tsrv1.ws
+127.0.0.1	b76ctsj1.5kyline.ru
 127.0.0.1	backupso.com
 127.0.0.1	bankgarantia.ru
 127.0.0.1	barrel-horseracing.com
 127.0.0.1	bbb.xfrwu.cn
+127.0.0.1	bestcruisetravelinsurance.com
 127.0.0.1	bfacollege.co.in
 127.0.0.1	blaiz.me
 127.0.0.1	blessdayservices.org
+127.0.0.1	blit.co.za
 127.0.0.1	blog.tsrv1.ws
 127.0.0.1	blogs.sokun.jp
 127.0.0.1	blueoranges2025sks.de
@@ -89,8 +98,9 @@
 127.0.0.1	chat-server.maverickpreviews.com
 127.0.0.1	checkfivem.com
 127.0.0.1	checkinetverifk.com
-127.0.0.1	chinaapper.com
+127.0.0.1	chezvouscuisine.co.uk
 127.0.0.1	chiptune.com
+127.0.0.1	chuguadventures.co.tz
 127.0.0.1	classroomseven.com
 127.0.0.1	clipaid.app
 127.0.0.1	cloudstay168.com
@@ -99,7 +109,6 @@
 127.0.0.1	cmp5itpp9h30577inogg.tsrv1.ws
 127.0.0.1	cnc.504.su
 127.0.0.1	coach.028csc.com
-127.0.0.1	codeassociates.co.ke
 127.0.0.1	community.tsrv1.ws
 127.0.0.1	compuserviceonline.com.br
 127.0.0.1	computersupportexperts.com
@@ -107,6 +116,7 @@
 127.0.0.1	continentalgroup.net.in
 127.0.0.1	cpanel.tsrv1.ws
 127.0.0.1	crobel3.floresagapanto.cfd
+127.0.0.1	cryoshield.co.za
 127.0.0.1	crystalpvp.ru
 127.0.0.1	cs.go.kg
 127.0.0.1	csk.vietnamddns.com
@@ -115,6 +125,7 @@
 127.0.0.1	d.wanyouxi7.com
 127.0.0.1	d166ab3b-91ab-410f-a50d-c702fa55858d.random.tsrv1.ws
 127.0.0.1	d38c6492-db8a-468e-9680-b62c6443b8b0.random.tsrv1.ws
+127.0.0.1	d7.tfdl.net
 127.0.0.1	dansorium.gr
 127.0.0.1	darkside.cy
 127.0.0.1	data.yhydl.com
@@ -151,13 +162,15 @@
 127.0.0.1	download.pdf00.com
 127.0.0.1	download.suxiazai.com
 127.0.0.1	dowonline.ru
+127.0.0.1	dpshelp.space
+127.0.0.1	dpshelp.store
 127.0.0.1	dreamwatchevent.com
+127.0.0.1	drivercool.lol
 127.0.0.1	duratechsol.com
 127.0.0.1	dusttv.com
 127.0.0.1	dweixin.cn
 127.0.0.1	easybrand.vn
 127.0.0.1	electri.billregulator.com
-127.0.0.1	elevenhold.hu
 127.0.0.1	elisans.novayonetim.com
 127.0.0.1	embedone.com
 127.0.0.1	en.taichuan.com
@@ -176,6 +189,7 @@
 127.0.0.1	filezilla.cc
 127.0.0.1	first-security-verden.de
 127.0.0.1	flyingmutts.com
+127.0.0.1	friendsofsclarc.org
 127.0.0.1	ftp.ywxww.net
 127.0.0.1	fullstacknir.com
 127.0.0.1	fvia.id.vn
@@ -183,11 +197,12 @@
 127.0.0.1	gabyagozetim.com
 127.0.0.1	galerisenimutiara.com
 127.0.0.1	game19.flash-myanmar.com
+127.0.0.1	gim0hpzu.ce1lsfeste7.ru
 127.0.0.1	glaustralia.com
 127.0.0.1	globaltechbilling.com
 127.0.0.1	goboadvertising.autodealertech.co
-127.0.0.1	googletagamnager.com
 127.0.0.1	gordon-and-son.com
+127.0.0.1	gp0nuv6i.expe7iencfu9.ru
 127.0.0.1	grafar.floresagapanto.cfd
 127.0.0.1	grikom.info
 127.0.0.1	gutando.com
@@ -200,6 +215,7 @@
 127.0.0.1	hotellacastellana.com.uy
 127.0.0.1	hqweb.id.vn
 127.0.0.1	hseda.com
+127.0.0.1	hywk36mt.gr2vityta1k.ru
 127.0.0.1	ibnbatutta.pk
 127.0.0.1	icoffeecloud.com
 127.0.0.1	id3basketball.com
@@ -210,8 +226,8 @@
 127.0.0.1	innaflux.com
 127.0.0.1	intelligentopennetworkingawards.com
 127.0.0.1	investtrad.com
+127.0.0.1	invoker.rootxran.com
 127.0.0.1	ircftp.net
-127.0.0.1	isiore.com.co
 127.0.0.1	itcomsrv.kz
 127.0.0.1	itssprout.com
 127.0.0.1	itsurmoney.org
@@ -231,8 +247,8 @@
 127.0.0.1	konsor.ru
 127.0.0.1	kpq.at
 127.0.0.1	kramersmarionnettes.com
-127.0.0.1	kutegiagoc.com
 127.0.0.1	kuzina-teatr.ru
+127.0.0.1	l1e26ikw.5t0rmhiil.ru
 127.0.0.1	la-pan-adventures.com
 127.0.0.1	landonirwin.com
 127.0.0.1	launcher1.muonliness6.com
@@ -244,14 +260,18 @@
 127.0.0.1	lomejordesalamanca.es
 127.0.0.1	lon-01.dlo4d.com
 127.0.0.1	londonairportstransfer.co.uk
+127.0.0.1	luxor.boscoplus.com
 127.0.0.1	m-global.hksty.net
 127.0.0.1	m.bal-stroi.ru
+127.0.0.1	m1dr52xc.windbioom.ru
+127.0.0.1	m5yvac5o.gr2vityta1k.ru
 127.0.0.1	magistvapk.com.ar
 127.0.0.1	maidforyou1985.com
 127.0.0.1	mail.cambodiatouristservice.com
 127.0.0.1	mail.tsrv1.ws
 127.0.0.1	main.dsn.ovh
 127.0.0.1	mandarin.net.au
+127.0.0.1	masgrave.com
 127.0.0.1	masgraves.dev
 127.0.0.1	mastertv.mx
 127.0.0.1	merctransfers.gradycares.com
@@ -266,18 +286,17 @@
 127.0.0.1	mogimall.com
 127.0.0.1	mundocarnes.cl
 127.0.0.1	muzzumilruheel.com
-127.0.0.1	mvmconstructores.com
-127.0.0.1	mykitchenindonesia.com
 127.0.0.1	ncxps.com
 127.0.0.1	ndown2.ra2ol.com
 127.0.0.1	nelees.com
-127.0.0.1	noithaticon.vn
 127.0.0.1	nstools.tsrv1.ws
-127.0.0.1	nusatoyota.co.id
 127.0.0.1	ny.lshdw.cc
+127.0.0.1	nzrhwm99.d0tte1ran.ru
 127.0.0.1	o24o.ru
 127.0.0.1	ojang.pe.kr
 127.0.0.1	okhan.net
+127.0.0.1	oknoplastik.sk
+127.0.0.1	ol01a5t4.expe7iencfu9.ru
 127.0.0.1	onfiltre.com.tr
 127.0.0.1	online-gebuehrenzaehler.de
 127.0.0.1	onlinetanecni.cz
@@ -304,7 +323,6 @@
 127.0.0.1	p3.zbjimg.com
 127.0.0.1	page-yoda.blog
 127.0.0.1	palharesinformatica.com.br
-127.0.0.1	paololucchesi.it
 127.0.0.1	parmisbuilding.com
 127.0.0.1	pay.aqiu6.com
 127.0.0.1	pcupd.com
@@ -317,6 +335,7 @@
 127.0.0.1	pobedastaff.ru
 127.0.0.1	polonyauniversiteleri.com.tr
 127.0.0.1	presinfer.florescrinum.cfd
+127.0.0.1	probable-winner.info
 127.0.0.1	proship.ae
 127.0.0.1	public.demo.securecloudsandbox.com
 127.0.0.1	pvsa.gxfugy.cn
@@ -332,7 +351,6 @@
 127.0.0.1	records.dennisign.se
 127.0.0.1	redlk.com
 127.0.0.1	refrigeracion.delmondexpress.com
-127.0.0.1	reg.ntcccz.com
 127.0.0.1	reifenquick.de
 127.0.0.1	remotesupport.swt-online.de
 127.0.0.1	report.504.su
@@ -344,18 +362,21 @@
 127.0.0.1	royalindiancurryclub.com
 127.0.0.1	rxquickpay.com
 127.0.0.1	sabungkingbet189.com
+127.0.0.1	samuelramachandran.com
 127.0.0.1	save.jnrsmcu.com
 127.0.0.1	scainseto.com.br
 127.0.0.1	scan.504.su
-127.0.0.1	scanwellhaulage.com
 127.0.0.1	schenckel.com.br
 127.0.0.1	scrowinnal.floresflorestrela.cfd
 127.0.0.1	sdvgpro.ru
 127.0.0.1	sec.xiaoshabi.nl
+127.0.0.1	servachok.space
 127.0.0.1	server.mikompa.sch.id
+127.0.0.1	servicioslogisticosdyc.com
 127.0.0.1	sfa.com.ar
 127.0.0.1	sffacoglobal.com
 127.0.0.1	sg123.net
+127.0.0.1	shaderm.com
 127.0.0.1	shop.mediasova.ru
 127.0.0.1	shqdown.ggzuhao.com
 127.0.0.1	simbhaolisugars.in
@@ -374,7 +395,6 @@
 127.0.0.1	static.youdm.cn
 127.0.0.1	stdown.dinju.com
 127.0.0.1	stltpweavzg.tsrv1.ws
-127.0.0.1	stonecradle.com
 127.0.0.1	supercleanspb.ru
 127.0.0.1	support.clz.kr
 127.0.0.1	support.tsrv1.ws
@@ -390,8 +410,8 @@
 127.0.0.1	tehnomag.rs
 127.0.0.1	telegramcn.co
 127.0.0.1	temirtau-adm.ru
-127.0.0.1	tengfeidn.cn
 127.0.0.1	teslasuit.to
+127.0.0.1	tesllamacapp.com
 127.0.0.1	test.peperoncinochepassione.it
 127.0.0.1	tests.yjzj.org
 127.0.0.1	tfortytimes.com
@@ -403,6 +423,7 @@
 127.0.0.1	transparenciacanaa.com.br
 127.0.0.1	treinamento.convenio.to.gov.br
 127.0.0.1	trtmyanmar.com
+127.0.0.1	tryytmanyrei.live
 127.0.0.1	ujkujiiempp.tsrv1.ws
 127.0.0.1	ukguk71.ru
 127.0.0.1	uniform-factory.ae
@@ -413,9 +434,8 @@
 127.0.0.1	update.volam2005pk.com
 127.0.0.1	uploadtree.com
 127.0.0.1	upsinfo2025.com
+127.0.0.1	v65hz4cb.b1ondepi8s.ru
 127.0.0.1	vagler.ru
-127.0.0.1	valkas.top
-127.0.0.1	vcc-library.uk
 127.0.0.1	versaclean.com.br
 127.0.0.1	veryboys.com
 127.0.0.1	vgd.vg
@@ -423,11 +443,11 @@
 127.0.0.1	visam.info
 127.0.0.1	visualwikicloud.com
 127.0.0.1	vizyonuniversitesi.com.tr
+127.0.0.1	w6lcjzd6.ei8hthyp0.ru
 127.0.0.1	warkopshopfb138.cc
 127.0.0.1	website.mypetapp.co.za
 127.0.0.1	windomstatetheater.com
 127.0.0.1	wok.gooning.su
-127.0.0.1	writerartist.com
 127.0.0.1	wtechcomercio.com.br
 127.0.0.1	wwtalk.cyou
 127.0.0.1	www.ardguisser.com
@@ -443,6 +463,7 @@
 127.0.0.1	www.drgenov.com
 127.0.0.1	www.first-security-verden.de
 127.0.0.1	www.flybirdexpbd.com
+127.0.0.1	www.gao.or.kr
 127.0.0.1	www.hostingcloud.science
 127.0.0.1	www.hseda.com
 127.0.0.1	www.intelligradeeducation.vicentecisnerospub.com
@@ -486,7 +507,6 @@
 127.0.0.1	www.website.mypetapp.co.za
 127.0.0.1	www.websitedesigningindia.biz
 127.0.0.1	www.xn--on3b15m2lco2u.com
-127.0.0.1	www.xyffqh.com
 127.0.0.1	www.zamilgroups.com
 127.0.0.1	www.zhikey.com
 127.0.0.1	wz.3911.com
@@ -502,12 +522,15 @@
 127.0.0.1	xupertvapps.com
 127.0.0.1	xyfsd.com
 127.0.0.1	yahyacarpet.com
+127.0.0.1	ynr4ubkn.b1tterb0tt.ru
 127.0.0.1	yongtai.cn
 127.0.0.1	youtransfer.net
+127.0.0.1	youtubrussia.lol
 127.0.0.1	yzcplsibdtq.tsrv1.ws
+127.0.0.1	z9bdth4n.blu3cioud.ru
 127.0.0.1	zamilgroups.com
 127.0.0.1	zapchast-gazkotel.ru
 127.0.0.1	zenglobalenerji.com
+127.0.0.1	zhigao5191.com
 127.0.0.1	zycdjz.com
-127.0.0.1	zyhunkenya.co.ke
-# Number of entries: 504
+# Number of entries: 527
