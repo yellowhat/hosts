@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-01-21 02:56:08 (UTC)                      #
+# Last updated: 2026-01-22 02:55:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -19,7 +19,6 @@
 127.0.0.1	450d4a71-458d-4d35-bd01-b075cdb0d900.random.tsrv1.ws
 127.0.0.1	53e2e72e-92ec-45bd-b5bf-5230e35c1564.random.tsrv1.ws
 127.0.0.1	5913942c-0d07-4809-a743-1db0a1076c8f.random.tsrv1.ws
-127.0.0.1	6ak-tehnik.si
 127.0.0.1	6yd.ru
 127.0.0.1	72ec8d09-fce8-4272-9829-f4a17ae33269.random.tsrv1.ws
 127.0.0.1	7db24a1f-1cdd-4190-89ec-b2765dadb2cd.random.tsrv1.ws
@@ -39,13 +38,15 @@
 127.0.0.1	adobehelp.net
 127.0.0.1	adver.com.br
 127.0.0.1	advustech.com
-127.0.0.1	agent188portal.live
+127.0.0.1	aerconditionat-arges.ro
+127.0.0.1	agence-immobiliere-lyon.com
 127.0.0.1	agentportal188.work
-127.0.0.1	ahnbbd.com
 127.0.0.1	alarmline.com.br
 127.0.0.1	alineeleuterio.com.br
+127.0.0.1	aliyundunupdate.xyz
 127.0.0.1	allendostmen.com
 127.0.0.1	allister.ee
+127.0.0.1	almacensantangel.com
 127.0.0.1	antvietnam.com
 127.0.0.1	app.appzcvb.com
 127.0.0.1	apple-service93.ru
@@ -54,7 +55,6 @@
 127.0.0.1	artacom.com.br
 127.0.0.1	artscreenstudio.ru
 127.0.0.1	asdad.florpeter.xyz
-127.0.0.1	asiaengrs.com
 127.0.0.1	asl-company.ru
 127.0.0.1	at0micwallets.com
 127.0.0.1	atasapka.com.tr
@@ -65,8 +65,10 @@
 127.0.0.1	b6bc745a-7b5c-4d56-ab6c-0dd2982cb122.random.tsrv1.ws
 127.0.0.1	backupso.com
 127.0.0.1	bankgarantia.ru
-127.0.0.1	berichtenbox-nl.net
+127.0.0.1	barrel-horseracing.com
+127.0.0.1	bblissmassage.com
 127.0.0.1	bfacollege.co.in
+127.0.0.1	bigbins.rebirth.st
 127.0.0.1	binannce-uberprufung.com
 127.0.0.1	blaiz.me
 127.0.0.1	blessdayservices.org
@@ -154,20 +156,20 @@
 127.0.0.1	download.kaobeitu.com
 127.0.0.1	download.pdf00.cn
 127.0.0.1	download.pdf00.com
-127.0.0.1	download.suxiazai.com
 127.0.0.1	dowonline.ru
 127.0.0.1	dreamwatchevent.com
-127.0.0.1	duratechsol.com
 127.0.0.1	dusttv.com
 127.0.0.1	dweixin.cn
 127.0.0.1	easybrand.vn
 127.0.0.1	electri.billregulator.com
 127.0.0.1	elisans.novayonetim.com
 127.0.0.1	embedone.com
+127.0.0.1	en.taichuan.com
 127.0.0.1	energy63.ru
 127.0.0.1	epanpano.com
 127.0.0.1	estudio.ythan.com.br
 127.0.0.1	evangroup.ru
+127.0.0.1	f8designstudio.com
 127.0.0.1	fakers.co.jp
 127.0.0.1	farschid.de
 127.0.0.1	fd8a7ef9-faae-4c3c-814a-376eb024783e.random.tsrv1.ws
@@ -188,7 +190,6 @@
 127.0.0.1	gestionycobranzas.com
 127.0.0.1	glaustralia.com
 127.0.0.1	globaltechbilling.com
-127.0.0.1	gobiotechpestcontrol.com
 127.0.0.1	goboadvertising.autodealertech.co
 127.0.0.1	googletagamnager.com
 127.0.0.1	gordon-and-son.com
@@ -199,6 +200,7 @@
 127.0.0.1	hi.admini.website
 127.0.0.1	hitman-pro.ru
 127.0.0.1	hitstation.nl
+127.0.0.1	hostealo.com
 127.0.0.1	hotellacastellana.com.uy
 127.0.0.1	hqweb.id.vn
 127.0.0.1	hseda.com
@@ -225,6 +227,7 @@
 127.0.0.1	jxhuyhoang.com
 127.0.0.1	jyothishmathi.in
 127.0.0.1	kamin-premium.ru
+127.0.0.1	kavacanada.ca
 127.0.0.1	khoancatbetong89.vn
 127.0.0.1	kimyen.net
 127.0.0.1	konsor.ru
@@ -247,7 +250,6 @@
 127.0.0.1	mail.tsrv1.ws
 127.0.0.1	main.dsn.ovh
 127.0.0.1	mandarin.net.au
-127.0.0.1	masuraturbo.com
 127.0.0.1	merctransfers.gradycares.com
 127.0.0.1	metrics.gocloudmaps.com
 127.0.0.1	microsoft-analyse.com
@@ -261,7 +263,6 @@
 127.0.0.1	n.vs108.com
 127.0.0.1	ncxps.com
 127.0.0.1	ndirection.kr
-127.0.0.1	ndown2.ra2ol.com
 127.0.0.1	neccgroup.com
 127.0.0.1	nelees.com
 127.0.0.1	node.seedtobig.com
@@ -272,8 +273,6 @@
 127.0.0.1	o24o.ru
 127.0.0.1	ojang.pe.kr
 127.0.0.1	okhan.net
-127.0.0.1	oknoplastik.sk
-127.0.0.1	onfiltre.com.tr
 127.0.0.1	online-gebuehrenzaehler.de
 127.0.0.1	onlineappdownload.507.net.cn
 127.0.0.1	onlinetanecni.cz
@@ -308,17 +307,14 @@
 127.0.0.1	pns.org.pk
 127.0.0.1	pobedastaff.ru
 127.0.0.1	polonyauniversiteleri.com.tr
-127.0.0.1	portal.openchat.world
 127.0.0.1	posts-luxs.com
 127.0.0.1	proship.ae
-127.0.0.1	proveedoradeproyectosysoluciones.com
 127.0.0.1	proxy.zhalenmsl.biz.id
 127.0.0.1	public.demo.securecloudsandbox.com
 127.0.0.1	pvsa.gxfugy.cn
 127.0.0.1	qiniuyunxz.yxflzs.com
 127.0.0.1	qlqd5zqefmkcr34a.onion.sh
 127.0.0.1	quanlyphongnet.com
-127.0.0.1	rabbitsbird.info
 127.0.0.1	ramactools.net
 127.0.0.1	ramirex.ro
 127.0.0.1	ransokk.de
@@ -333,7 +329,6 @@
 127.0.0.1	rheddh.com
 127.0.0.1	riderspin.com
 127.0.0.1	robertrowe.com
-127.0.0.1	rosewoodlaminates.com
 127.0.0.1	royalindiancurryclub.com
 127.0.0.1	rxquickpay.com
 127.0.0.1	sabungkingbet189.com
@@ -347,7 +342,6 @@
 127.0.0.1	sec.xiaoshabi.nl
 127.0.0.1	sfa.com.ar
 127.0.0.1	sg123.net
-127.0.0.1	shaderm.com
 127.0.0.1	shop.mediasova.ru
 127.0.0.1	shqdown.ggzuhao.com
 127.0.0.1	simbhaolisugars.in
@@ -359,7 +353,6 @@
 127.0.0.1	softcatalog.ru
 127.0.0.1	solutelco.com
 127.0.0.1	spoar.org.in
-127.0.0.1	src1.minibai.com
 127.0.0.1	static.ilclock.com
 127.0.0.1	static.topxgun.com
 127.0.0.1	static.youdm.cn
@@ -371,7 +364,6 @@
 127.0.0.1	support.tsrv1.ws
 127.0.0.1	support.viewpoint.fr
 127.0.0.1	svirtual.sanviatorperu.edu.pe
-127.0.0.1	swiftfusion.tech
 127.0.0.1	tajalrayhan.com
 127.0.0.1	talentrecruitments.com
 127.0.0.1	tanscarattorneys.co.tz
@@ -392,15 +384,14 @@
 127.0.0.1	theholidayroads.com
 127.0.0.1	theoremaoliveoil.com
 127.0.0.1	thtp2.volamngayxua.net
-127.0.0.1	toolshare.com.tr
-127.0.0.1	topmedsolution.com
 127.0.0.1	transparenciacanaa.com.br
 127.0.0.1	treinamento.convenio.to.gov.br
 127.0.0.1	trtmyanmar.com
+127.0.0.1	tsmau.com
+127.0.0.1	tyahelp.top
 127.0.0.1	ujkujiiempp.tsrv1.ws
 127.0.0.1	ukguk71.ru
 127.0.0.1	uniform-factory.ae
-127.0.0.1	universalgroup.com.vc
 127.0.0.1	upaicdn.xinmei365.com
 127.0.0.1	upchemicals.co.in
 127.0.0.1	update.cg100iii.com
@@ -408,7 +399,6 @@
 127.0.0.1	uploadtree.com
 127.0.0.1	upsinfo2025.com
 127.0.0.1	vagler.ru
-127.0.0.1	vcc-library.uk
 127.0.0.1	versaclean.com.br
 127.0.0.1	veryboys.com
 127.0.0.1	vgd.vg
@@ -419,16 +409,16 @@
 127.0.0.1	waatheqinv.com
 127.0.0.1	warkopshopfb138.cc
 127.0.0.1	website.mypetapp.co.za
+127.0.0.1	wilknnson.com
 127.0.0.1	windomstatetheater.com
-127.0.0.1	windowsclean.us
 127.0.0.1	wittenhorst.eu
 127.0.0.1	wok.gooning.su
-127.0.0.1	woodenships-wholesale.com
 127.0.0.1	wsefghuiwehf.gxg.xxx
 127.0.0.1	www.ardguisser.com
 127.0.0.1	www.astenterprises.com.pk
 127.0.0.1	www.automobile-bk.de
 127.0.0.1	www.backupallfresh2030.com
+127.0.0.1	www.benshamcentre.co.uk
 127.0.0.1	www.blackhattoolz.com
 127.0.0.1	www.bratusferramentas.grupomoltz.com.br
 127.0.0.1	www.cambodiatouristservice.com
@@ -444,7 +434,6 @@
 127.0.0.1	www.intelligradeeducation.vicentecisnerospub.com
 127.0.0.1	www.jozefinskiatelje.si
 127.0.0.1	www.konsor.ru
-127.0.0.1	www.longfeng188.com
 127.0.0.1	www.luuk-lifestyle.eu
 127.0.0.1	www.medises.co.kr
 127.0.0.1	www.mixturro.com
@@ -469,10 +458,8 @@
 127.0.0.1	www.support-data.com
 127.0.0.1	www.tdejb.com
 127.0.0.1	www.tecunonline.com
-127.0.0.1	www.teknotown.com
 127.0.0.1	www.test.peperoncinochepassione.it
 127.0.0.1	www.udobrit.ru
-127.0.0.1	www.universalgroup.com.vc
 127.0.0.1	www.uralmetalloprokat.ru
 127.0.0.1	www.valfanto.com
 127.0.0.1	www.vuelaviajero.com
@@ -481,7 +468,6 @@
 127.0.0.1	www.xn--on3b15m2lco2u.com
 127.0.0.1	www.zamilgroups.com
 127.0.0.1	www.zhikey.com
-127.0.0.1	wz.3911.com
 127.0.0.1	xai830k.com
 127.0.0.1	xdcq3.com
 127.0.0.1	xenon.studio
@@ -499,6 +485,4 @@
 127.0.0.1	zamilgroups.com
 127.0.0.1	zapchast-gazkotel.ru
 127.0.0.1	zenglobalenerji.com
-127.0.0.1	zhigao5191.com
-127.0.0.1	zyhunkenya.co.ke
-# Number of entries: 495
+# Number of entries: 479
