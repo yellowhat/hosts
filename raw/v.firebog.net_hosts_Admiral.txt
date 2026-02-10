@@ -1,5 +1,5 @@
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 04FEB26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 09FEB26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -13,7 +13,9 @@
 abilityscale.com
 abjectattempt.com
 aboardamusement.com
+aboardfork.com
 aboardlevel.com
+abovechat.com
 abruptroad.com
 absentairport.com
 absorbingband.com
@@ -38,7 +40,6 @@ admiral.network
 admiral.support
 admiral.website
 admiralcdn.com
-admiralexternal.com
 admlcdn.com
 adorableanger.com
 adorableattention.com
@@ -77,6 +78,7 @@ anxiousapples.com
 applesarmy.com
 applyless.com
 aquaticowl.com
+archbushes.com
 archswimming.com
 aromamirror.com
 arrivegrowth.com
@@ -195,6 +197,7 @@ brunchforher.com
 buildingknife.com
 bulbbait.com
 bumpermash.com
+bumpydevelopment.com
 bunchance.com
 bungeesleeves.com
 burgersalt.com
@@ -274,7 +277,6 @@ circlelevel.com
 clammychicken.com
 clarifyverse.com
 cleanhaircut.com
-clearcomb.com
 cloisteredcurve.com
 cloudhustles.com
 cloudjumbo.com
@@ -368,7 +370,6 @@ curtaincows.com
 curvedhoney.com
 curvycry.com
 cushiondrum.com
-cutecalculator.com
 cutechin.com
 cyclopsdial.com
 dailydivision.com
@@ -1006,6 +1007,8 @@ panoramicbutter.com
 panoramicplane.com
 papamug.com
 parallelbulb.com
+parcelcreature.com
+parchedangle.com
 parchedsofa.com
 parentpicture.com
 parsimoniouspolice.com
@@ -1127,7 +1130,6 @@ radiantlullaby.com
 radiateprose.com
 raidmedics.com
 railwaygiraffe.com
-railwayrainstorm.com
 railwayreason.com
 raintwig.com
 rainyhand.com
@@ -1438,6 +1440,7 @@ stakingshock.com
 stakingsmile.com
 staleshow.com
 stalesummer.com
+stampknot.com
 starkscale.com
 startercost.com
 startingcars.com
@@ -1472,6 +1475,7 @@ stomachscience.com
 stonechin.com
 stonetumble.com
 stopstomach.com
+storescissors.com
 storeslope.com
 storesurprise.com
 straightnest.com
@@ -1651,6 +1655,7 @@ unusualtitle.com
 unwieldyhealth.com
 unwieldyimpulse.com
 unwieldyplastic.com
+unwrittenspot.com
 uppitytime.com
 uselesslumber.com
 userballot.com
