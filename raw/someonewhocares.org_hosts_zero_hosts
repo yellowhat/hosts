@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 23 Feb 2026 at 19:16:23 GMT
+# Last updated: Tue, 24 Feb 2026 at 22:16:38 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1810,6 +1810,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 costorama.fr
 0.0.0.0 countrystore.fr
 0.0.0.0 coupondio.fr
+0.0.0.0 cp.forest-host.cc
 0.0.0.0 cplelangues.fr
 0.0.0.0 cra-arc-gc-ca.noads.biz
 0.0.0.0 cra-etransfer.online
@@ -2438,6 +2439,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mightyfungi.fr
 0.0.0.0 mije.fr
 0.0.0.0 mikvr.comfortykive.xyz
+0.0.0.0 mimikacooney.acemlnc.com
 0.0.0.0 mindshareworld.fr
 0.0.0.0 mineacraft.fr
 0.0.0.0 minecraft-frannce.fr
@@ -2869,6 +2871,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 siliconf.fr
 0.0.0.0 sinera.org
 0.0.0.0 sinochem.fr
+0.0.0.0 sinu24.de
+0.0.0.0 sinu24.ee
 0.0.0.0 siteliner.fr
 0.0.0.0 sitesofa.za.com
 0.0.0.0 sitrion.fr
@@ -3264,10 +3268,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.gimp.es
 0.0.0.0 www.globalbuffer.com
 0.0.0.0 www.goggle.com
+0.0.0.0 www.googdiy.com
+0.0.0.0 www.gotorobeks.com
 0.0.0.0 www.gparted.fr
+0.0.0.0 www.gpolitico.com
 0.0.0.0 www.gradedoctortutoring.com
 0.0.0.0 www.greenshot.fr
 0.0.0.0 www.greenvistazj.pro
+0.0.0.0 www.grocreyoutlet.com
 0.0.0.0 www.grouphappy.com
 0.0.0.0 www.hajoopteg.com
 0.0.0.0 www.hakerzy.net
@@ -3309,6 +3317,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.lomalindasda.org			# Facebook trojan
 0.0.0.0 www.lostbestsgames.com
 0.0.0.0 www.magento-analytics.com
+0.0.0.0 www.maillazy.com
 0.0.0.0 www.makearestaurant.com
 0.0.0.0 www.manoces.waw.pl
 0.0.0.0 www.mikras.nl
@@ -3338,14 +3347,17 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.oppery.com
 0.0.0.0 www.otsserver.com
 0.0.0.0 www.outonixan.com
+0.0.0.0 www.pagibigfundservicers.com
 0.0.0.0 www.paintnet.es
 0.0.0.0 www.paintnet.fr
 0.0.0.0 www.paramutplus.com
 0.0.0.0 www.parejaamateur.com
 0.0.0.0 www.partsttown.com
 0.0.0.0 www.paviro.cfd
+0.0.0.0 www.pdrill.com
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 www.pearlyappss.pro
+0.0.0.0 www.peopleesbancorp.com
 0.0.0.0 www.pepernity.com
 0.0.0.0 www.phantomluck.com
 0.0.0.0 www.phormlabs.com
@@ -3434,6 +3446,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.wrestlewebnews.com
 0.0.0.0 www.yendermsoul.com
 0.0.0.0 www.youfiletor.com
+0.0.0.0 www.zenithvault.uk
 0.0.0.0 www.zippylakeri.name
 0.0.0.0 www1-van-city-signon.com
 0.0.0.0 wyoutube.fr
