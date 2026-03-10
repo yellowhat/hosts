@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 06 Mar 2026 at 02:07:15 GMT
+# Last updated: Tue, 10 Mar 2026 at 03:02:12 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1620,6 +1620,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bioware.fr
 0.0.0.0 biserka.xyz
 0.0.0.0 bitcoin-upappl.com
+0.0.0.0 bitcoinexchangemonero.com
 0.0.0.0 bitcoinplus.com
 0.0.0.0 bitsoin.fr
 0.0.0.0 biucosmetics.fr
@@ -1653,6 +1654,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bricolage-avec-robert.fr
 0.0.0.0 bricolo-blogger.fr
 0.0.0.0 bridgebase.fr
+0.0.0.0 bridgemanstt.com
 0.0.0.0 brightonclick.com
 0.0.0.0 brokking.fr
 0.0.0.0 brostyles.fr
@@ -1715,6 +1717,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 castelli-cycling.fr
 0.0.0.0 castortama.fr
 0.0.0.0 cbcare.fr
+0.0.0.0 cbt5.sdalfurqanjember.sch.id
 0.0.0.0 ccieurope.fr
 0.0.0.0 ccudl.com
 0.0.0.0 cd-elec.fr
@@ -1977,7 +1980,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 fedgroceryrebate.com
 0.0.0.0 fedi.6751242.cc
 0.0.0.0 feedbackexplorer.com
+0.0.0.0 femidignity.org
 0.0.0.0 fengyixin.com
+0.0.0.0 ferreirateixeira.adv.br
 0.0.0.0 festicolor.fr
 0.0.0.0 ffesm.fr
 0.0.0.0 fichier-pdfr.fr
@@ -1997,6 +2002,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 fnactickets.fr
 0.0.0.0 foiegras-groliere.fr
 0.0.0.0 formumactif.fr
+0.0.0.0 forumdread.com
 0.0.0.0 forurm-candaulisme.fr
 0.0.0.0 fourtuneo.fr
 0.0.0.0 foutuneo.fr
@@ -2574,6 +2580,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ns2.xidian.edu.cn
 0.0.0.0 nt.new-cars.com.es
 0.0.0.0 ntralpenedhy.pro
+0.0.0.0 nuclandary.qnfbfs.cn
 0.0.0.0 nuitphilo-ens.fr
 0.0.0.0 oclopes.fr
 0.0.0.0 oechestra.fr
@@ -2982,6 +2989,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 test.ishvara-yoga.com
 0.0.0.0 testbook.fr
 0.0.0.0 textbrokr.fr
+0.0.0.0 textion.g9y18u.cn
 0.0.0.0 thailandtravel.live
 0.0.0.0 thainationalparks.fr
 0.0.0.0 thalasur.fr
@@ -3183,6 +3191,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.aerodriftcore.uk
 0.0.0.0 www.airmedcarennetwork.com
 0.0.0.0 www.airybotsh.pro
+0.0.0.0 www.akundu.com
 0.0.0.0 www.alexyastro.com
 0.0.0.0 www.allhqpics.com			# Facebook trojan
 0.0.0.0 www.allscrabble.com
@@ -3195,6 +3204,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.audacity.es
 0.0.0.0 www.audacity.fr
 0.0.0.0 www.auto-runmz.com
+0.0.0.0 www.autoinkoopbedrijf.com
 0.0.0.0 www.availablefiles.com
 0.0.0.0 www.avemoo.com
 0.0.0.0 www.azureus.es
@@ -3204,6 +3214,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.bcwars.net
 0.0.0.0 www.be4life.ru
 0.0.0.0 www.bellamhair.com
+0.0.0.0 www.bernoussiphone.com
 0.0.0.0 www.bigantstore.com
 0.0.0.0 www.blazesemipvp.com
 0.0.0.0 www.blender3d.fr
@@ -3254,6 +3265,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.didata.bw
 0.0.0.0 www.diffuselec.com
 0.0.0.0 www.digisubmission.com
+0.0.0.0 www.digitalcoachpro.name
 0.0.0.0 www.dkpmsa.cfd
 0.0.0.0 www.dorminvaders.com
 0.0.0.0 www.dymor.cfd
@@ -3276,6 +3288,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.flexibleadmin.com
 0.0.0.0 www.fmoviehd.com
 0.0.0.0 www.fortunoxx.com
+0.0.0.0 www.francesportisas-fr.com
 0.0.0.0 www.frbonusjeux.com
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freedailydownload.com
@@ -3302,8 +3315,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.gradedoctortutoring.com
 0.0.0.0 www.greenshot.fr
 0.0.0.0 www.greenvistazj.pro
+0.0.0.0 www.griffinlist.com
 0.0.0.0 www.grocreyoutlet.com
 0.0.0.0 www.grouphappy.com
+0.0.0.0 www.growthbuilder.name
 0.0.0.0 www.hajoopteg.com
 0.0.0.0 www.hakerzy.net
 0.0.0.0 www.handbrake.es
@@ -3360,6 +3375,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.maillazy.com
 0.0.0.0 www.makearestaurant.com
 0.0.0.0 www.manoces.waw.pl
+0.0.0.0 www.markethelper.name
+0.0.0.0 www.match3quests.com
 0.0.0.0 www.mediamindpolska.com
 0.0.0.0 www.mikras.nl
 0.0.0.0 www.milkycascadeut.site
@@ -3378,6 +3395,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
 0.0.0.0 www.neonracketpro.com
+0.0.0.0 www.nobetsjustfun.com
 0.0.0.0 www.notepad2.com
 0.0.0.0 www.novemberrainx.com
 0.0.0.0 www.nu26.com
@@ -3401,6 +3419,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.parejaamateur.com
 0.0.0.0 www.partsttown.com
 0.0.0.0 www.paviro.cfd
+0.0.0.0 www.pcfixguide.help
 0.0.0.0 www.pdrill.com
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 www.pearlyappss.pro
@@ -3415,6 +3434,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.pintravelup.com
 0.0.0.0 www.pinuperblog.com
 0.0.0.0 www.pinupspinup.com
+0.0.0.0 www.pixquestion.com
 0.0.0.0 www.playbestnet.com
 0.0.0.0 www.playroyaluk.com
 0.0.0.0 www.portaldimensional.com
@@ -3429,8 +3449,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.pruialoatpmye.xyz
 0.0.0.0 www.psychics-readings-for-free.com
 0.0.0.0 www.ptcasinoonline.com
+0.0.0.0 www.purchaseproof.com
 0.0.0.0 www.qateee.com
 0.0.0.0 www.qbittorrent.com
+0.0.0.0 www.quarvions.com
 0.0.0.0 www.rackusread.com
 0.0.0.0 www.rajtoursdubai.com
 0.0.0.0 www.randki-sex.com
@@ -3451,6 +3473,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.skibidihotel.com
+0.0.0.0 www.smashchampionsat.com
 0.0.0.0 www.smionecare.com
 0.0.0.0 www.smokyshadecj.name
 0.0.0.0 www.snurrlyspin.com
@@ -3470,6 +3493,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.tanger.com.br
 0.0.0.0 www.tattnexa.tattoo
 0.0.0.0 www.tattooshaha.info			# Facebook trojan
+0.0.0.0 www.techadvisorpro.name
 0.0.0.0 www.tenantbackgronudsearch.com
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
@@ -3512,6 +3536,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.white-dock.net
 0.0.0.0 www.wholesaleorganix.com
 0.0.0.0 www.wifimarfixhotspot.com
+0.0.0.0 www.wildriderfuns.com
 0.0.0.0 www.willysy.com
 0.0.0.0 www.winecrazydesigns.com
 0.0.0.0 www.winlottofrequently.com
