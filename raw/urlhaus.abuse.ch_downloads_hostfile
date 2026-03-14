@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-03-13 03:21:15 (UTC)                      #
+# Last updated: 2026-03-14 03:19:23 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,21 +9,20 @@
 127.0.0.1	0022a601.pphost.net
 127.0.0.1	1.off3.ru
 127.0.0.1	111101111.ru
+127.0.0.1	123.ywxww.net
 127.0.0.1	1717.1000uc.com
 127.0.0.1	2.off3.ru
-127.0.0.1	5yjbyh7h.legalspeckle.digital
 127.0.0.1	7o9ige3i.documentarygo.digital
 127.0.0.1	aaa4b.com
 127.0.0.1	aaronart.com
 127.0.0.1	abissnet.net
-127.0.0.1	acaviationsupplies.com
 127.0.0.1	acc.jiangsujiaxue.com
 127.0.0.1	access.skaparade.com
 127.0.0.1	ace-project.org
 127.0.0.1	acms.saleseos.com
 127.0.0.1	admin.gestroom.it
+127.0.0.1	agence-immobiliere-lyon.com
 127.0.0.1	alarmline.com.br
-127.0.0.1	alineeleuterio.com.br
 127.0.0.1	allendostmen.com
 127.0.0.1	allister.ee
 127.0.0.1	alternativas.ru
@@ -43,13 +42,12 @@
 127.0.0.1	backupso.com
 127.0.0.1	bankgarantia.ru
 127.0.0.1	baritonclick.online
-127.0.0.1	bbb.xfrwu.cn
 127.0.0.1	bbos.minet.vn
+127.0.0.1	bgsgroup.com.ar
 127.0.0.1	biducaconfeitos.com.br
 127.0.0.1	blessdayservices.org
 127.0.0.1	blit.co.za
 127.0.0.1	blogs.sokun.jp
-127.0.0.1	blue-oceans.net
 127.0.0.1	bmdcompany.com
 127.0.0.1	bnet-api.playm8ru.win
 127.0.0.1	bnet.playm8ru.win
@@ -61,7 +59,6 @@
 127.0.0.1	bvaco.com
 127.0.0.1	c.fi3.me
 127.0.0.1	cad.659t.cn
-127.0.0.1	casadoserralheirosaocarlos.com.br
 127.0.0.1	cat.xiaoshabi.nl
 127.0.0.1	ccleaner.gl
 127.0.0.1	cdaonline.com.ar
@@ -71,8 +68,8 @@
 127.0.0.1	checkfivem.com
 127.0.0.1	checkinetverifk.com
 127.0.0.1	chinaapper.com
+127.0.0.1	chiptune.com
 127.0.0.1	chungminhtaichinhsaigon.net
-127.0.0.1	clash-org.com.cn
 127.0.0.1	classroomseven.com
 127.0.0.1	clipaid.app
 127.0.0.1	clisi.digifors.de
@@ -82,10 +79,9 @@
 127.0.0.1	cnc.mu-minhvuong.com
 127.0.0.1	co-emas.com
 127.0.0.1	coloradoskitowns.com
+127.0.0.1	communicationfirewall-security.cc
 127.0.0.1	compimento.ba
 127.0.0.1	compuserviceonline.com.br
-127.0.0.1	connects-magiceden.io
-127.0.0.1	contentmentfairnesspesky.com
 127.0.0.1	continentalgroup.net.in
 127.0.0.1	coralasargetia.ro
 127.0.0.1	corporacioncrf.com
@@ -104,21 +100,24 @@
 127.0.0.1	dcrun.co.uk
 127.0.0.1	dcwblida.dz
 127.0.0.1	definitely-not.gay
+127.0.0.1	delp-heizungsbau.de
 127.0.0.1	derekludlow.com
 127.0.0.1	devilnet.xyz
 127.0.0.1	dexios.co.za
 127.0.0.1	dezcom.com
 127.0.0.1	dhnconstrucciones.com.ar
 127.0.0.1	dialkwik.in
+127.0.0.1	digitalonline.cl
 127.0.0.1	disk.accord1key.cn
 127.0.0.1	divvanews.com
 127.0.0.1	dl.1003b.56a.com
 127.0.0.1	dl.aginjector.com
+127.0.0.1	dl.armour-inc-down.net
 127.0.0.1	dl.dzqzd.com
 127.0.0.1	dl.natgo.cn
 127.0.0.1	dla.zhuayoukong.com
+127.0.0.1	docinstall.top
 127.0.0.1	documentos.microsoft-waresystems.com
-127.0.0.1	dongyu.us
 127.0.0.1	donkeytourscroatia.com
 127.0.0.1	down.54nb.com
 127.0.0.1	down.fwqlt.com
@@ -145,16 +144,15 @@
 127.0.0.1	en.taichuan.com
 127.0.0.1	energy63.ru
 127.0.0.1	epanpano.com
-127.0.0.1	esr.ro
 127.0.0.1	estudio.ythan.com.br
 127.0.0.1	evangroup.ru
 127.0.0.1	explorer.vg
+127.0.0.1	f8designstudio.com
 127.0.0.1	fakers.co.jp
 127.0.0.1	farschid.de
 127.0.0.1	fenbushijujuefuwu.com
 127.0.0.1	fertas.com.tr
 127.0.0.1	file.blackint3.com
-127.0.0.1	file.uhsea.com
 127.0.0.1	filerit.com
 127.0.0.1	filezilla.cc
 127.0.0.1	first-security-verden.de
@@ -166,15 +164,14 @@
 127.0.0.1	gabyagozetim.com
 127.0.0.1	galerisenimutiara.com
 127.0.0.1	gharnt.com
+127.0.0.1	github.guru
+127.0.0.1	gkgkgkgff.sbs
 127.0.0.1	globaltechbilling.com
 127.0.0.1	googmeetinginvitation.com
-127.0.0.1	greenfields-world.cc
-127.0.0.1	guillaumerobin.com
 127.0.0.1	gutando.com
 127.0.0.1	hasalltalent.com
 127.0.0.1	hitman-pro.ru
 127.0.0.1	hitstation.nl
-127.0.0.1	hobobot.net
 127.0.0.1	hotellacastellana.com.uy
 127.0.0.1	hqweb.id.vn
 127.0.0.1	hseda.com
@@ -184,17 +181,17 @@
 127.0.0.1	id3702579photo-image-docs.com
 127.0.0.1	id3basketball.com
 127.0.0.1	igra123.com
-127.0.0.1	image-thaihometown.com
 127.0.0.1	img.ipxxxx.com
 127.0.0.1	indeanapolice.cc
 127.0.0.1	injectroblox.ru
+127.0.0.1	innlive.in
 127.0.0.1	inomailerhe.net
-127.0.0.1	ip118.ip-51-81-104.us
 127.0.0.1	ircftp.net
 127.0.0.1	isiore.com.co
 127.0.0.1	itssprout.com
 127.0.0.1	izocab.com
 127.0.0.1	izogard.com
+127.0.0.1	jawaratekno.com
 127.0.0.1	jlwz.cn
 127.0.0.1	joyeriatauro.com
 127.0.0.1	jyothishmathi.in
@@ -205,10 +202,10 @@
 127.0.0.1	kimyen.net
 127.0.0.1	km.tradeforexcopier.com
 127.0.0.1	konsor.ru
-127.0.0.1	kotogadang-pusako.com
 127.0.0.1	kramersmarionnettes.com
 127.0.0.1	krisidev.com
 127.0.0.1	kuzina-teatr.ru
+127.0.0.1	l2mk50mf.rednet.digital
 127.0.0.1	la-pan-adventures.com
 127.0.0.1	landonirwin.com
 127.0.0.1	lindenappliances.co.za
@@ -231,11 +228,12 @@
 127.0.0.1	mobshah.com
 127.0.0.1	modulowinapp.com
 127.0.0.1	mogimall.com
-127.0.0.1	mundocarnes.cl
 127.0.0.1	muzzumilruheel.com
+127.0.0.1	mvmconstructores.com
 127.0.0.1	n.vs108.com
 127.0.0.1	ncxps.com
 127.0.0.1	ndown2.ra2ol.com
+127.0.0.1	neilshairdressers.co.uk
 127.0.0.1	nelees.com
 127.0.0.1	noithaticon.vn
 127.0.0.1	nusatoyota.co.id
@@ -249,7 +247,6 @@
 127.0.0.1	onfiltre.com.tr
 127.0.0.1	onlineappdownload.507.net.cn
 127.0.0.1	onyxarmorcrypt.de
-127.0.0.1	onyxcryptorix.de
 127.0.0.1	onyxcyberedge.de
 127.0.0.1	onyxfortifypro.de
 127.0.0.1	onyxguardify.de
@@ -258,23 +255,23 @@
 127.0.0.1	onyxphantomlock.de
 127.0.0.1	onyxprotectech.de
 127.0.0.1	onyxsafecrypt.de
-127.0.0.1	onyxsafetrack.de
 127.0.0.1	onyxsecuregate.de
 127.0.0.1	onyxsentinelx.de
 127.0.0.1	onyxstealthnet.de
 127.0.0.1	owlcity.ru
 127.0.0.1	p3.zbjimg.com
 127.0.0.1	palharesinformatica.com.br
+127.0.0.1	pamellioty.com
 127.0.0.1	pay.aqiu6.com
 127.0.0.1	pcupd.com
 127.0.0.1	photo-id5631894.com
 127.0.0.1	pid.fly160.com
+127.0.0.1	pizzatang.net
 127.0.0.1	planetariumobil.ro
 127.0.0.1	pns.org.pk
 127.0.0.1	pobedastaff.ru
 127.0.0.1	pole-rt-inger.com
 127.0.0.1	polonyauniversiteleri.com.tr
-127.0.0.1	posts-luxs.com
 127.0.0.1	preciosasjoyitas.com.mx
 127.0.0.1	proappv2.com
 127.0.0.1	public.demo.securecloudsandbox.com
@@ -291,7 +288,6 @@
 127.0.0.1	reifenquick.de
 127.0.0.1	resourceedge.org
 127.0.0.1	reusable-flex.com
-127.0.0.1	rewardhunt.xyz
 127.0.0.1	rheddh.com
 127.0.0.1	riderspin.com
 127.0.0.1	robertrowe.com
@@ -311,9 +307,7 @@
 127.0.0.1	sg123.net
 127.0.0.1	shaderm.com
 127.0.0.1	shop.mediasova.ru
-127.0.0.1	shqdown.ggzuhao.com
 127.0.0.1	simbhaolisugars.in
-127.0.0.1	sixmexicos.com
 127.0.0.1	sk-comtel.com
 127.0.0.1	skillnorequired.cc
 127.0.0.1	smartermail.host
@@ -321,11 +315,11 @@
 127.0.0.1	softcatalog.ru
 127.0.0.1	solutelco.com
 127.0.0.1	spacemanslot88.games
-127.0.0.1	spoar.org.in
 127.0.0.1	ssagntroplexa.com
 127.0.0.1	static.ilclock.com
 127.0.0.1	static.topxgun.com
 127.0.0.1	static.youdm.cn
+127.0.0.1	stdown.dinju.com
 127.0.0.1	steam66.cn
 127.0.0.1	stonecradle.com
 127.0.0.1	studiogioeli.it
@@ -353,6 +347,7 @@
 127.0.0.1	theholidayroads.com
 127.0.0.1	theoremaoliveoil.com
 127.0.0.1	thtp2.volamngayxua.net
+127.0.0.1	todayallmatchprediction.com
 127.0.0.1	toolshare.com.tr
 127.0.0.1	top8onlinegame.com
 127.0.0.1	tradingmastery.info
@@ -368,6 +363,7 @@
 127.0.0.1	update.volam2005pk.com
 127.0.0.1	vagler.ru
 127.0.0.1	valfanto.com
+127.0.0.1	vcc-library.uk
 127.0.0.1	versaclean.com.br
 127.0.0.1	veryboys.com
 127.0.0.1	vgd.vg
@@ -375,9 +371,11 @@
 127.0.0.1	vincentdemiero.com
 127.0.0.1	visam.info
 127.0.0.1	visualwikicloud.com
+127.0.0.1	vitoboy.com
 127.0.0.1	vizyonuniversitesi.com.tr
 127.0.0.1	vizyonuniversitesi.web.tr
 127.0.0.1	vrajras.com
+127.0.0.1	vsdvsdvasvf.sbs
 127.0.0.1	vulkanvegas1000.sajautohaus.com
 127.0.0.1	webcstore.pw
 127.0.0.1	website.mypetapp.co.za
@@ -386,12 +384,12 @@
 127.0.0.1	windomstatetheater.com
 127.0.0.1	wire2spell.com
 127.0.0.1	wittenhorst.eu
+127.0.0.1	wmfkj2w9.oakbit.digital
 127.0.0.1	woupp.com
 127.0.0.1	www.ardguisser.com
 127.0.0.1	www.astenterprises.com.pk
 127.0.0.1	www.automobile-bk.de
 127.0.0.1	www.backupallfresh2030.com
-127.0.0.1	www.benshamcentre.co.uk
 127.0.0.1	www.blackhattoolz.com
 127.0.0.1	www.bratusferramentas.grupomoltz.com.br
 127.0.0.1	www.chenwangqiao.com
@@ -409,6 +407,7 @@
 127.0.0.1	www.kotojuki.com
 127.0.0.1	www.longfeng188.com
 127.0.0.1	www.medises.co.kr
+127.0.0.1	www.mevetlab.cl
 127.0.0.1	www.mixturro.com
 127.0.0.1	www.mobimpex.ro
 127.0.0.1	www.myvcart.com
@@ -443,6 +442,7 @@
 127.0.0.1	www.zamilgroups.com
 127.0.0.1	www.zhikey.com
 127.0.0.1	xanax.enzostress.st
+127.0.0.1	xdcq3.com
 127.0.0.1	xenon.studio
 127.0.0.1	xn--90abegbttpjb3bzb2j.xn--p1ai
 127.0.0.1	xn--b1afiqif6c.xn--p1ai
@@ -455,5 +455,4 @@
 127.0.0.1	zamilgroups.com
 127.0.0.1	zenglobalenerji.com
 127.0.0.1	zhigao5191.com
-127.0.0.1	zycdjz.com
-# Number of entries: 450
+# Number of entries: 449
