@@ -1,0 +1,6 @@
+files.extend-exclude = [
+    "adlist.txt",
+    "allowlist.txt",
+    "blocklist.txt",
+    "raw/**"
+]
