@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-03-19 03:32:16 (UTC)                      #
+# Last updated: 2026-03-20 03:24:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -13,7 +13,7 @@
 127.0.0.1	123.ywxww.net
 127.0.0.1	1717.1000uc.com
 127.0.0.1	2.off3.ru
-127.0.0.1	57ntnp6h.lakebit.digital
+127.0.0.1	5zfv7hdg.ironapp.digital
 127.0.0.1	aaronart.com
 127.0.0.1	abissnet.net
 127.0.0.1	acc.jiangsujiaxue.com
@@ -28,7 +28,6 @@
 127.0.0.1	allister.ee
 127.0.0.1	allsydevs.com
 127.0.0.1	alternativas.ru
-127.0.0.1	alzapdigoo.net
 127.0.0.1	alzaptop.online
 127.0.0.1	api-r8-remote.fluido-v.cfd
 127.0.0.1	api.baimless.com
@@ -45,26 +44,19 @@
 127.0.0.1	augsburg-auto.com
 127.0.0.1	auth-l9-user.termoviva.cfd
 127.0.0.1	avbackup.acionline.de
-127.0.0.1	aviator-chek.online
-127.0.0.1	b9a9ec0ece343a68.brambleufer.ru
 127.0.0.1	backupso.com
 127.0.0.1	bakhtov.com.ua
 127.0.0.1	bankgarantia.ru
 127.0.0.1	base-b4-steel.densocore.cfd
 127.0.0.1	base-f3-infra.termoviva.cfd
-127.0.0.1	bbb.xfrwu.cn
 127.0.0.1	bbos.minet.vn
-127.0.0.1	beckupfinal.online
 127.0.0.1	biducaconfeitos.com.br
-127.0.0.1	bkg-fix.com
-127.0.0.1	bkng-updt.com
 127.0.0.1	blankeyeo.com
 127.0.0.1	blessdayservices.org
 127.0.0.1	blogs.sokun.jp
 127.0.0.1	bmdcompany.com
 127.0.0.1	bnet-api.playm8ru.win
 127.0.0.1	bnet.playm8ru.win
-127.0.0.1	bnsbackend.mydevsystems.com
 127.0.0.1	bombayonline.in
 127.0.0.1	book.rollingvideogames.com
 127.0.0.1	bracell.latitude.net.br
@@ -73,6 +65,7 @@
 127.0.0.1	brightworks.cz
 127.0.0.1	bvaco.com
 127.0.0.1	c.fi3.me
+127.0.0.1	cad.659t.cn
 127.0.0.1	cambodiatouristservice.com
 127.0.0.1	captcha-verification-module.com
 127.0.0.1	casadoserralheirosaocarlos.com.br
@@ -86,6 +79,7 @@
 127.0.0.1	checkinetverifk.com
 127.0.0.1	chinaapper.com
 127.0.0.1	chiptune.com
+127.0.0.1	chuguadventures.co.tz
 127.0.0.1	chungminhtaichinhsaigon.net
 127.0.0.1	classroomseven.com
 127.0.0.1	clipaid.app
@@ -121,6 +115,7 @@
 127.0.0.1	dbss180.com
 127.0.0.1	dcrun.co.uk
 127.0.0.1	dcwblida.dz
+127.0.0.1	de3.filedwnld.top
 127.0.0.1	deejay-florin.ro
 127.0.0.1	definitely-not.gay
 127.0.0.1	delp-heizungsbau.de
@@ -169,7 +164,6 @@
 127.0.0.1	estudarebomai.com
 127.0.0.1	estudio.ythan.com.br
 127.0.0.1	evangroup.ru
-127.0.0.1	everycarebd.com
 127.0.0.1	explorer.vg
 127.0.0.1	fakers.co.jp
 127.0.0.1	farschid.de
@@ -179,17 +173,13 @@
 127.0.0.1	file.blackint3.com
 127.0.0.1	file.uhsea.com
 127.0.0.1	filerit.com
-127.0.0.1	files.wildskreen.shop
 127.0.0.1	filezilla.cc
 127.0.0.1	first-security-verden.de
-127.0.0.1	fitforevercavan.ie
 127.0.0.1	flow-z4-work.prismagrid.cfd
 127.0.0.1	flyingmutts.com
-127.0.0.1	fonij.cm
 127.0.0.1	frvrefrigeracao.com.br
 127.0.0.1	ftp.ywxww.net
 127.0.0.1	fukt.link
-127.0.0.1	funducci.org
 127.0.0.1	fz.tiansys.cn
 127.0.0.1	gabyagozetim.com
 127.0.0.1	galerisenimutiara.com
@@ -199,16 +189,15 @@
 127.0.0.1	gharnt.com
 127.0.0.1	ghost-u9-node.nauticbase.cfd
 127.0.0.1	github.guru
-127.0.0.1	glhoteles.com
 127.0.0.1	globaltechbilling.com
 127.0.0.1	googmeetinginvitation.com
 127.0.0.1	grocery.brightnous.com
 127.0.0.1	gutando.com
-127.0.0.1	happyglamper.ro
 127.0.0.1	hasalltalent.com
 127.0.0.1	hitman-pro.ru
 127.0.0.1	hitstation.nl
 127.0.0.1	hjendcs.x98665.com
+127.0.0.1	hobobot.net
 127.0.0.1	hotellacastellana.com.uy
 127.0.0.1	hqweb.id.vn
 127.0.0.1	hseda.com
@@ -232,7 +221,7 @@
 127.0.0.1	izocab.com
 127.0.0.1	izogard.com
 127.0.0.1	javascriptupdate.com
-127.0.0.1	jawaratekno.com
+127.0.0.1	jdx5tnr0.sunbit.digital
 127.0.0.1	jlwz.cn
 127.0.0.1	joyeriatauro.com
 127.0.0.1	jyothishmathi.in
@@ -240,16 +229,15 @@
 127.0.0.1	kavacanada.ca
 127.0.0.1	khoancatbetong89.vn
 127.0.0.1	kimyen.net
-127.0.0.1	kloudtechnology.in
 127.0.0.1	km.tradeforexcopier.com
-127.0.0.1	kms.com.bd
 127.0.0.1	konsor.ru
-127.0.0.1	kp1vwn9m.lakebit.digital
+127.0.0.1	kotogadang-pusako.com
 127.0.0.1	kramersmarionnettes.com
 127.0.0.1	krisidev.com
 127.0.0.1	kuzina-teatr.ru
 127.0.0.1	la-pan-adventures.com
 127.0.0.1	landonirwin.com
+127.0.0.1	libs.9tb.org
 127.0.0.1	lindenappliances.co.za
 127.0.0.1	lindnerelektroanlagen.de
 127.0.0.1	link-p9-power.prismagrid.cfd
@@ -268,19 +256,16 @@
 127.0.0.1	meetvideogoogle.com
 127.0.0.1	metrics.gocloudmaps.com
 127.0.0.1	mgtms.cc
-127.0.0.1	missysgym.com
 127.0.0.1	mistralkorea.ru
 127.0.0.1	mitreart.com
 127.0.0.1	mobshah.com
 127.0.0.1	modulowinapp.com
 127.0.0.1	mogimall.com
 127.0.0.1	movtime76.shop
+127.0.0.1	muledo.com
 127.0.0.1	mundocarnes.cl
 127.0.0.1	muzzumilruheel.com
 127.0.0.1	n.vs108.com
-127.0.0.1	ncxps.com
-127.0.0.1	ndown2.ra2ol.com
-127.0.0.1	nelark.icu
 127.0.0.1	nelees.com
 127.0.0.1	net-d88-global.termoviva.cfd
 127.0.0.1	node-x911-auth.ventonodal.cfd
@@ -311,21 +296,22 @@
 127.0.0.1	palharesinformatica.com.br
 127.0.0.1	pamellioty.com
 127.0.0.1	pay.aqiu6.com
-127.0.0.1	payables-notification.com
 127.0.0.1	pcupd.com
+127.0.0.1	phantom-mods.cfd
 127.0.0.1	photo-id5631894.com
+127.0.0.1	pid.fly160.com
 127.0.0.1	pizzatang.net
 127.0.0.1	planetariumobil.ro
 127.0.0.1	pns.org.pk
 127.0.0.1	pobedastaff.ru
 127.0.0.1	pole-rt-inger.com
 127.0.0.1	polonyauniversiteleri.com.tr
+127.0.0.1	protherapycenter.com
 127.0.0.1	public.demo.securecloudsandbox.com
 127.0.0.1	pvsa.gxfugy.cn
 127.0.0.1	qiniuyunxz.yxflzs.com
 127.0.0.1	ramirex.ro
 127.0.0.1	raw.flameblox.com
-127.0.0.1	rbcoeconsulting.com
 127.0.0.1	rdm.91yunma.cn
 127.0.0.1	reauthenticator.com
 127.0.0.1	records.dennisign.se
@@ -333,6 +319,7 @@
 127.0.0.1	refaccionesalma.com.mx
 127.0.0.1	refrigeracion.delmondexpress.com
 127.0.0.1	reifenquick.de
+127.0.0.1	resourceedge.org
 127.0.0.1	reusable-flex.com
 127.0.0.1	rheddh.com
 127.0.0.1	riderspin.com
@@ -351,9 +338,10 @@
 127.0.0.1	sbstorage.club
 127.0.0.1	scainseto.com.br
 127.0.0.1	scan-a9-point.curva-flux.cfd
-127.0.0.1	scrcarental.com
+127.0.0.1	schenckel.com.br
 127.0.0.1	sdvgpro.ru
 127.0.0.1	sec.xiaoshabi.nl
+127.0.0.1	separadordecc.com
 127.0.0.1	sg123.net
 127.0.0.1	shaderm.com
 127.0.0.1	shahamanatme.com
@@ -367,6 +355,7 @@
 127.0.0.1	smartermail.host
 127.0.0.1	soft.110route.com
 127.0.0.1	softcatalog.ru
+127.0.0.1	soliq-smart.com
 127.0.0.1	solutelco.com
 127.0.0.1	space-x9-open.polar-axis.cfd
 127.0.0.1	spacemanslot88.games
@@ -385,6 +374,7 @@
 127.0.0.1	support.clz.kr
 127.0.0.1	sutterpoint.com
 127.0.0.1	svirtual.sanviatorperu.edu.pe
+127.0.0.1	swiftfusion.tech
 127.0.0.1	sync-h1-data.gravix-net.cfd
 127.0.0.1	sync-v02-edge.ventonodal.cfd
 127.0.0.1	sys-s01-monitor.prismagrid.cfd
@@ -408,7 +398,6 @@
 127.0.0.1	theoremaoliveoil.com
 127.0.0.1	thtp2.volamngayxua.net
 127.0.0.1	todayallmatchprediction.com
-127.0.0.1	toolshare.com.tr
 127.0.0.1	top8onlinegame.com
 127.0.0.1	trace-y21-alpha.nauticbase.cfd
 127.0.0.1	transfer.weepee.io
@@ -441,7 +430,6 @@
 127.0.0.1	web-s3-infra.gravix-net.cfd
 127.0.0.1	webcstore.pw
 127.0.0.1	webdriver-select.vg
-127.0.0.1	weblive.tv
 127.0.0.1	website.mypetapp.co.za
 127.0.0.1	whrc.ru
 127.0.0.1	widexenmexico.com.mx
@@ -457,6 +445,7 @@
 127.0.0.1	www.blackhattoolz.com
 127.0.0.1	www.bratusferramentas.grupomoltz.com.br
 127.0.0.1	www.chenwangqiao.com
+127.0.0.1	www.cippe.com.cn
 127.0.0.1	www.crazywickedaddiction.com
 127.0.0.1	www.cutting-edge.in
 127.0.0.1	www.drgenov.com
@@ -494,6 +483,7 @@
 127.0.0.1	www.teslasuit.to
 127.0.0.1	www.test.peperoncinochepassione.it
 127.0.0.1	www.tmcksa.com
+127.0.0.1	www.todayallmatchprediction.com
 127.0.0.1	www.udobrit.ru
 127.0.0.1	www.uralmetalloprokat.ru
 127.0.0.1	www.vuelaviajero.com
@@ -522,5 +512,6 @@
 127.0.0.1	zone-w8-area.polar-axis.cfd
 127.0.0.1	zontiz.com
 127.0.0.1	zub5gp24.skyhub.digital
+127.0.0.1	zycdjz.com
 127.0.0.1	zynova.yzz.me
-# Number of entries: 517
+# Number of entries: 508
