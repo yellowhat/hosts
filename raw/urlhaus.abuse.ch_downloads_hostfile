@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-03-27 03:43:06 (UTC)                      #
+# Last updated: 2026-03-28 03:32:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -12,7 +12,7 @@
 127.0.0.1	123.ywxww.net
 127.0.0.1	1717.1000uc.com
 127.0.0.1	2.off3.ru
-127.0.0.1	56lr0t2n.moondev.digital
+127.0.0.1	9ecs80cc.skybit.digital
 127.0.0.1	aaronart.com
 127.0.0.1	abissnet.net
 127.0.0.1	acaviationsupplies.com
@@ -41,13 +41,13 @@
 127.0.0.1	augsburg-auto.com
 127.0.0.1	avbackup.acionline.de
 127.0.0.1	backupso.com
-127.0.0.1	bakhtov.com.ua
 127.0.0.1	bankgarantia.ru
 127.0.0.1	bbb.xfrwu.cn
 127.0.0.1	bbos.minet.vn
 127.0.0.1	biducaconfeitos.com.br
 127.0.0.1	blankeyeo.com
 127.0.0.1	blessdayservices.org
+127.0.0.1	blit.co.za
 127.0.0.1	blogs.sokun.jp
 127.0.0.1	bmdcompany.com
 127.0.0.1	bnet-api.playm8ru.win
@@ -62,7 +62,6 @@
 127.0.0.1	c.fi3.me
 127.0.0.1	cad.659t.cn
 127.0.0.1	cambodiatouristservice.com
-127.0.0.1	castroycontadores.com
 127.0.0.1	cat.xiaoshabi.nl
 127.0.0.1	ccleaner.gl
 127.0.0.1	cdaonline.com.ar
@@ -71,7 +70,7 @@
 127.0.0.1	chat-server.maverickpreviews.com
 127.0.0.1	checkfivem.com
 127.0.0.1	checkinetverifk.com
-127.0.0.1	chinasite.com.br
+127.0.0.1	chinaapper.com
 127.0.0.1	chiptune.com
 127.0.0.1	chungminhtaichinhsaigon.net
 127.0.0.1	cl.ssouy.com
@@ -80,6 +79,7 @@
 127.0.0.1	cloudstay168.com
 127.0.0.1	clubdetiroelpicarcho.com
 127.0.0.1	cn.unionlever.com
+127.0.0.1	cnc.504.su
 127.0.0.1	cnt-logiistics.com
 127.0.0.1	co-emas.com
 127.0.0.1	compimento.ba
@@ -88,7 +88,9 @@
 127.0.0.1	continentalgroup.net.in
 127.0.0.1	controliumbt.com
 127.0.0.1	coralasargetia.ro
+127.0.0.1	corepilatesnicaragua.com
 127.0.0.1	corporacioncrf.com
+127.0.0.1	cotecsecuritygroup.com
 127.0.0.1	creativevoltage.com
 127.0.0.1	crimefreesoftware.com
 127.0.0.1	crixup.com
@@ -99,7 +101,6 @@
 127.0.0.1	ct3-24.ru
 127.0.0.1	d.14yaa.com
 127.0.0.1	d.wanyouxi7.com
-127.0.0.1	d8.tfdl.net
 127.0.0.1	data.yhydl.com
 127.0.0.1	dcrun.co.uk
 127.0.0.1	delp-heizungsbau.de
@@ -132,6 +133,7 @@
 127.0.0.1	dowonline.ru
 127.0.0.1	dreamwatchevent.com
 127.0.0.1	drevos.ro
+127.0.0.1	drhenrylopez.com
 127.0.0.1	dusttv.com
 127.0.0.1	dweixin.cn
 127.0.0.1	easybrand.vn
@@ -160,6 +162,7 @@
 127.0.0.1	first-security-verden.de
 127.0.0.1	flyingmutts.com
 127.0.0.1	forlifemanagment.top
+127.0.0.1	fotosdepuebla.org
 127.0.0.1	frvrefrigeracao.com.br
 127.0.0.1	ftp.ywxww.net
 127.0.0.1	fz.tiansys.cn
@@ -172,7 +175,6 @@
 127.0.0.1	github.guru
 127.0.0.1	globaltechbilling.com
 127.0.0.1	gobiotechpestcontrol.com
-127.0.0.1	googmeetinginvitation.com
 127.0.0.1	gutando.com
 127.0.0.1	halflifeagency.top
 127.0.0.1	hasalltalent.com
@@ -182,7 +184,6 @@
 127.0.0.1	hobobot.net
 127.0.0.1	hotellacastellana.com.uy
 127.0.0.1	hqweb.id.vn
-127.0.0.1	hseda.com
 127.0.0.1	i.404.pm
 127.0.0.1	ibnbatutta.pk
 127.0.0.1	icoffeecloud.com
@@ -207,7 +208,6 @@
 127.0.0.1	kavacanada.ca
 127.0.0.1	khoancatbetong89.vn
 127.0.0.1	kimyen.net
-127.0.0.1	kingstreetdental.com.au
 127.0.0.1	km.tradeforexcopier.com
 127.0.0.1	kokorostore.it
 127.0.0.1	konsor.ru
@@ -216,7 +216,6 @@
 127.0.0.1	krisidev.com
 127.0.0.1	kuzina-teatr.ru
 127.0.0.1	landonirwin.com
-127.0.0.1	lankystocks.com
 127.0.0.1	libss.0x504.com
 127.0.0.1	lindenappliances.co.za
 127.0.0.1	lindnerelektroanlagen.de
@@ -234,6 +233,7 @@
 127.0.0.1	marketingsuperstar.top
 127.0.0.1	marsalek.cy
 127.0.0.1	meetvideogoogle.com
+127.0.0.1	metrics.gocloudmaps.com
 127.0.0.1	mgtms.cc
 127.0.0.1	mistralkorea.ru
 127.0.0.1	mitreart.com
@@ -243,8 +243,10 @@
 127.0.0.1	movtime76.shop
 127.0.0.1	muledo.com
 127.0.0.1	mundocarnes.cl
+127.0.0.1	muzzumilruheel.com
 127.0.0.1	n.vs108.com
 127.0.0.1	ncxps.com
+127.0.0.1	ndown2.ra2ol.com
 127.0.0.1	nelees.com
 127.0.0.1	noithaticon.vn
 127.0.0.1	nusatoyota.co.id
@@ -253,8 +255,8 @@
 127.0.0.1	ojang.pe.kr
 127.0.0.1	okhan.net
 127.0.0.1	oknoplastik.sk
-127.0.0.1	one-graup.com
 127.0.0.1	onfiltre.com.tr
+127.0.0.1	onlineappdownload.507.net.cn
 127.0.0.1	onlinemoneyagency.top
 127.0.0.1	onlymediumsteak.top
 127.0.0.1	onyxarmorcrypt.de
@@ -293,7 +295,6 @@
 127.0.0.1	redhairsyndrom.top
 127.0.0.1	redlk.com
 127.0.0.1	refaccionesalma.com.mx
-127.0.0.1	refrigeracion.delmondexpress.com
 127.0.0.1	reifenquick.de
 127.0.0.1	reusable-flex.com
 127.0.0.1	rheddh.com
@@ -304,21 +305,18 @@
 127.0.0.1	rrhh.intelsolut.com
 127.0.0.1	rxquickpay.com
 127.0.0.1	sabungkingbet189.com
-127.0.0.1	save.jnrsmcu.com
 127.0.0.1	sbstorage.club
 127.0.0.1	scainseto.com.br
+127.0.0.1	scan.504.su
 127.0.0.1	schenckel.com.br
 127.0.0.1	sdhscndnssl.beer
 127.0.0.1	sdvgpro.ru
 127.0.0.1	sec.xiaoshabi.nl
-127.0.0.1	sendit.sh
 127.0.0.1	separadordecc.com
 127.0.0.1	server.admirableskreen.top
 127.0.0.1	sg123.net
-127.0.0.1	sgv.app.br
 127.0.0.1	shaderm.com
 127.0.0.1	shahamanatme.com
-127.0.0.1	shalimarlpg.com
 127.0.0.1	shfug.org
 127.0.0.1	shop.mediasova.ru
 127.0.0.1	shqdown.ggzuhao.com
@@ -359,6 +357,7 @@
 127.0.0.1	tests.yjzj.org
 127.0.0.1	thebrandmantra.in
 127.0.0.1	theholidayroads.com
+127.0.0.1	thementordirectory.com
 127.0.0.1	theoremaoliveoil.com
 127.0.0.1	thtp2.volamngayxua.net
 127.0.0.1	todayallmatchprediction.com
@@ -384,14 +383,13 @@
 127.0.0.1	vincentdemiero.com
 127.0.0.1	visam.info
 127.0.0.1	visualwikicloud.com
-127.0.0.1	vizyonuniversitesi.com.tr
 127.0.0.1	vizyonuniversitesi.web.tr
 127.0.0.1	vrajras.com
-127.0.0.1	vtto2izc.starapi.digital
 127.0.0.1	web-captcha.cc
 127.0.0.1	webcstore.pw
 127.0.0.1	website.mypetapp.co.za
 127.0.0.1	whrc.ru
+127.0.0.1	whreceiverrrrrrrrr.ru
 127.0.0.1	widexenmexico.com.mx
 127.0.0.1	windomstatetheater.com
 127.0.0.1	wire2spell.com
@@ -400,7 +398,6 @@
 127.0.0.1	www.astenterprises.com.pk
 127.0.0.1	www.automobile-bk.de
 127.0.0.1	www.backupallfresh2030.com
-127.0.0.1	www.benshamcentre.co.uk
 127.0.0.1	www.blackhattoolz.com
 127.0.0.1	www.bratusferramentas.grupomoltz.com.br
 127.0.0.1	www.chenwangqiao.com
@@ -418,7 +415,6 @@
 127.0.0.1	www.kotojuki.com
 127.0.0.1	www.longfeng188.com
 127.0.0.1	www.medises.co.kr
-127.0.0.1	www.mevetlab.cl
 127.0.0.1	www.mixturro.com
 127.0.0.1	www.mobimpex.ro
 127.0.0.1	www.myvcart.com
@@ -427,7 +423,6 @@
 127.0.0.1	www.notbak.com
 127.0.0.1	www.ojang.pe.kr
 127.0.0.1	www.okhan.net
-127.0.0.1	www.pastebin.cz
 127.0.0.1	www.reifenquick.de
 127.0.0.1	www.saf-oil.ru
 127.0.0.1	www.salonmarketing.ca
@@ -436,7 +431,6 @@
 127.0.0.1	www.simbhaolisugars.in
 127.0.0.1	www.ss-01.com
 127.0.0.1	www.starcountry.net
-127.0.0.1	www.steamrub.com
 127.0.0.1	www.support-data.com
 127.0.0.1	www.tdejb.com
 127.0.0.1	www.tecunonline.com
@@ -465,6 +459,5 @@
 127.0.0.1	zamilgroups.com
 127.0.0.1	zenglobalenerji.com
 127.0.0.1	zhigao5191.com
-127.0.0.1	zonawood.org
 127.0.0.1	zycdjz.com
-# Number of entries: 461
+# Number of entries: 454
