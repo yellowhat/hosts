@@ -155,6 +155,8 @@ blocking:
       timeout: 2m
       cooldown: 1s
 
+connectIPVersion: v4
+
 customDNS:
   customTTL: 1h
   filterUnmappedTypes: true
