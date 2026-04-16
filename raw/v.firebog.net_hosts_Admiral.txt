@@ -1,5 +1,5 @@
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 06APR26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 15APR26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -9,7 +9,6 @@
 
 2znp09oa.com
 4jnzhl0d0.com
-6ldu6qa.com
 82o9v830.com
 abilityscale.com
 abjectattempt.com
@@ -79,7 +78,6 @@ anxiousapples.com
 applesarmy.com
 applyless.com
 aquaticowl.com
-ar1nvz5.com
 archswimming.com
 aromamirror.com
 arrivegrowth.com
@@ -148,6 +146,7 @@ billowybelief.com
 binspiredtees.com
 birthdaybelief.com
 bitterbear.com
+blackbrake.com
 bleachbubble.com
 bleachscarecrow.com
 bleedlight.com
@@ -427,7 +426,6 @@ distributionpocket.com
 distributiontomatoes.com
 disturbedquiet.com
 divergentoffer.com
-dk4ywix.com
 dockdigestion.com
 dogbedscentral.com
 dollardelta.com
@@ -460,7 +458,6 @@ effervescentvista.com
 efficaciouscactus.com
 effulgentnook.com
 effulgenttempest.com
-ejyymghi.com
 elasticchange.com
 elderlybean.com
 elderlytown.com
@@ -830,7 +827,6 @@ losslace.com
 loudlunch.com
 lovelydrum.com
 loveseashore.com
-lp3tdqle.com
 ludicrousarch.com
 lumberamount.com
 luminousboulevard.com
@@ -879,7 +875,6 @@ meddleplant.com
 mediatescarf.com
 mediavine.com
 mediumshort.com
-mellowbike.com
 mellowhush.com
 melodiouschorus.com
 melodiouscomposition.com
@@ -1377,7 +1372,6 @@ sophisticatedstove.com
 soresidewalk.com
 soretrain.com
 sortstructure.com
-soulclicking.com
 soundstocking.com
 sowlettuce.com
 spaceaffinity.com
@@ -1425,6 +1419,7 @@ stakingshock.com
 stakingsmile.com
 staleshow.com
 stalesummer.com
+stampknot.com
 starkscale.com
 startercost.com
 startingcars.com
@@ -1436,6 +1431,7 @@ steadfastseat.com
 steadfastsound.com
 steadfastsystem.com
 steadycopper.com
+stealsteel.com
 steelmaiden.com
 steepsister.com
 steepsquirrel.com
@@ -1443,8 +1439,6 @@ stepcattle.com
 stepwisevideo.com
 stereoproxy.com
 stereotypedsugar.com
-stickssheep.com
-stickysheet.com
 stiffgame.com
 stiffstem.com
 stimulatingsneeze.com
@@ -1547,7 +1541,6 @@ tenhourweek.com
 tennistie.com
 terriblethumb.com
 testadmiral.com
-testedtouch.com
 texturetrick.com
 thejavalane.com
 therapeuticcars.com
@@ -1727,10 +1720,8 @@ writewealth.com
 wrongpotato.com
 wrongwound.com
 wtaccesscontrol.com
-xovq5nemr.com
 yieldingwoman.com
 yourlifedream.com
-zbwp6ghm.com
 zephyrcatalyst.com
 zephyrlabyrinth.com
 zeppelinradio.com
