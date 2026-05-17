@@ -1,3 +1,7 @@
+# Creality
+api.crealitycloud.com
+mqtt.crealitycloud.com
+
 # Google
 ad.doubleclick.net
 ade.googlesyndication.com
