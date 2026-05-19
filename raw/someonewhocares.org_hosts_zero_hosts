@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 17 May 2026 at 16:13:27 GMT
+# Last updated: Tue, 19 May 2026 at 02:30:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2814,6 +2814,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 promogrim.fr
 0.0.0.0 promojustforyou.click
 0.0.0.0 propitea.fr
+0.0.0.0 propk.sa.com
 0.0.0.0 provence-ouyillage.fr
 0.0.0.0 provenfeedback.com
 0.0.0.0 psycho-test.fr
@@ -3347,6 +3348,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.blazesemipvp.com
 0.0.0.0 www.blender3d.fr
 0.0.0.0 www.blogmaking.com
+0.0.0.0 www.bloomifllowers.com
 0.0.0.0 www.blueadvantagearkasas.com
 0.0.0.0 www.bluecollarparanormal.com
 0.0.0.0 www.bmrneswk.com
@@ -3379,6 +3381,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.careertake.com
 0.0.0.0 www.carehigher.com
 0.0.0.0 www.carolmassoterapia.com
+0.0.0.0 www.casinorankerhub.com
 0.0.0.0 www.casinostarluck.net
 0.0.0.0 www.cassink.com
 0.0.0.0 www.catabcde.com
@@ -3762,6 +3765,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.pixquestion.com
 0.0.0.0 www.play-fever.com
 0.0.0.0 www.playbestnet.com
+0.0.0.0 www.playnowse.com
 0.0.0.0 www.playroyaluk.com
 0.0.0.0 www.playtactics-hub.com
 0.0.0.0 www.pluseconomy.com
@@ -3855,6 +3859,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.softwarebeginner.com
 0.0.0.0 www.sohailpc.com
 0.0.0.0 www.spectrumhomehealthinc.com
+0.0.0.0 www.spojrzenia.com
 0.0.0.0 www.sporttile.com
 0.0.0.0 www.ssdede.com
 0.0.0.0 www.ssl2.in
