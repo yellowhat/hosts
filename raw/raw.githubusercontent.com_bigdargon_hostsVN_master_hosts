@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 25 May 2026 13:46 UTC+7
-# Version: 2605251346
-# Blocked: 17.739 domains
+# Last modified: 27 May 2026 09:35 UTC+7
+# Version: 2605270935
+# Blocked: 17.760 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -12197,6 +12197,19 @@
 0.0.0.0 r72.adstag0102.xyz
 0.0.0.0 r73.adstag0102.xyz
 0.0.0.0 www.adstag0102.xyz
+#[fpjs.io]
+0.0.0.0 fpjs.io
+0.0.0.0 ap.api.fpjs.io
+0.0.0.0 api.fpjs.io
+0.0.0.0 aps1-turn.fpjs.io
+0.0.0.0 eu.api.fpjs.io
+0.0.0.0 euc1-turn.fpjs.io
+0.0.0.0 use1-turn.fpjs.io
+0.0.0.0 www.fpjs.io
+#[guoshipartners.com]
+0.0.0.0 guoshipartners.com
+0.0.0.0 ad-specs.guoshipartners.com
+0.0.0.0 www.guoshipartners.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -14264,7 +14277,6 @@
 0.0.0.0 ad-server.gulasidorna.se
 0.0.0.0 ad-server.unlimapps.com
 0.0.0.0 ad-space.net
-0.0.0.0 ad-specs.guoshipartners.com
 0.0.0.0 ad-srv.net
 0.0.0.0 ad-static.qanda.ai
 0.0.0.0 ad-tech.com
@@ -16135,6 +16147,7 @@
 0.0.0.0 fovcy1jg.pro
 0.0.0.0 foxpush.com
 0.0.0.0 foxtlytvs.com
+0.0.0.0 fqboclyjc.com
 0.0.0.0 fractionfridgejudiciary.com
 0.0.0.0 framestighterauthorize.com
 0.0.0.0 freckledoutsiderundaunted.com
@@ -16448,6 +16461,7 @@
 0.0.0.0 indieclick.com
 0.0.0.0 indignantinterim.com
 0.0.0.0 indratankman.com
+0.0.0.0 industries78.net
 0.0.0.0 industrybrains.com
 0.0.0.0 inetlog.ru
 0.0.0.0 infamousfine.com
@@ -17019,6 +17033,7 @@
 0.0.0.0 nipplelair.com
 0.0.0.0 nitroclicks.com
 0.0.0.0 niwooghu.com
+0.0.0.0 nmasyykbucqj.com
 0.0.0.0 no2veeamggaseber.com
 0.0.0.0 nobid.io
 0.0.0.0 noiselessplough.com
@@ -17052,6 +17067,7 @@
 0.0.0.0 nuggad.net
 0.0.0.0 nui.media
 0.0.0.0 nuseek.com
+0.0.0.0 nuzoqxlu.in
 0.0.0.0 nv.shunnerencinal.shop
 0.0.0.0 nv3tosjqd.com
 0.0.0.0 ny.damasseakamai.com
@@ -17656,6 +17672,7 @@
 0.0.0.0 routeserve.info
 0.0.0.0 roxr.net
 0.0.0.0 rqjcsnihsje.com
+0.0.0.0 rrejalojkc.in
 0.0.0.0 rsalcch.com
 0.0.0.0 rtb.gamoshi.io
 0.0.0.0 rtbidder.net
@@ -18635,6 +18652,7 @@
 0.0.0.0 youradexchange.com
 0.0.0.0 yqmxfz.com
 0.0.0.0 yrhnw7h63.com
+0.0.0.0 yrocvgqilrmowj.com
 0.0.0.0 yu225.com
 0.0.0.0 yuilop.com
 0.0.0.0 yume.com
@@ -18828,6 +18846,8 @@
 0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clerrrep.com
 0.0.0.0 cleverpush.com
+0.0.0.0 clickguardian.app
+0.0.0.0 clickyab.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 cloudcollect.meitudata.com
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
@@ -18998,6 +19018,7 @@
 0.0.0.0 kameleoon.eu
 0.0.0.0 kissmetrics.com
 0.0.0.0 kitbit.net
+0.0.0.0 klangoo.com
 0.0.0.0 knotch-cdn.com
 0.0.0.0 largeer.com
 0.0.0.0 lcs.loginfra.com
@@ -19126,6 +19147,7 @@
 0.0.0.0 playtomic.com
 0.0.0.0 ponos.zeronaught.com
 0.0.0.0 popupmaker.com
+0.0.0.0 pphwrevr.com
 0.0.0.0 promotionengine.com
 0.0.0.0 prooffactor.com
 0.0.0.0 propeller-tracking.com
@@ -19144,6 +19166,7 @@
 0.0.0.0 r.wdfl.co
 0.0.0.0 r1.snnd.co
 0.0.0.0 rabbitbreath.com
+0.0.0.0 ravelin.net
 0.0.0.0 rclog.rcplatformhk.com
 0.0.0.0 reachmax.cn
 0.0.0.0 receive.wmcdp.io
