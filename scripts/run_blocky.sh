@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # renovate: datasource=docker depName=ghcr.io/0xerr0r/blocky
-BLOCKY_VER=v0.31.0
+BLOCKY_VER=v0.32.0
 
 docker run \
     --name blocky \
