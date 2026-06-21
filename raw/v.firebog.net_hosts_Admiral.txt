@@ -1,5 +1,5 @@
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 17JUN26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 19JUN26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -34,11 +34,13 @@ actuallysheep.com
 actuallysnake.com
 adamantsnail.com
 addictedattention.com
+additionant.com
 admiral.help
 admiral.network
 admiral.support
 admiral.website
 admiralcdn.com
+admiralexternal.com
 admlcdn.com
 adorableanger.com
 adorableattention.com
@@ -702,7 +704,6 @@ howdyinbox.com
 humdrumhobbies.com
 humdrumtouch.com
 hurtgrape.com
-hurtteeth.com
 hustlercoach.com
 hyperlegend.com
 hypnoticwound.com
@@ -755,9 +756,7 @@ justconfig.com
 justicejudo.com
 justpickaname.com
 justwebcards.com
-kaputquill.com
 keenquill.com
-kibbleandbytes.com
 kidpowers.com
 kindhush.com
 kitetuning.com
@@ -782,7 +781,6 @@ leftliquid.com
 lemonpackage.com
 lemonsandjoy.com
 lessonsnetwork.com
-lettucecopper.com
 libraryvalue.com
 liftedknowledge.com
 lightenafterthought.com
@@ -850,7 +848,6 @@ meddleplant.com
 mediatescarf.com
 mediavine.com
 mediumshort.com
-mellowbike.com
 mellowhush.com
 melodiouschorus.com
 melodiouscomposition.com
@@ -1503,6 +1500,7 @@ tendertest.com
 tenhourweek.com
 tennistie.com
 terriblethumb.com
+terrifictooth.com
 testadmiral.com
 texturetrick.com
 thejavalane.com
@@ -1535,6 +1533,8 @@ tireinside.com
 tiresomethunder.com
 tofusquirrel.com
 toolcapital.com
+toothbrushnote.com
+toothpasterabbits.com
 topcrazypress.com
 toweringanswer.com
 toysbasics.com
@@ -1558,7 +1558,6 @@ tritebadge.com
 tritethunder.com
 tritetongue.com
 tropicalpal.com
-troubledtail.com
 troubleshade.com
 truckstomatoes.com
 truculentrate.com
