@@ -5,7 +5,7 @@ on:  # yamllint disable-line rule:truthy
   workflow_call: # allow this workflow to be called from other workflows
 
 env:
-  PYTHON_VER: "3.12"
+  PYTHON_VER: "3.14"
 
 jobs:
   codespell:
@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
-      - run: pip install yamllint==1.37.0
+      - run: pip install yamllint==1.38.0
       - run: yamllint --list-files .
       - run: yamllint --config-file .github/yamllint.yaml .
 
@@ -69,8 +69,8 @@ jobs:
       - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
       - uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # v6.4.0
         with:
-          node-version: 24
-      - run: npm install --global markdown-table-formatter@1.6.1
+          node-version: 26
+      - run: npm install --global markdown-table-formatter@1.7.0
       - run: markdown-table-formatter --check "**/*.md"
 
   shellcheck:
@@ -99,7 +99,7 @@ jobs:
       - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
-          python-version: "3.14"
+          python-version: "${{ env.PYTHON_VER }}"
       - uses: psf/black@87928e6d6761a4a6d22250e1fee5601b3998086e # 26.5.1
         with:
           options: "--check --diff"
@@ -110,8 +110,8 @@ jobs:
       - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
-          python-version: "3.14"
-      - run: pip install flake8==7.2.0
+          python-version: "${{ env.PYTHON_VER }}"
+      - run: pip install flake8==7.3.0
       - run: flake8 --count --statistics --verbose --ignore E501 .
 
   ruff:
@@ -121,7 +121,7 @@ jobs:
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install ruff==0.11.2
+      - run: pip install ruff==0.15.20
       - run: ruff check --show-files .
       - run: ruff check --diff .
 
@@ -132,7 +132,7 @@ jobs:
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install pyflakes==3.3.2
+      - run: pip install pyflakes==3.4.0
       - run: pyflakes .
 
   pyupgrade:
@@ -142,7 +142,7 @@ jobs:
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install pyupgrade==3.19.1
+      - run: pip install pyupgrade==3.21.2
       - run: find . -iname "*.py" | xargs pyupgrade
 
   pylint:
@@ -152,7 +152,7 @@ jobs:
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install pylint[spelling]==3.3.6
+      - run: pip install pylint[spelling]==4.0.6
       - run: |
           pylint \
               --verbose \
@@ -166,7 +166,7 @@ jobs:
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install mypy==1.15.0
+      - run: pip install mypy==2.2.0
       - run: mypy --install-types --non-interactive --strict .
 
   vulture:
@@ -176,7 +176,7 @@ jobs:
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install vulture==2.14
+      - run: pip install vulture==2.16
       - run: vulture --min-confidence 65 .
 
   bandit:
@@ -186,5 +186,5 @@ jobs:
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
           python-version: "${{ env.PYTHON_VER }}"
-      - run: pip install bandit==1.8.3
+      - run: pip install bandit==1.9.4
       - run: bandit --recursive .
