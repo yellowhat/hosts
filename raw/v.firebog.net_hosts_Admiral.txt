@@ -1,5 +1,5 @@
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 13JUL26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 20JUL26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -10,6 +10,7 @@
 2znp09oa.com
 4jnzhl0d0.com
 82o9v830.com
+abilityscale.com
 abjectattempt.com
 aboardamusement.com
 aboardfork.com
@@ -38,7 +39,6 @@ admiral.network
 admiral.support
 admiral.website
 admiralcdn.com
-admiralexternal.com
 admlcdn.com
 adorableanger.com
 adorableattention.com
@@ -333,7 +333,6 @@ critictruck.com
 crookedcreature.com
 crowdedmass.com
 crunchcontrol.com
-cryptvalue.com
 crystalboulevard.com
 cubchannel.com
 cubepins.com
@@ -355,7 +354,6 @@ cushiondrum.com
 cutecalculator.com
 cutechin.com
 cyclopsdial.com
-dailydivision.com
 damagedadvice.com
 damageddistance.com
 damdoor.com
@@ -504,7 +502,6 @@ fangfeeling.com
 farethief.com
 farmergoldfish.com
 farshake.com
-farsnails.com
 fastenfather.com
 fasterfineart.com
 fasterjson.com
@@ -552,7 +549,6 @@ floweryflavor.com
 floweryoperation.com
 flushingbeast.com
 flutteringfireman.com
-foambench.com
 foamyfood.com
 followborder.com
 foodfunfestivals.com
@@ -650,7 +646,6 @@ gustocooking.com
 gustygrandmother.com
 halcyoncanyon.com
 haltingbadge.com
-haltingdivision.com
 hammerhearing.com
 handleteeth.com
 handsomehose.com
@@ -666,7 +661,6 @@ happysponge.com
 harborcaption.com
 harborcontrol.com
 harborcub.com
-hardtofindmilk.com
 harmonywing.com
 headydegree.com
 healflowers.com
@@ -925,7 +919,6 @@ novaseekers.com
 nowaymail.com
 nudgeduck.com
 nullnorth.com
-numerousnest.com
 oafishchance.com
 oafishobservation.com
 objecthero.com
@@ -1061,7 +1054,6 @@ pumpedpancake.com
 pumpedpurpose.com
 punyplant.com
 purposepipe.com
-pushypipe.com
 quantumlagoon.com
 quantumshine.com
 queenskart.com
@@ -1110,7 +1102,6 @@ recipepin.com
 reconditeprison.com
 reconditerake.com
 reconditerespect.com
-recordbutter.com
 redbricksoap.com
 reflectpaint.com
 refundradar.com
@@ -1166,7 +1157,6 @@ ruthlessdegree.com
 sableshelf.com
 sablesmile.com
 sablesong.com
-sadloaf.com
 sadspacekitty.com
 safetybrush.com
 saffronrefuge.com
@@ -1291,7 +1281,6 @@ slaysweater.com
 slickcontent.com
 slinksuggestion.com
 slopesoap.com
-sloppycalculator.com
 smallershops.com
 smashquartz.com
 smashshoe.com
@@ -1361,7 +1350,6 @@ sproutingbag.com
 sprysummit.com
 spuriousair.com
 spurioussquirrel.com
-spurioussteam.com
 spuriousstranger.com
 spysubstance.com
 squalidscrew.com
@@ -1552,7 +1540,6 @@ typicalteeth.com
 ubiquitoussea.com
 ultraoranges.com
 ultravalid.com
-unablehope.com
 unaccountablepie.com
 unarmedindustry.com
 unbecominghall.com
@@ -1635,7 +1622,6 @@ whispermeeting.com
 whoogled.com
 whymaze.com
 wildcommittee.com
-wildernesscamera.com
 wildwoodavenue.com
 windflamesky.com
 wirecomic.com
