@@ -21,14 +21,16 @@ upstreams:
   strategy: parallel_best
   groups:
     default:
+      - https://blank.dnsforge.de/dns-query
       - https://cloudflare-dns.com/dns-query
       - https://dns.mullvad.net/dns-query
-      - https://blank.dnsforge.de/dns-query
+      - https://unfiltered.joindns4.eu/dns-query
 
 bootstrapDns:
-  - upstream: https://dns.mullvad.net/dns-query
+  - upstream: https://unfiltered.joindns4.eu/dns-query
     ips:
-      - 194.242.2.2
+      - 86.54.11.100
+      - 86.54.11.200
 
 blocking:
   denylists:
