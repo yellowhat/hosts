@@ -181,5 +181,8 @@ log:
   privacy: false
   timestamp: true
 
+caching:
+  prefetching: true
+
 queryLog:
   type: console
