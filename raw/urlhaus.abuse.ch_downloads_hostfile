@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-08-06 03:56:24 (UTC)                      #
+# Last updated: 2026-08-07 01:13:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,17 +9,13 @@
 127.0.0.1	0022a601.pphost.net
 127.0.0.1	123.ywxww.net
 127.0.0.1	1717.1000uc.com
-127.0.0.1	176.65.148.145.ptr.pfcloud.network
-127.0.0.1	176.65.149.168.ptr.pfcloud.network
 127.0.0.1	45.135.194.70.ptr.pfcloud.network
 127.0.0.1	abdulahad.net
 127.0.0.1	acc.jiangsujiaxue.com
 127.0.0.1	acms.saleseos.com
-127.0.0.1	actualiza-red5g.app
 127.0.0.1	admin.byte.in.ua
 127.0.0.1	admin.gestroom.it
 127.0.0.1	aftelecom.com.br
-127.0.0.1	ahad-cn.com
 127.0.0.1	aidlifempowerment.com
 127.0.0.1	airtickts.com
 127.0.0.1	alarmline.com.br
@@ -62,7 +58,6 @@
 127.0.0.1	cat.xiaoshabi.nl
 127.0.0.1	catbaparadisehotel.com.vn
 127.0.0.1	cdaonline.com.ar
-127.0.0.1	cdn.file6.goodid.com
 127.0.0.1	celebratingseniors.net
 127.0.0.1	chat-server.maverickpreviews.com
 127.0.0.1	checkfivem.com
@@ -77,6 +72,7 @@
 127.0.0.1	cn.unionlever.com
 127.0.0.1	co-emas.com
 127.0.0.1	compuserviceonline.com.br
+127.0.0.1	comumvidros.com.br
 127.0.0.1	continentalgroup.net.in
 127.0.0.1	coralasargetia.ro
 127.0.0.1	corporacioncrf.com
@@ -84,11 +80,9 @@
 127.0.0.1	cpofficial.com
 127.0.0.1	cqylt.net
 127.0.0.1	creativevoltage.com
-127.0.0.1	crypter.gt.tc
 127.0.0.1	crypter00.gt.tc
 127.0.0.1	crystalpvp.ru
 127.0.0.1	cs.go.kg
-127.0.0.1	cxxz.co.za
 127.0.0.1	d.14yaa.com
 127.0.0.1	d.wanyouxi7.com
 127.0.0.1	damiancollier.com
@@ -96,7 +90,6 @@
 127.0.0.1	dcrun.co.uk
 127.0.0.1	dcwblida.dz
 127.0.0.1	deagroup-ks.com
-127.0.0.1	deliozmabrano.site.je
 127.0.0.1	deliverymailreport.co.za
 127.0.0.1	delp-heizungsbau.de
 127.0.0.1	dexios.co.za
@@ -120,25 +113,25 @@
 127.0.0.1	download.pdf00.cn
 127.0.0.1	download.pdf00.com
 127.0.0.1	download.suxiazai.com
+127.0.0.1	download.tfyxzai.com
 127.0.0.1	download.ubua.online
 127.0.0.1	dowonline.ru
 127.0.0.1	dreamwatchevent.com
+127.0.0.1	durakutihs.com
 127.0.0.1	dusttv.com
 127.0.0.1	dynga.pl
-127.0.0.1	eclipsebible.com
 127.0.0.1	electri.billregulator.com
 127.0.0.1	elisans.novayonetim.com
+127.0.0.1	embedone.com
 127.0.0.1	en.taichuan.com
-127.0.0.1	endpoint.project0.cc
-127.0.0.1	enter-pverif-code.info
 127.0.0.1	epanpano.com
 127.0.0.1	evangroup.ru
 127.0.0.1	fakers.co.jp
 127.0.0.1	farschid.de
 127.0.0.1	fd.v2downf.shop
-127.0.0.1	ferncurrent14.com
 127.0.0.1	fesold.com
 127.0.0.1	file.blackint3.com
+127.0.0.1	file.uhsea.com
 127.0.0.1	filerit.com
 127.0.0.1	first-security-verden.de
 127.0.0.1	flyingmutts.com
@@ -150,9 +143,10 @@
 127.0.0.1	gabyagozetim.com
 127.0.0.1	galerisenimutiara.com
 127.0.0.1	gboutros.howto.rocks
-127.0.0.1	genddos.st
 127.0.0.1	gestionycobranzas.com
+127.0.0.1	gestroom.it
 127.0.0.1	globalbank.us
+127.0.0.1	golvteametvarberg.se
 127.0.0.1	googletagamnager.com
 127.0.0.1	grantexx.com
 127.0.0.1	greenf.alexion.rs
@@ -160,18 +154,18 @@
 127.0.0.1	grupomcperu.com
 127.0.0.1	gutando.com
 127.0.0.1	hasalltalent.com
+127.0.0.1	heajost.online
 127.0.0.1	heroestales.com
 127.0.0.1	hindustanagency.com
 127.0.0.1	hitman-pro.ru
 127.0.0.1	hitstation.nl
-127.0.0.1	hjha.ao
 127.0.0.1	hobobot.net
+127.0.0.1	hseda.com
+127.0.0.1	htdentshop.com
 127.0.0.1	hwykplqn.xyz
 127.0.0.1	icoffeecloud.com
 127.0.0.1	ignetwork.us
 127.0.0.1	igra123.com
-127.0.0.1	ikincielesyaciankara.com.tr
-127.0.0.1	indusenterprises.co
 127.0.0.1	ircftp.net
 127.0.0.1	isiore.com.co
 127.0.0.1	itssprout.com
@@ -188,20 +182,19 @@
 127.0.0.1	kokorostore.it
 127.0.0.1	konsor.ru
 127.0.0.1	landonirwin.com
-127.0.0.1	lawfirm.paperbirdtech.com
 127.0.0.1	lenotecadiarqua.it
-127.0.0.1	libss.0x504.com
 127.0.0.1	lindnerelektroanlagen.de
 127.0.0.1	linktrap.co
 127.0.0.1	lion44.net
 127.0.0.1	local-update.com
 127.0.0.1	lomejordesalamanca.es
-127.0.0.1	lomiva.vu
 127.0.0.1	loosun.net
 127.0.0.1	luizmatoso.com.br
 127.0.0.1	lumacrea.com
 127.0.0.1	m.jkoa.co.kr
+127.0.0.1	m.meta-dm.com
 127.0.0.1	maidforyou1985.com
+127.0.0.1	mailify.cc
 127.0.0.1	mandarin.net.au
 127.0.0.1	meetvideogoogle.com
 127.0.0.1	metrics.gocloudmaps.com
@@ -219,9 +212,11 @@
 127.0.0.1	nusatoyota.co.id
 127.0.0.1	ny.lshdw.cc
 127.0.0.1	o24o.ru
+127.0.0.1	oim.doganltd.com.tr
 127.0.0.1	ojang.pe.kr
 127.0.0.1	oknoplastik.sk
 127.0.0.1	onfiltre.com.tr
+127.0.0.1	orienttaxtile.com
 127.0.0.1	outpost.co.ke
 127.0.0.1	p3.zbjimg.com
 127.0.0.1	palharesinformatica.com.br
@@ -238,7 +233,6 @@
 127.0.0.1	purmed.ro
 127.0.0.1	pvsa.gxfugy.cn
 127.0.0.1	qiniuyunxz.yxflzs.com
-127.0.0.1	qv.co.ke
 127.0.0.1	ramirex.ro
 127.0.0.1	rcf.co.mz
 127.0.0.1	rdm.91yunma.cn
@@ -255,10 +249,12 @@
 127.0.0.1	robertrowe.com
 127.0.0.1	royalindiancurryclub.com
 127.0.0.1	rxquickpay.com
+127.0.0.1	ryanborn.net
+127.0.0.1	s3o65awrf56.net
 127.0.0.1	sablayan.seasonshotelmindoro.com
 127.0.0.1	safeuploadz.com
+127.0.0.1	sales.ifree.page
 127.0.0.1	samiksha.com.sg
-127.0.0.1	savannahadventureslimited.com
 127.0.0.1	scainseto.com.br
 127.0.0.1	scanbot.me
 127.0.0.1	scoala1gherla.ro
@@ -272,9 +268,9 @@
 127.0.0.1	sg123.net
 127.0.0.1	shipminttracking.net
 127.0.0.1	shop.mediasova.ru
+127.0.0.1	shqdown.ggzuhao.com
 127.0.0.1	siaasesoria.com.mx
 127.0.0.1	sk-comtel.com
-127.0.0.1	skript.club
 127.0.0.1	smartermail.host
 127.0.0.1	smoking-hot.net
 127.0.0.1	sochibeer.ru
@@ -288,6 +284,7 @@
 127.0.0.1	stdown.dinju.com
 127.0.0.1	streammobs.com
 127.0.0.1	studiogioeli.it
+127.0.0.1	sumiko.vu
 127.0.0.1	sunix-technology.com
 127.0.0.1	support.clz.kr
 127.0.0.1	sutterpoint.com
@@ -310,13 +307,14 @@
 127.0.0.1	theoremaoliveoil.com
 127.0.0.1	thtp2.volamngayxua.net
 127.0.0.1	tiacreation.club
+127.0.0.1	timestampasa.howto.rocks
 127.0.0.1	toolshare.com.tr
 127.0.0.1	top8onlinegame.com
+127.0.0.1	tpp.om-stock.com
 127.0.0.1	transparenciacanaa.com.br
 127.0.0.1	trtmyanmar.com
 127.0.0.1	tuasesoriadigital.es
 127.0.0.1	twu-hwt.org
-127.0.0.1	universami.ge
 127.0.0.1	upaicdn.xinmei365.com
 127.0.0.1	upchemicals.co.in
 127.0.0.1	update.cg100iii.com
@@ -331,12 +329,12 @@
 127.0.0.1	vizyonuniversitesi.com.tr
 127.0.0.1	vizyonuniversitesi.web.tr
 127.0.0.1	vrajras.com
-127.0.0.1	wantsellonline.com
 127.0.0.1	website.mypetapp.co.za
 127.0.0.1	widexenmexico.com.mx
 127.0.0.1	windomstatetheater.com
 127.0.0.1	wittenhorst.eu
 127.0.0.1	wp.ameyiando.com
+127.0.0.1	wqok85qtq.net
 127.0.0.1	www.ardguisser.com
 127.0.0.1	www.astenterprises.com.pk
 127.0.0.1	www.automobile-bk.de
@@ -351,6 +349,7 @@
 127.0.0.1	www.dra.com.ve
 127.0.0.1	www.drgenov.com
 127.0.0.1	www.first-security-verden.de
+127.0.0.1	www.gestroom.it
 127.0.0.1	www.hostingcloud.science
 127.0.0.1	www.hqsblog.com
 127.0.0.1	www.hseda.com
@@ -358,11 +357,11 @@
 127.0.0.1	www.jozefinskiatelje.si
 127.0.0.1	www.kenwillzltd.com
 127.0.0.1	www.khavar.com
+127.0.0.1	www.knockknock.top
 127.0.0.1	www.konsor.ru
 127.0.0.1	www.medises.co.kr
 127.0.0.1	www.myvcart.com
 127.0.0.1	www.namuvpn.com
-127.0.0.1	www.nccommunication.be
 127.0.0.1	www.newkey.co.kr
 127.0.0.1	www.notbak.com
 127.0.0.1	www.ojang.pe.kr
@@ -389,10 +388,10 @@
 127.0.0.1	xiazaixitong8.com
 127.0.0.1	xn--yh4bx88a.com
 127.0.0.1	xshop.com.tr
-127.0.0.1	yd.lyjt.cc
 127.0.0.1	youtransfer.net
 127.0.0.1	zamilgroups.com
 127.0.0.1	zenglobalenerji.com
 127.0.0.1	zhigao5191.com
+127.0.0.1	zoredaye.com
 127.0.0.1	zycdjz.com
-# Number of entries: 389
+# Number of entries: 388
