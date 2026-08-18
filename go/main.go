@@ -26,7 +26,7 @@ var urls = []string{
 	"https://v.firebog.net/hosts/Admiral.txt",
 	"https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
 	"https://v.firebog.net/hosts/Easylist.txt",
-	"https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+	// "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext", # Down?
 	"https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
 	"https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
 	// - Tracking & Telemetry Lists
