@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-08-23 01:53:14 (UTC)                      #
+# Last updated: 2026-08-24 02:07:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -9,9 +9,8 @@
 127.0.0.1	0022a601.pphost.net
 127.0.0.1	123.ywxww.net
 127.0.0.1	1717.1000uc.com
-127.0.0.1	abdulahad.net
+127.0.0.1	1h.vuregyy1.ru
 127.0.0.1	acc.jiangsujiaxue.com
-127.0.0.1	accesstelematics.com
 127.0.0.1	acms.saleseos.com
 127.0.0.1	admin.byte.in.ua
 127.0.0.1	admin.gestroom.it
@@ -30,7 +29,6 @@
 127.0.0.1	awarenessexhibition.com
 127.0.0.1	backupso.com
 127.0.0.1	balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-127.0.0.1	beak.in
 127.0.0.1	bito.com.pk
 127.0.0.1	blankeyeo.com
 127.0.0.1	blessdayservices.org
@@ -51,6 +49,7 @@
 127.0.0.1	cat.xiaoshabi.nl
 127.0.0.1	catbaparadisehotel.com.vn
 127.0.0.1	cdaonline.com.ar
+127.0.0.1	cdn.file6.goodid.com
 127.0.0.1	celebratingseniors.net
 127.0.0.1	chat-server.maverickpreviews.com
 127.0.0.1	cheatclients.com
@@ -65,7 +64,6 @@
 127.0.0.1	cn.unionlever.com
 127.0.0.1	co-emas.com
 127.0.0.1	coconutoficial.com.br
-127.0.0.1	colibrik.com
 127.0.0.1	compuserviceonline.com.br
 127.0.0.1	continentalgroup.net.in
 127.0.0.1	coralasargetia.ro
@@ -87,7 +85,6 @@
 127.0.0.1	dezcom.com
 127.0.0.1	disk.accord1key.cn
 127.0.0.1	divvanews.com
-127.0.0.1	dl.1003b.56a.com
 127.0.0.1	dl.dzqzd.com
 127.0.0.1	dl.natgo.cn
 127.0.0.1	doc.e-statements.app
@@ -111,7 +108,6 @@
 127.0.0.1	eccmice.com
 127.0.0.1	electri.billregulator.com
 127.0.0.1	elisans.novayonetim.com
-127.0.0.1	embedone.com
 127.0.0.1	en.taichuan.com
 127.0.0.1	endpoint.project0.cc
 127.0.0.1	epanpano.com
@@ -120,10 +116,10 @@
 127.0.0.1	farschid.de
 127.0.0.1	fd.v2downf.shop
 127.0.0.1	file.blackint3.com
+127.0.0.1	file.uhsea.com
 127.0.0.1	filerit.com
 127.0.0.1	first-security-verden.de
 127.0.0.1	flicargo.com
-127.0.0.1	flooriscoveringworld.com
 127.0.0.1	flyingmutts.com
 127.0.0.1	fmrio.com
 127.0.0.1	fukt.link
@@ -134,8 +130,6 @@
 127.0.0.1	gabyagozetim.com
 127.0.0.1	gaiadeqi.com
 127.0.0.1	galerisenimutiara.com
-127.0.0.1	garogradba.mk
-127.0.0.1	genddos.st
 127.0.0.1	gestroom.it
 127.0.0.1	globalbank.us
 127.0.0.1	grantexx.com
@@ -154,7 +148,7 @@
 127.0.0.1	ircftp.net
 127.0.0.1	isiore.com.co
 127.0.0.1	itssprout.com
-127.0.0.1	ixirgroup.com
+127.0.0.1	jawaratekno.com
 127.0.0.1	jenniferloeffler.com
 127.0.0.1	jessespridecharters.com
 127.0.0.1	jlwz.cn
@@ -167,7 +161,6 @@
 127.0.0.1	kokorostore.it
 127.0.0.1	konsor.ru
 127.0.0.1	kramersmarionnettes.com
-127.0.0.1	krem.mesoptik.com
 127.0.0.1	landonirwin.com
 127.0.0.1	lawfirm.paperbirdtech.com
 127.0.0.1	lindnerelektroanlagen.de
@@ -180,14 +173,12 @@
 127.0.0.1	m.jkoa.co.kr
 127.0.0.1	m.meta-dm.com
 127.0.0.1	maidforyou1985.com
-127.0.0.1	mandarin.net.au
 127.0.0.1	miriamgualda.com.br
 127.0.0.1	mitreart.com
 127.0.0.1	mkconstructions.net
 127.0.0.1	mnurlogistics.az
 127.0.0.1	mogimall.com
 127.0.0.1	mon-blanc-03.cfd
-127.0.0.1	mon-blanc-04.cfd
 127.0.0.1	muaklekcoop.com
 127.0.0.1	muledo.com
 127.0.0.1	mundocarnes.cl
@@ -197,12 +188,10 @@
 127.0.0.1	n.vs108.com
 127.0.0.1	ncxps.com
 127.0.0.1	noithaticon.vn
-127.0.0.1	nusatoyota.co.id
 127.0.0.1	ny.lshdw.cc
-127.0.0.1	oim.doganltd.com.tr
 127.0.0.1	ojang.pe.kr
 127.0.0.1	oknoplastik.sk
-127.0.0.1	onlypackaging.grupoinde.com
+127.0.0.1	onfiltre.com.tr
 127.0.0.1	outpost.co.ke
 127.0.0.1	p3.zbjimg.com
 127.0.0.1	palharesinformatica.com.br
@@ -211,11 +200,11 @@
 127.0.0.1	pcupd.com
 127.0.0.1	pic.li
 127.0.0.1	planetariumobil.ro
+127.0.0.1	postelnini.mk
 127.0.0.1	practisingcertificateprotection.com
 127.0.0.1	preciosasjoyitas.com.mx
 127.0.0.1	profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 127.0.0.1	public.demo.securecloudsandbox.com
-127.0.0.1	pulgarinrealtor.com
 127.0.0.1	pvsa.gxfugy.cn
 127.0.0.1	qiniuyunxz.yxflzs.com
 127.0.0.1	qv.co.ke
@@ -277,6 +266,7 @@
 127.0.0.1	tapestryoftruth.com
 127.0.0.1	tarkioweb.com
 127.0.0.1	tattinamecheap.com
+127.0.0.1	tecunonline.com
 127.0.0.1	tehnomag.rs
 127.0.0.1	tengfeidn.cn
 127.0.0.1	tenis-team-km.com
@@ -292,13 +282,16 @@
 127.0.0.1	top8onlinegame.com
 127.0.0.1	tpp.om-stock.com
 127.0.0.1	transparenciacanaa.com.br
+127.0.0.1	trtmyanmar.com
 127.0.0.1	twitch.tj
+127.0.0.1	twu-hwt.org
+127.0.0.1	universami.ge
 127.0.0.1	upaicdn.xinmei365.com
 127.0.0.1	upchemicals.co.in
 127.0.0.1	update.cg100iii.com
 127.0.0.1	us.wind0ws.net
-127.0.0.1	v-k.com.ua
 127.0.0.1	vcc-library.uk
+127.0.0.1	verification-process.com
 127.0.0.1	versaclean.com.br
 127.0.0.1	veryboys.com
 127.0.0.1	vgd.vg
@@ -327,6 +320,7 @@
 127.0.0.1	www.cutting-edge.in
 127.0.0.1	www.drgenov.com
 127.0.0.1	www.first-security-verden.de
+127.0.0.1	www.gestroom.it
 127.0.0.1	www.hostingcloud.science
 127.0.0.1	www.hqsblog.com
 127.0.0.1	www.hseda.com
@@ -370,4 +364,4 @@
 127.0.0.1	zenglobalenerji.com
 127.0.0.1	zhigao5191.com
 127.0.0.1	zycdjz.com
-# Number of entries: 364
+# Number of entries: 358
