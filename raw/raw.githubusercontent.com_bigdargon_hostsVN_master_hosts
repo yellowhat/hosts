@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 27 Aug 2026 14:23 UTC+7
-# Version: 2608271423
-# Blocked: 18.380 domains
+# Last modified: 31 Aug 2026 22:44 UTC+7
+# Version: 2608312244
+# Blocked: 18.393 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9729,7 +9729,11 @@
 0.0.0.0 adash.man.aliyuncs.com
 #[log.aliyuncs.com]
 0.0.0.0 log.aliyuncs.com
+0.0.0.0 ap-southeast-1.log.aliyuncs.com
 0.0.0.0 alivc-aio-sgp.ap-southeast-1.log.aliyuncs.com
+0.0.0.0 tsg-hdp-client-logger-log.ap-southeast-1.log.aliyuncs.com
+0.0.0.0 tsg-hdp-raw-log.ap-southeast-1.log.aliyuncs.com
+0.0.0.0 tva-igame-global-ipa-0001.us-east-1.log.aliyuncs.com
 0.0.0.0 videocloud-sgp.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 vod-newplayer-sg.ap-southeast-1.log.aliyuncs.com
 #[ad-host-backup-*.*.aliyuncs.com]
@@ -14665,6 +14669,7 @@
 0.0.0.0 ad.leadboltapps.net
 0.0.0.0 ad.leap.app
 0.0.0.0 ad.letmeads.com
+0.0.0.0 ad.lgappstv.com
 0.0.0.0 ad.liveinternet.ru
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.meetyouintl.com
@@ -14673,6 +14678,7 @@
 0.0.0.0 ad.musicmatch.com
 0.0.0.0 ad.nachtagenten.de
 0.0.0.0 ad.netmedia.hu
+0.0.0.0 ad.nettvservices.com
 0.0.0.0 ad.nttnavi.co.jp
 0.0.0.0 ad.nvdvr.cn
 0.0.0.0 ad.period-calendar.com
@@ -15615,6 +15621,7 @@
 0.0.0.0 bareleggedhelmhim.com
 0.0.0.0 baresi.xyz
 0.0.0.0 barometercorrodingunease.com
+0.0.0.0 bartererfaxtingling.com
 0.0.0.0 basepush.com
 0.0.0.0 baskettexture.com
 0.0.0.0 batomqsmoocc.com
@@ -15923,6 +15930,7 @@
 0.0.0.0 chaseherbalpasty.com
 0.0.0.0 checkm8.com
 0.0.0.0 checkstat.nl
+0.0.0.0 cheeseoverlordsaline.com
 0.0.0.0 cheetieaha.com
 0.0.0.0 chestgoingpunch.com
 0.0.0.0 chiamfxz.com
@@ -16476,6 +16484,7 @@
 0.0.0.0 esellerate.net
 0.0.0.0 espionagegardenerthicket.com
 0.0.0.0 essbritanidim.club
+0.0.0.0 essencereferencetummy.com
 0.0.0.0 estat.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
@@ -16495,6 +16504,7 @@
 0.0.0.0 ewhareey.com
 0.0.0.0 exactag.com
 0.0.0.0 exacttargetapis.com
+0.0.0.0 excavatenearbywand.com
 0.0.0.0 exchange-it.com
 0.0.0.0 exchange.bg
 0.0.0.0 exchangead.com
@@ -16528,6 +16538,7 @@
 0.0.0.0 facebookad.for88vn.com
 0.0.0.0 facesnotebook.com
 0.0.0.0 factsheetgrievancekeg.com
+0.0.0.0 facultymakingsubgroup.com
 0.0.0.0 fadzudvracat.com
 0.0.0.0 fafeyrfqyxwivk.com
 0.0.0.0 familiarpyromaniasloping.com
@@ -18134,7 +18145,6 @@
 0.0.0.0 readingguilt.com
 0.0.0.0 readserver.net
 0.0.0.0 readymoon.com
-0.0.0.0 realcastmedia.com
 0.0.0.0 realclever.com
 0.0.0.0 realclix.com
 0.0.0.0 realizationnewestfangs.com
@@ -18858,6 +18868,7 @@
 0.0.0.0 twitchegotistical.com
 0.0.0.0 twittad.com
 0.0.0.0 twyn.com
+0.0.0.0 txjqlpch.com
 0.0.0.0 txtimpact.com
 0.0.0.0 tydcybxaxtvpw.site
 0.0.0.0 typicalteeth.com
@@ -19278,6 +19289,7 @@
 0.0.0.0 xtremetop100.com
 0.0.0.0 xtuohnfwia.in
 0.0.0.0 xubchynamm.in
+0.0.0.0 xw.citrenezippier.cfd
 0.0.0.0 xxxcounter.com
 0.0.0.0 xy7elite.com
 0.0.0.0 xydbpbnmo.com
@@ -19323,6 +19335,7 @@
 0.0.0.0 yx.crappininvein.shop
 0.0.0.0 yx.mousesprepuce.shop
 0.0.0.0 yyselrqpyu.com
+0.0.0.0 yzamhsczcvjoc.com
 0.0.0.0 yzwtz.com
 0.0.0.0 yzybyozmuhh.com
 0.0.0.0 z5x.net
