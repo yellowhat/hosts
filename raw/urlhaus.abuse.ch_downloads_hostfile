@@ -1,23 +1,25 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-09 05:38:29 (UTC)                      #
+# Last updated: 2026-09-10 05:32:28 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
+127.0.0.1	02teste.cc
 127.0.0.1	0following.com
 127.0.0.1	123.ywxww.net
 127.0.0.1	1717.1000uc.com
 127.0.0.1	198348.gl
 127.0.0.1	1h.vuregyy1.ru
 127.0.0.1	1h.xeteloi4.ru
+127.0.0.1	4eclient.com
+127.0.0.1	abilityindisabilityindia.org
 127.0.0.1	acc.jiangsujiaxue.com
 127.0.0.1	acms.saleseos.com
 127.0.0.1	addurltogoogle.com
 127.0.0.1	admin.byte.in.ua
 127.0.0.1	admin.gestroom.it
-127.0.0.1	adps.pro
 127.0.0.1	aftelecom.com.br
 127.0.0.1	aidlifempowerment.com
 127.0.0.1	airtickts.com
@@ -27,7 +29,7 @@
 127.0.0.1	alphapicaficagency.com
 127.0.0.1	alphasaling.site
 127.0.0.1	alternativas.ru
-127.0.0.1	api.cdn22.net
+127.0.0.1	api.vexxuhq.site
 127.0.0.1	app.appzcvb.com
 127.0.0.1	archivoscrosoft.com
 127.0.0.1	archway.cozyvistany.com
@@ -35,16 +37,14 @@
 127.0.0.1	atasapka.com.tr
 127.0.0.1	atom.freehosting.dev
 127.0.0.1	audicontadores.com
-127.0.0.1	aura.tcplegit.space
-127.0.0.1	authgen.deals
 127.0.0.1	b2b.jewmailer.net
 127.0.0.1	backupso.com
 127.0.0.1	balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-127.0.0.1	beak.in
 127.0.0.1	bito.com.pk
 127.0.0.1	blankeyeo.com
 127.0.0.1	blessdayservices.org
 127.0.0.1	blogs.sokun.jp
+127.0.0.1	blueoceanealtd.co.ke
 127.0.0.1	bmdcompany.com
 127.0.0.1	bnet-api.playm8ru.win
 127.0.0.1	bnet.playm8ru.win
@@ -59,7 +59,6 @@
 127.0.0.1	cat.xiaojiji.nl
 127.0.0.1	cat.xiaoshabi.nl
 127.0.0.1	catbaparadisehotel.com.vn
-127.0.0.1	ccleaner.gl
 127.0.0.1	cdaonline.com.ar
 127.0.0.1	celebratingseniors.net
 127.0.0.1	chat-server.maverickpreviews.com
@@ -80,7 +79,6 @@
 127.0.0.1	cpc188.day
 127.0.0.1	crystalpvp.ru
 127.0.0.1	cs.go.kg
-127.0.0.1	cu.srijanajha.com.np
 127.0.0.1	d.14yaa.com
 127.0.0.1	d.wanyouxi7.com
 127.0.0.1	damiancollier.com
@@ -90,6 +88,7 @@
 127.0.0.1	deagroup-ks.com
 127.0.0.1	deliverymailreport.co.za
 127.0.0.1	delp-heizungsbau.de
+127.0.0.1	detierra.cl
 127.0.0.1	dexios.co.za
 127.0.0.1	dezcom.com
 127.0.0.1	dinamikakargo.com
@@ -100,10 +99,8 @@
 127.0.0.1	dl.natgo.cn
 127.0.0.1	doc.e-statements.app
 127.0.0.1	donkeytourscroatia.com
-127.0.0.1	down.54nb.com
 127.0.0.1	down.fwqlt.com
 127.0.0.1	down.pcclear.com
-127.0.0.1	down.qqfarmer.com.cn
 127.0.0.1	download.caihong.com
 127.0.0.1	download.doumaibiji.cn
 127.0.0.1	download.haozip.com
@@ -120,13 +117,13 @@
 127.0.0.1	endpoint.project0.cc
 127.0.0.1	envs.sh
 127.0.0.1	epanpano.com
+127.0.0.1	epsinf.com
 127.0.0.1	fakers.co.jp
 127.0.0.1	farschid.de
 127.0.0.1	fd.v2downf.shop
 127.0.0.1	file.blackint3.com
 127.0.0.1	file.uhsea.com
 127.0.0.1	filerit.com
-127.0.0.1	filmchill.net
 127.0.0.1	first-security-verden.de
 127.0.0.1	flyingmutts.com
 127.0.0.1	fmrio.com
@@ -137,23 +134,23 @@
 127.0.0.1	galerisenimutiara.com
 127.0.0.1	geoxsecurity.ro
 127.0.0.1	gestionycobranzas.com
-127.0.0.1	gestroom.it
 127.0.0.1	globalbank.us
+127.0.0.1	globalsupportupdate.top
+127.0.0.1	gobiotechpestcontrol.com
 127.0.0.1	grantexx.com
 127.0.0.1	grupomcperu.com
 127.0.0.1	gutando.com
 127.0.0.1	harmeetmotors.com
 127.0.0.1	hasalltalent.com
+127.0.0.1	hip-hop-comms.com
 127.0.0.1	hitman-pro.ru
 127.0.0.1	hitstation.nl
 127.0.0.1	hobobot.net
 127.0.0.1	hseda.com
 127.0.0.1	htdentshop.com
 127.0.0.1	icoffeecloud.com
-127.0.0.1	ignetwork.us
 127.0.0.1	igra123.com
 127.0.0.1	ikincielesyaciankara.com.tr
-127.0.0.1	iloveboats.st
 127.0.0.1	impectorinternational.com
 127.0.0.1	indusenterprises.co
 127.0.0.1	ircftp.net
@@ -176,15 +173,14 @@
 127.0.0.1	lindnerelektroanlagen.de
 127.0.0.1	local-update.com
 127.0.0.1	lomejordesalamanca.es
+127.0.0.1	loop-lumen.com
 127.0.0.1	luizmatoso.com.br
 127.0.0.1	lumacrea.com
 127.0.0.1	luminouspower.com.pk
 127.0.0.1	m.jkoa.co.kr
 127.0.0.1	m.meta-dm.com
 127.0.0.1	maidforyou1985.com
-127.0.0.1	mail.quietsurfwi.help
 127.0.0.1	malupieng.com.br
-127.0.0.1	metrics.gocloudmaps.com
 127.0.0.1	miriamgualda.com.br
 127.0.0.1	mitreart.com
 127.0.0.1	mkconstructions.net
@@ -193,12 +189,12 @@
 127.0.0.1	mrsweaterltd.com
 127.0.0.1	muaklekcoop.com
 127.0.0.1	muledo.com
-127.0.0.1	multiplay.at
 127.0.0.1	munihuacho.gob.pe
 127.0.0.1	mysura.it
 127.0.0.1	n.vs108.com
 127.0.0.1	ncxps.com
 127.0.0.1	noithaticon.vn
+127.0.0.1	northernvirginiaeyeassociates.com
 127.0.0.1	nusatoyota.co.id
 127.0.0.1	ny.lshdw.cc
 127.0.0.1	ojang.pe.kr
@@ -209,10 +205,9 @@
 127.0.0.1	outpost.co.ke
 127.0.0.1	p3.zbjimg.com
 127.0.0.1	palharesinformatica.com.br
+127.0.0.1	panel.mkk9991999912.observer
 127.0.0.1	pay.aqiu6.com
 127.0.0.1	pcupd.com
-127.0.0.1	pdf-editore.com
-127.0.0.1	pdfmun.software
 127.0.0.1	PEDIANOW.ORG
 127.0.0.1	pfatrivandrum.org
 127.0.0.1	pic.li
@@ -225,7 +220,6 @@
 127.0.0.1	public.demo.securecloudsandbox.com
 127.0.0.1	pvsa.gxfugy.cn
 127.0.0.1	qiniuyunxz.yxflzs.com
-127.0.0.1	quietsurfwi.help
 127.0.0.1	qv.co.ke
 127.0.0.1	rabbitfuns.su
 127.0.0.1	ramirex.ro
@@ -267,11 +261,11 @@
 127.0.0.1	shqdown.ggzuhao.com
 127.0.0.1	siaasesoria.com.mx
 127.0.0.1	signageinsignia.co.za
-127.0.0.1	signaturenib.rest
 127.0.0.1	sk-comtel.com
 127.0.0.1	smartermail.host
 127.0.0.1	snowproject.lol
 127.0.0.1	soft.110route.com
+127.0.0.1	software-gateway.click
 127.0.0.1	spa-com.com
 127.0.0.1	spgint.com
 127.0.0.1	static.ilclock.com
@@ -304,7 +298,7 @@
 127.0.0.1	top8onlinegame.com
 127.0.0.1	topmark-tuitioncentre.co.uk
 127.0.0.1	tpp.om-stock.com
-127.0.0.1	traderhype.com
+127.0.0.1	tr.zhzy999.net
 127.0.0.1	transparenciacanaa.com.br
 127.0.0.1	trtmyanmar.com
 127.0.0.1	twitch.tj
@@ -321,6 +315,7 @@
 127.0.0.1	vizyonuniversitesi.com.tr
 127.0.0.1	vizyonuniversitesi.web.tr
 127.0.0.1	vrajras.com
+127.0.0.1	webcstore.pw
 127.0.0.1	website.mypetapp.co.za
 127.0.0.1	widexenmexico.com.mx
 127.0.0.1	windomstatetheater.com
@@ -340,11 +335,9 @@
 127.0.0.1	www.cutting-edge.in
 127.0.0.1	www.drgenov.com
 127.0.0.1	www.first-security-verden.de
-127.0.0.1	www.gestroom.it
 127.0.0.1	www.hostingcloud.science
 127.0.0.1	www.hqsblog.com
 127.0.0.1	www.hseda.com
-127.0.0.1	www.iloveboats.st
 127.0.0.1	www.intelligradeeducation.vicentecisnerospub.com
 127.0.0.1	www.jozefinskiatelje.si
 127.0.0.1	www.kenwillzltd.com
@@ -356,11 +349,12 @@
 127.0.0.1	www.nccommunication.be
 127.0.0.1	www.newkey.co.kr
 127.0.0.1	www.notbak.com
+127.0.0.1	www.ojang.pe.kr
 127.0.0.1	www.okhan.net
-127.0.0.1	www.oringosmod.com
 127.0.0.1	www.pingu.surf
 127.0.0.1	www.pointtohealth.com
 127.0.0.1	www.reifenquick.de
+127.0.0.1	www.ryzhe.com
 127.0.0.1	www.saf-oil.ru
 127.0.0.1	www.salonmarketing.ca
 127.0.0.1	www.sgeseducation.com
@@ -382,6 +376,6 @@
 127.0.0.1	yakult-hk.com
 127.0.0.1	youtransfer.net
 127.0.0.1	zamilgroups.com
-127.0.0.1	zhigao5191.com
+127.0.0.1	zetaval.metcalfphoto.com
 127.0.0.1	zycdjz.com
-# Number of entries: 378
+# Number of entries: 372
