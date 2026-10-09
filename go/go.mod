@@ -2,8 +2,8 @@ module hosts
 
 go 1.26.0
 
-toolchain go1.27.1
+toolchain go1.27.2
 
-require golang.org/x/net v0.59.0
+require golang.org/x/net v0.60.0
 
 require golang.org/x/text v0.42.0 // indirect
