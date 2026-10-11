@@ -4,6 +4,6 @@ go 1.26.0
 
 toolchain go1.27.2
 
-require golang.org/x/net v0.60.0
+require golang.org/x/net v0.61.0
 
-require golang.org/x/text v0.42.0 // indirect
+require golang.org/x/text v0.43.0 // indirect
