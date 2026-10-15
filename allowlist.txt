@@ -15,6 +15,7 @@ www.gstatic.com
 t1.gstatic.com
 t2.gstatic.com
 t3.gstatic.com
+storage.googleapis.com
 
 # Instagram
 i.instagram.com
