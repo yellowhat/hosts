@@ -21,9 +21,9 @@ upstreams:
   strategy: parallel_best
   groups:
     default:
-      - https://blank.dnsforge.de/dns-query
-      - https://cloudflare-dns.com/dns-query
-      - https://dns.quad9.net/dns-query
+      - quic://blank.dnsforge.de
+      - quic://9.9.9.9:853
+      # Not DNS over QUIC, yet
       - https://unfiltered.joindns4.eu/dns-query
 
 bootstrapDns:
