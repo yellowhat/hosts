@@ -1,5 +1,5 @@
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 16OCT26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 19OCT26 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -314,7 +314,6 @@ coolguesthouse.com
 coordinatedcoat.com
 copycarpenter.com
 copyrightaccesscontrols.com
-copytitle.com
 copyvibes.com
 coralreverie.com
 coralwatches.com
@@ -352,7 +351,6 @@ cuddlylunchroom.com
 culturedcamera.com
 culturedfeather.com
 cumbersomecarpenter.com
-cumbersomecloud.com
 curbminers.com
 curbneon.com
 curiouschalk.com
@@ -535,6 +533,7 @@ fewjuice.com
 fewkittens.com
 filtercutter.com
 finalizeforce.com
+finalleague.com
 financefear.com
 firecatfilms.com
 fireworkcamp.com
@@ -756,6 +755,7 @@ justicejudo.com
 justpickaname.com
 justwebcards.com
 keenquill.com
+kibbleandbytes.com
 kidpowers.com
 kindhush.com
 kitetuning.com
@@ -840,7 +840,6 @@ meddleplant.com
 mediatescarf.com
 mediavine.com
 mediumshort.com
-mellowbike.com
 mellowhush.com
 melodiouschorus.com
 melodiouscomposition.com
@@ -932,7 +931,6 @@ oafishchance.com
 oafishobservation.com
 objecthero.com
 obscenesidewalk.com
-observantice.com
 offerniche.com
 offgridcrops.com
 offshorecyclone.com
@@ -1477,6 +1475,7 @@ texturetrick.com
 thejavalane.com
 therapeuticcars.com
 thesolartime.com
+thickticket.com
 thingsafterthought.com
 thingstaste.com
 thinkitten.com
@@ -1644,6 +1643,7 @@ wtaccesscontrol.com
 xovq5nemr.com
 yieldingwoman.com
 yourlifedream.com
+zealousfield.com
 zephyrcatalyst.com
 zephyrlabyrinth.com
 zeppelinradio.com
