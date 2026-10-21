@@ -1,5 +1,5 @@
 # renovate: datasource=docker depName=docker.io/golang
-GOLANG_VER := "1.27.2"
+GOLANG_VER := "1.27.3"
 
 set shell := ["bash", "-o", "errexit", "-o", "nounset", "-o", "pipefail", "-c"]
 
