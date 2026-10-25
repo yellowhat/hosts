@@ -19,6 +19,7 @@ env:
 # Generate new adlist
 adlist:
     (cd go && go build -o /tmp/out)
+    rm -rf raw
     /tmp/out
 
 # Run blocky container detached
