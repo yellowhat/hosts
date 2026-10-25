@@ -1,7 +1,7 @@
 ---
 name: Clean - Workflow
 
-on: # yamllint disable-line rule:truthy
+on:  # yamllint disable-line rule:truthy
   schedule:
     - cron: "0 6 * * 1" # UTC
   workflow_dispatch:
