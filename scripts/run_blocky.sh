@@ -14,7 +14,7 @@ docker run \
     --publish 5353:5353/udp \
     --publish 8053:8053/tcp \
     --publish 8053:8053/udp \
-    --publish 8080:8080/tcp \
+    --publish 8081:8080/tcp \
     --volume ./config.yaml:/app/config.yml:ro \
     --volume ./adlist.txt:/app/adlist.txt:ro \
     --security-opt label=disable \
