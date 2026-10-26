@@ -21,6 +21,9 @@ storage.googleapis.com
 i.instagram.com
 
 # Microsoft
+github.com
+raw.githubusercontent.com
+release-assets.githubusercontent.com
 login.microsoftonline.com
 go.microsoft.com
 
