@@ -23,7 +23,7 @@ for provider in "${providers[@]}"; do
     )
 
     podman run \
-        --name "blocky" \
+        --name dnspyre \
         --interactive \
         --tty \
         --rm \

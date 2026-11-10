@@ -6,6 +6,7 @@ import (
 	"net"
 	"regexp"
 	"strings"
+	"unicode/utf8"
 
 	"golang.org/x/net/idna"
 )
@@ -33,7 +34,7 @@ func validateDomainName(host string) error {
 }
 
 func isRegex(host string) bool {
-	return strings.HasPrefix(host, "/") && strings.HasSuffix(host, "/")
+	return len(host) >= 2 && strings.HasPrefix(host, "/") && strings.HasSuffix(host, "/")
 }
 
 func validateHostsListEntry(host string) error {
@@ -50,26 +51,27 @@ func validateHostsListEntry(host string) error {
 	return validateDomainName(host)
 }
 
-func normalizeHostsListEntry(host string) (string, error) {
-	var err error
-	var hostUnicode string
-	// Lookup is the profile preferred for DNS queries, we use Punycode here as it does less validation.
-	// That avoids rejecting domains in a list for reasons that amount to "that domain should not be used"
-	// since the goal of the list is to determine whether the domain should be used or not, we leave
-	// that decision to it.
-	idnaProfile := idna.Punycode
+// idnaProfile maps an entry to the form DNS clients put on the wire: UTS #46 lookup mapping
+// (case folding, NFC, width folding), then punycode. STD3 and label validity checks are off,
+// they reject entries for reasons that amount to "that domain should not be used".
+var idnaProfile = idna.New(idna.MapForLookup(), idna.StrictDomainName(false), idna.ValidateLabels(false))
 
+func normalizeHostsListEntry(host string) (string, error) {
 	// remove optional start and end markers for ABP styled lists
 	host = strings.TrimPrefix(host, "||")
 	host = strings.TrimSuffix(host, "^")
 
+	// URL-style IPv6 literal, as in "||[2001:db8::1]^"
+	if ip, ok := unwrapIPv6Literal(host); ok {
+		return ip, nil
+	}
+
 	if !isRegex(host) {
-		hostUnicode, err = idnaProfile.ToUnicode(host)
-		if err != nil || hostUnicode == host {
-			host, err = idnaProfile.ToASCII(host)
-			if err != nil {
-				return "", fmt.Errorf("%w: %s", err, host)
-			}
+		var err error
+
+		host, err = toASCII(host)
+		if err != nil {
+			return "", err
 		}
 	}
 
@@ -77,5 +79,63 @@ func normalizeHostsListEntry(host string) (string, error) {
 		return "", err
 	}
 
-	return host, nil
+	// Blocky strips the root dot from query names, so "example.com." would never match
+	return strings.TrimSuffix(host, "."), nil
+}
+
+func unwrapIPv6Literal(s string) (string, bool) {
+	if len(s) < 2 || s[0] != '[' || s[len(s)-1] != ']' {
+		return "", false
+	}
+
+	ip := s[1 : len(s)-1]
+	if !strings.Contains(ip, ":") || net.ParseIP(ip) == nil {
+		return "", false
+	}
+
+	return ip, true
+}
+
+// toASCII only runs IDNA on entries with non-ASCII bytes or an "xn--" prefix, it is slow.
+func toASCII(host string) (string, error) {
+	if !needsIDNA(host) {
+		return host, nil
+	}
+
+	ascii, err := idnaProfile.ToASCII(host)
+	if err != nil {
+		return "", fmt.Errorf("%w: %s", err, host)
+	}
+
+	// A label that vanishes in the mapping would turn "*.com.xn--" into "*.com."
+	if nonEmptyLabels(ascii) < nonEmptyLabels(host) {
+		return "", fmt.Errorf("label vanishes in IDNA mapping: %s", host)
+	}
+
+	return ascii, nil
+}
+
+// nonEmptyLabels counts labels with content, UTS #46 also maps the ideographic
+// and fullwidth full stops to '.'
+func nonEmptyLabels(s string) int {
+	n, inLabel := 0, false
+
+	for _, r := range s {
+		switch r {
+		case '.', '\u3002', '\uff0e', '\uff61':
+			inLabel = false
+		default:
+			if !inLabel {
+				n++
+				inLabel = true
+			}
+		}
+	}
+
+	return n
+}
+
+func needsIDNA(host string) bool {
+	return strings.ContainsFunc(host, func(r rune) bool { return r >= utf8.RuneSelf }) ||
+		strings.Contains(strings.ToLower(host), "xn--")
 }
