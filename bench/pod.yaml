@@ -1,0 +1,72 @@
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: blocky-bench
+spec:
+  initContainers:
+    - name: config
+      image: docker.io/mikefarah/yq:4.54.3
+      securityContext:
+        runAsUser: 0
+      command: [sh, -c]
+      args:
+        - |
+          yq '
+            .upstreams.groups.default = ["127.0.0.1:5301"]
+            | del(.bootstrapDns)
+            | del(.blocking)
+            | del(.dnssec)
+            | del(.caching)
+            | .queryLog.type = "none"
+          ' /in/config.yaml > /out/config.yml
+      volumeMounts:
+        - name: in-config
+          mountPath: /in/config.yaml
+          readOnly: true
+        - name: config
+          mountPath: /out
+  containers:
+    - name: blocky
+      image: ghcr.io/0xerr0r/blocky:v0.36.0
+      env:
+        - name: GOMAXPROCS
+          value: "2"
+        - name: BLOCKY_CONFIG_FILE
+          value: /config/config.yml
+      ports:
+        - name: dns
+          containerPort: 5353
+          hostPort: 8053
+          protocol: UDP
+      resources:
+        limits:
+          cpu: "2"
+      volumeMounts:
+        - name: config
+          mountPath: /config
+          readOnly: true
+    # Stub upstream: answers every A query with 10.0.0.1, TTL 1h (so blocky can cache)
+    - name: stub
+      image: docker.io/library/alpine:latest
+      command: [ash, -c]
+      args:
+        - |
+          apk add dnsmasq
+          exec dnsmasq \
+              --keep-in-foreground \
+              --listen-address=127.0.0.1 \
+              --port=5301 \
+              --no-resolv \
+              --no-hosts \
+              --bind-interfaces \
+              --cache-size=0 \
+              --local-ttl=3600 \
+              --address=/#/10.0.0.1
+  volumes:
+    - name: in-config
+      hostPath:
+        path: ../config.yaml
+        type: File
+    - name: config
+      emptyDir: {}

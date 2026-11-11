@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Benchmark providers
+# Benchmark upstream providers
 set -euo pipefail
 
 # renovate: datasource=docker depName=ghcr.io/tantalor93/dnspyre
@@ -24,7 +24,6 @@ for provider in "${providers[@]}"; do
         --probability 0.33
         https://raw.githubusercontent.com/Tantalor93/dnspyre/master/data/1000-domains
     )
-
     podman run \
         --name dnspyre \
         --interactive \
