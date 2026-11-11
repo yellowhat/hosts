@@ -39,3 +39,21 @@ clean:
         **/.pytest_cache \
         **/.pytype \
         **/.mypy_cache
+
+# Start environment to benchmark
+[group("benchmark")]
+[working-directory: "./bench"]
+bench-env:
+    podman kube play pod.yaml --replace
+
+# Start benchmark
+[group("benchmark")]
+[working-directory: "./bench"]
+bench-run:
+    bash 00_dnspyre_blocky.sh
+
+# Stop pod used for benchmark
+[group("benchmark")]
+[working-directory: "./bench"]
+bench-stop:
+    podman kube down pod.yaml
