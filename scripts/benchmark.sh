@@ -2,6 +2,9 @@
 # Benchmark providers
 set -euo pipefail
 
+# renovate: datasource=docker depName=ghcr.io/tantalor93/dnspyre
+DNSPYRE_VER=v3.12.0
+
 providers=(
     https://dns.quad9.net/dns-query
     quic://9.9.9.9:853
@@ -27,5 +30,5 @@ for provider in "${providers[@]}"; do
         --interactive \
         --tty \
         --rm \
-        ghcr.io/tantalor93/dnspyre:v3.12.0 "${args[@]}"
+        "ghcr.io/tantalor93/dnspyre:$DNSPYRE_VER" "${args[@]}"
 done
