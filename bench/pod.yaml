@@ -28,7 +28,7 @@ spec:
           mountPath: /out
   containers:
     - name: blocky
-      image: ghcr.io/0xerr0r/blocky:v0.36.0
+      image: ghcr.io/0xerr0r/blocky:v0.37.0
       env:
         - name: GOMAXPROCS
           value: "2"
